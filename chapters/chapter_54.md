@@ -1,185 +1,171 @@
 # Part III: Ponzi
 
-## Chapter 54
+## Chapter 55
 
 ---
 
-Now it was Jie's turn to watch Wei-Dong, as he typed furiously at his keyboard, reaching out to hundreds of Mechanical Turks who'd said, "Yes, yes, we're on your side; yes, we're tired of the crummy pay and of always having the threat of being fired over our heads." He reached out to them and what he told them all was:
+No one in Command Central would meet Connor's eye when he came back into the office, his nose swollen and his eyes red and puffy. He grabbed a spare computer from the shelves by the door -- smashed laptops weren't exactly unheard-of in the high-tension environment of Command Central -- and plugged it in and powered it up.
 
-*Now*
+"The markets are going crazy," Bill said in a low voice, while around them, Command Central's denizens -- minus Kaden, who seemed to have been removed for his own good -- made a show of pretending not to listen in. "Huge amounts of gold have hit the market in the past ten minutes, and the price is whipsawing down."
 
-Now it begins, now we are ready, now we move. He sent them links to the YouTube videos of the protests in China, the picket lines in India, the workers who'd begun to walk off the job in Indonesia and Vietnam and Cambodia, saying, "Us too, us all together, us too."
+Connor nodded. "Sure, our normal monetary policy has had to assume that a certain amount of gold would be entering the system from these characters. When they stopped the flow a couple weeks ago, we had to pick up production to keep inflation down. I had assumed that they were too busy fighting to mine any more gold, but it looks like they spent that time building up their reserves. Now that they're dumping it --"
 
-Only it wasn't working the way it was supposed to. The Mechanical Turks had been happy enough to seed a little disinformation, to pass on some weird-sounding stock-tips or to look the other way when the Webblies were fighting the Pinkertons, but they balked at going to Coke and saying, "We demand, we want, we are all one." Just from their typing, he could feel their fear, the terror that they might find themselves without a job next month, that they might be the only ones who stood up.
+"Can you do something about it?"
 
-But not all of them. First one, then five, then fifty, and finally over a hundred of his Turks were with him, ready to put their names to a list of dues-paying Webblies who wanted to bargain as a group with Coke for a better deal. That was only 20 percent of what he'd bargained for, but they still accounted for 35 of the top fifty performers on the Webbly leaderboards.
+Connor thought. All the peace and serenity he'd attained just an hour ago, when he was a man with nothing to lose, was melting away. He had the curious sensation of his muscles returning to their habitual, knotted states. But a new clarity descended on him. He'd been thinking of the Webblies as a pack of gang-kids, fighting a gang-war with their former bosses. This business, though, was sophisticated beyond anything that some gangsters would kick up. It was an act of sophisticated economic sabotage.
 
-He kept up a running account for Jie, muttering in Chinese to her between messages and quick voice calls.
+"I'd better talk to this kid," he said, quickly paging through the data, setting up feeds, feeling the return of his fingerspitzengefuhl.
 
-"Now what?" she said. She was jammed up in a corner of the room, resting on her sweater, which she'd spread out over the filthy mattress, eyes barely open.
+Bill made a sour face. "You think they're for real?"
 
-"Now I call Coke," he said. He had talked this over with Big Sister Nor a dozen times, iterating through the plan, even role-playing it with The Mighty Krang playing the management on the other end. But that didn't mean that he was calm -- anything but, he felt like he might throw up at any instant.
+"I think we can't afford to assume they aren't." The voice was someone else's. He recognized it: the voice of a company man doing the company's business.
 
-"How is that supposed to work?"
+A few minutes later, he said, "This is Connor Prikkel. I understand you needed to speak to me?"
 
-He closed his eyes, which were burning with exhaustion and dried tears. "Are you hungry?"
+"Mr Prikkel, it is very good to speak with you." The voice had a heavy Indian accent, and the background was flavored with the unmistakable sound of gamers at their games, shooting, shouting.
 
-She nodded. "I was thinking of going upstairs for some dumplings," she said.
+Bill, listening in with his own earpiece, shook his head. "That's not the kid."
 
-"Bring me some?"
+"I'm here too." This voice was young, unmistakably American. When it cut in, the background changed, no gamers, no shouting. These two were in different rooms. He had an intuition that they might be in different *countries*, and he remembered all the battles he'd spied upon in which the sides were from all over Asia and even Eastern Europe, South America and Africa.
 
-She got up and walked unsteadily to the door. She pulled a compact out of her purse and looked at herself, made a face, then said, "Tea?"
+"Mr Prikkel -- Doctor Prikkel," Connor supressed a laugh. The PhD was purely honorary, and he never used it. "My name is Ashok Balgangadhar Tilak. Allow me to begin by saying that, having read your publications and watched dozens of your presentations, I consider you to be one of the great economics thinkers of our age."
 
-He'd drunk tea for years, but right now he needed coffee, no matter how American that made him feel. "Coffee," he said. "Two coffees."
+"Thank you, Mr Tilak," Connor said. "But --"
 
-She smiled a sad little smile. "Of course. I'll bring a syringe, too."
+"So it is somewhat brash of me to say what I am about to say. Nevertheless, I will say it: We own your games. We control the underlying assets against which a critical mass of securities have been written; further, we control the substantial number of those securities and can sell them as we see fit, through a very large number of dummy accounts. Finally, we have orders in ourselves for many of the sureties that you have used to hedge this deal, orders that will automatically execute should you try to float more to absorb the surplus."
 
-But he was already back at his computer, screwing in his borrowed earwig, dialling in on the employee-only emergency number.
+Connor typed furiously. "You don't expect me to take your word for this?"
 
-"Co' Cola Games level two support, this is Brianna speaking," the voice was flat, American, bored, female, Hispanic.
+"Naturally not. I expect you to look to the example of Mushroom Kingdom. And to the turmoil in Svartalfaheim Warriors. Then I'd suggest that you cautiously audit the books for Zombie Mecha and Clankers."
 
-"I need to speak to someone in operations," he said. "This is Leonard Rosenbaum, Turk number 4446E764."
+"I will." Again, that company man's voice, from so far away. The feeds were confirming it, though, the trading volume was insane, but underneath it all there was a sense of *directedness*, as though someone were making it all happen.
 
-"Hello, Leonard. Can I have the fifth letter of your security code?"
+"Very good."
 
-He had to think hard for a moment. Like the name Leonard Rosenbaum, like his entire American life, the security code he used to communicate with his employers seemed like it was in a distant fairytale land. "K for kilo," he said. "No, wait, Z for Zulu."
+"Now, I suppose there's something coming here. Blackmail, I'm guessing. Cash."
 
-"And the second letter?"
+"Nothing of the sort," said the Indian man, sounding affronted. "All we're after is peace."
 
-"A for alpha."
+"Peace."
 
-"OK, Leonard, what can I do for you?"
+"Exactly. I can undo everything we've done, put the markets back together again, stop the bleeding by unwinding the trades very carefully and very gently, working with you to make a soft landing for everyone. The markets will dip, but they'll recover, especially when you make the announcement."
 
-"I need to speak to someone in operations," he said. "Level four, please."
+"The announcement that we've made peace with you."
 
-"What do you need to speak to operations about, please?" He could hear her clicking away at her screen, looking up the escalation procedures. Technically it wasn't supposed to be possible to go from level two support to level four without going through level three. But the entire escalations manual was available in the private discussion forums on the unofficial Turk groups if you knew where to look for them.
+"Oh yes," Ashok said. "Of course. Your employers expect that you can run your economy like a toy train set, on neat rails. But we know better. Gold-farming is an inevitable consequence of your marketplace, and that pushes the train off the rails. But imagine this: what if your employer were to recognize the legitimacy of gold farming as a practice, allowing our workers to participate as legitimate actors in a large and complex economy. Our exchanges would move above-ground, where you could monitor them, and we would meet regularly with you to discuss our membership's concerns and you would tell us about your employers' concerns. There would still be underground traders, of course, but they would be pushed off into the margins. Every decent farmer in the world wants to join the Webblies, for we represent the best players and everyone knows it. And we'll be at every non-union farm-site in every game, talking to the workers about the deal they will get if they band with us."
 
-"I, uh, I think I found someone, who was, like, a pedophile? Like he might have been trying to get some kids to give him their RL addresses?" Kid-diddlers, mafia, terrorists or pirates, the four express tickets to level four support. Anything that meant calling in the federal cops or the international ones. He figured that a potential pedophile would have just the right amount of ick to get him escalated without the call being sent straight to the cops.
+"And all we have to do is... what?"
 
-Brianna typed something, read something, muttered "Just a minute, hon," read some more. "OK, level four it is." She parked him on hold.
+"Cooperate. Union gold that comes out of Coke's games will be legitimate and freely usable. We'll have a cooperative that buys and sells, just like today's exchange markets, but it will all be above-board, transparently governed by elected managers who will be subject to recall if they behave badly."
 
-Jie came back with a styrofoam clamshell brimming over with steaming dumplings and a bottle of nuclear-hot Vietnamese rooster sauce and a pair of chopsticks. She picked one up, blew on it, dipped it in the sauce and held it out to him. He popped it into his mouth and chewed it, blowing out at the same time to try to cool off the scalding pork inside. They shared a smile, then the call started up again.
+"So we replace one cartel with another one?"
 
-"Hello, Coca Cola Games, level four ops, Gordon speaking, your name please."
+"Dr Prikkel, I wouldn't ever ask such a thing of you. No, of course not. We don't object to other unionized operations in the space. I have colleagues here from the Construction Worker's Union who are interested in organizing some of these workers. Let there be as many gold exchanges as the market can bear, all certified by you, all run by the workers who create them."
 
-Leonard went through the authentication routine with Gordon again, his password coming more easily to him this time.
+"What about the *players*, Mr Tilak? Do they get a say in this?"
 
-"All right, Leonard, I hear you found a pedophile? One moment while I pull up your interaction history --"
+"Oh, I think the players have already had their say. After all, whom do you suppose is *buying* all this gold?"
 
-"Don't bother," Wei-Dong said, his pulse going so fast he felt like he was going to explode. "I made that up."
+"And you expect me to make all this happen in an hour?"
 
-"Did you." It wasn't really a question.
+The American kid broke in. "45 minutes now."
 
-"I need to speak to Command Central," he said. "It's urgent."
+"Of course not. Today, all we seek is an agreement *in principle*. Obviously, this is the kind of thing that Coca Cola Games's board of directors will have to approve. However, we are of the impression that the board is likely to pay close attention to any recommendations brought to it by its chief economist, especially one of your standing."
 
-"I see."
+Connor found himself grinning. These kids -- not just kids, he reminded himself -- were gutsy. And what's more, they were *gamers*, something that was emphatically *not* true of CCG's board, who were as boring a bunch of mighty captains of industry as you could hope to find. "Is that it?"
 
-Wei-Dong waited. This Gordon character was supposed to get angry or sarcastic, not quiet. The pause stretched until he felt he *had* to fill it. "It's about the Webblies, I have a message for Command Central."
+"No." It was the American kid again. He consulted his notes. Leonard Rosenbaum. In LA. Except Bill was pretty sure this kid was in Asia somewhere. He suspected there was a story in there.
 
-"Uh huh."
+"Hello, Leonard."
 
-Oh, for Christ's sake. "Gordon, listen. I know you think I'm just a kid and you probably think I'm full of crap, but I *need to speak to Command Central right now.* I promise you, if you don't connect me with them, you'll regret it."
+"Hi, Connor. I'm emailing you a list of names right now."
 
-"I will, will I? Well, listen, Leonard, I've been looking at your interaction history and you certainly seem like an efficient worker, so I'm going to go easy on you. *You* can't talk to Command Central. Period. Tell me what you want, and I'll see that someone gets back to you."
+"I see it." The message popped up in his public account, the one that was usually filtered by an intern before he saw it. He grabbed it, saw that it had been encrypted to his public key, decrypted it. It was a list of names, with numbers beside them. "OK, go ahead."
 
-*This* was something Wei-Dong had prepared for. "Gordon, please relay the following to Command Central. Do you have a pen?"
+"That's the names of Turks who've joined the Webblies."
 
-"Oh, this is *all* being recorded." There was the sarcasm he'd been waiting for. He was getting under his skin. Right.
+"You've got Turks who want to moonlight as gold farmers?"
 
-"Tell them that I represent the Industrial Workers of the World Wide Web, Local 56, and that we need to speak with Coca Cola Games's Chief Economist immediately in order to avert a collapse on the scale of the Mushroom Kingdom disaster. Tell them that we have two hours to act before the collapse takes place. Did you get that?"
+"No." The boy said, speaking as though to an idiot. "I've got Turks who want to join a union."
 
-"What? You're kidding --"
+"The Webblies."
 
-"I'm serious. I'll hold while you tell them." He muted the connection and immediately dialled back to Singapore and told Justbob what had happened. She assured him that they'd get their economist on the line as quickly as possible and put him on hold. He bridged both calls into his earpiece but isolated them so that they wouldn't be able to hear him, then told Jie what had just happened.
+"The Webblies."
 
-"When can I interview you about this for the radio show?"
+Connor snorted. "I see. And is this union certified under US labor law? Have you considered the fact that you are all independent contractors and not employees?"
 
-He swallowed. "I think maybe never. Part of this story can probably never be publicly told. We'll ask BSN, OK?"
+The boy cut in. "Yes, yes, all of that. But these are your best Turks, and they're Webblies, and we're all in it together."
 
-She made a face, but nodded. And now there was Gordon.
+"You know, they'll never go for it."
 
-"Leonard, you there, buddy?"
+"Your teamsters are unionized. Your *janitors* are unionized. Now your Mechanical Turks are --"
 
-"I'm here," he said.
+"Son, you're not a union. Under US law, you're nothing."
 
-"You're logging in from a lot of proxies lately. Where exactly are you located? We have you in LA."
+The Indian man cleared his voice. "That is all true, but this is likewise true of IWWWW members around the world in all their respective countries. Many countries prohibit *all* unions. And we ask you to recognize these workers' rights."
 
-"I'm not in LA," Wei-Dong said, grinning. "I'm a little ways off from there. You don't need to know where. How's it coming with Command Central, Gordon? Time's a-wastin'." Keep the pressure up, that was a critical part of the plan. Don't give them time to think. Get them to run around like headless chickens.
+"We're not those workers' employers."
 
-"I'm on it," Gordon said. He swallowed audibly. "Look, you're not serious, are you?"
+"You claim you're not *our* employers either," said the boy, with a maddening note of triumph in his voice. "Remember? We're 'independent contractors', right?"
 
-"You saw what happened to Mushroom Kingdom, right?"
+"Exactly."
 
-"I saw."
+"Dr Prikkel, let me explain. The IWWWW is open to all workers, regardless of nationality or employment, and it will work for all those workers' rights, in solidarity. Our gold farmers will stand up for our Mechanical Turks, and vice versa."
 
-"OK then," Wei-Dong said. He'd been warned not to admit to any wrongdoing personally.
+"Goddamned right," said the boy. "An insult to one --"
 
-"You're serious?"
+"Is an insult to all. The gold farmers have a modest set of demands: modest benefits, job security, a pension plan. All the same things that we plan on asking our farmers' employers for. Nothing your division can't afford."
 
-"You know, 15 minutes have gone by already."
+"Are you saying that your demands are contingent on recognizing the demands from Mr Rosenbaum's friends."
 
-Another swallow. "I'll be right back."
+"Precisely."
 
-A new line cut in, different background noise, chaotic, lots of chatter. Gordon had probably been a teleworker sitting in his underwear in his living room. This was different. This was a room filled with angry, arguing people who were typing on keyboards like machineguns.
+"And you will destroy the economy of Svartalfaheim Warriors in 45 minutes --"
 
-"This is William Vaughan, head of security for Coca Cola Games. Hello, Leonard."
+"38 minutes," said the kid.
 
-"Hello, Mr Vaughan." Leonard said. Be polite. That was part of the plan, too. Real operators were grownups, polite, businesslike. "May I speak with Connor Prikkel, please?" Prikkel's name had been easy enough to google. Wei-Dong had spent some time watching videos of the man at conferences. He seemed like an awkward, super-brainy academic type run to fat. He typed a quick one-handed message to Justbob: *Got cmd ctnrl, where r u?</em>
+"Unless I agree *in principle* that we will do this?"
 
-"Mr Prikkel is away from the office. I have been asked to speak with you in his stead."
+"You have summed it all up admirably," said the Indian economist. "Well done."
 
-He had prepped for this, too. "I'm afraid that I need to talk with Connor Prikkel personally."
+"Can you give me a minute?"
 
-"That's not possible," Vaughan said, sounding like he was barely holding onto his temper.
+"I can give you 38 minutes."
 
-"Mr Vaughan," Wei-Dong said. He hadn't spoken this much English for weeks. It was weird. He'd started to think in Chinese, to dream in it. "I don't know if uh, Gordon told you what I told him --"
+"37," said the kid.
 
-"Yes, he did. That's why you're talking to me now."
+He muted them, and he and Bill stared at each other for a long time.
 
-"Mr Prikkel is qualified to evaluate what I have to say to him. I'm not qualified to understand it. And no offense, I don't think you are either."
+"Is this as crazy as it sounds?"
 
-"I'll be the judge of that."
+"Actually, the crazy part is that it's not all that crazy. Impossible, but not crazy. We already let lots of third parties play with our economies -- independent brokers, the people who buy and sell their instruments. There's no technical reason these characters can't be a part of our planning. Hell, if they can do what they say, we'll be way more profitable than we are now.
 
-Justbob sent him a message back: *5 min*.
+"For one thing, we won't need to crash the servers tracking them all down."
 
-"I've got a better idea," Wei-Dong said. "You get Mr Prikkel and call me back. I'll leave you a voice-chat ID. You can listen in on the call."
+Connor grimaced. "Right. But then there's the impossible part. Leaving out the whole thing about the Turks, which is just *crazy*, there's the fact that the board will never, ever, never, never --"
 
-"How about if I just trace where you're calling *us* from and we call the police? Leonard, kid, you are working on my last good nerve and I'm about to lose it with you. Fair warning."
+Bill held a hand up. "Now, that's where I disagree with you. When you meet with the board, you're always trying to sell them on some weird-ass egghead financial idea that makes them worry that they're going to lose their life's savings. When I go to them, it's to ask them for some leeway to fight scammers and hackers. They understand scammers and hackers, and they say yes. If we were to ask them together --"
 
-Wei-Dong tisked. He was starting to enjoy this. "Mr Vaughan, here's the thing. In --" he looked at the clock -- "about ten minutes,  you’re going to see total chaos in your gold markets. All those contracts that Coke Games has written for gold futures are going to start to slide into oblivion. You can spend the next ten minutes trying to trace me, but you're not going to find me, and even if you do, you're not going to be able to do anything about it, because I am an ocean away from the nearest police force that will give you the time of day." The security man started to choke out a response, but Wei-Dong kept talking. "I'd prefer *not* to destroy the game. I love it. I love playing all these games. You have my record there, you know it. We all feel that way, all the Webblies. It's where we go to work every day. We *want* it to succeed. But we want that to happen on terms that are fair to us. So believe me when I tell you that I am calling to strike a bargain that you can afford, that we can live with and that will save the game and get everything back on track by the end of the day." He looked at the clock again, did some mental arithmetic. "By tomorrow morning, your time, that is."
+"You think this is a good idea?"
 
-He could almost hear the gears turning in Vaughan's head. "You're in Asia, somewhere?"
+"It's a better idea than chasing these kids around gamespace like Captain Ahab chasing the white whale. The formal definition of insanity is doing the same thing repeatedly but expecting a different outcome. It's time we tried something different."
 
-"Is that the only thing that you got from that?"
+"What about the Turks?"
 
-He made a little conciliatory snort. "You're a long way from home, kid. Ten minutes, huh?"
+"What about them?"
 
-Wei-Dong said, "Eight, now. Give or take."
+"They're looking for --"
 
-"That's some pretty impressive economic forecasting."
+"They're looking to take about half a percent out of the company's bottom line, if that. We spend more on your first-class plane tickets to economics conferences every year than they want. Big freakin' deal."
 
-"When you've got 400,000 gold farmers working with a few thousand Mechanical Turks, you can do some pretty impressive things." The numbers were all inflated. But Vaughan would assume they were. If Wei-Dong had given him the real numbers, he'd have underestimated their strength. He liked how this was going.
+"But if we give in on this thing, they'll ask for more."
 
-*2 min more* from Justbob.
+"And if we don't give in on this, we're going to spend the next hundred years chasing Chinese and Indian kids around gamespace instead of devoting our energy to fighting *real* ripoffs and hacker creeps. Security is always about choosing your battles. Every complex ecosystem has parasites. You've got ten times more bacteria cells than blood cells in your body. The trick with parasites is to figure out how to co-exist with them."
 
-"OK, Vaughan, here's how Mr Prikkel can reach me. Sooner, rather than later." He named the ID and the service, one that was run out of the Mangalore Special Economic Zone. It was pretty reliable and easy to sign up for, and they supported strong crypto and didn't log connections. He'd heard that it was a favorite with diplomats from poor countries that couldn't run their own servers.
+"I can't believe I'm hearing you say this."
 
-"Wait --"
+"That's because I'm not a gamer. I don't care who wins. I don't care who loses. I'm a security expert. I care about what the costs are to secure the systems that I'm in charge of. We can let these kids 'win' some little battles, pay the cost for that, and save ten times as much by not having to chase 'em."
 
-"Call me!" he said, and gave him the details once more.
+Connor shook his head. "What about them?" he said, rolling his eyes around the room to encompass the rest of Command Central, most of whom were openly eavesdropping now.
 
-*They'll call me back* he typed to Justbob. *Our guy wasn't there.*
-
-Justbob called him right away, and he heard The Mighty Krang and Big Sister Nor holding another conversation in the background. "You hung up?"
-
-"It wasn't the right guy. I think he was away, maybe on holidays or something. They'll get him on the phone. no worries." But Justbob sounded worried, and he didn't like that. He shrugged mentally. He'd done the best he could, using his best judgement. He'd been shot at, seen his friend killed. He'd smuggled himself halfway around the world. He'd earned some autonomy.
-
-He ate some of the now-cold dumplings and tried not to worry as the time stretched out. Ten minutes, fifteen minutes. Justbob sent more and more impatient notes. Jie fell asleep on the disgusting mattress, her sweater spread out beneath her head, her face girlish and sad in repose.
-
-Then his computer rang.
-
-"Hello?" Texting, *Phone.*
-
-"This is Connor Prikkel. I understand you needed to speak to me?"
-
-*Now* he texted and clicked the button that pulled Justbob and her economist onto the call.
+Bill turned to them. "Hands up: who wants to make and run totally kick-ass games that make us richer than hell?" Every hand shot up. "Who wants to spend their time chasing a bunch of skinny poor kids around instead of just finding a way to neutralize them?" A few hands stayed defiantly in the air, among them Kaden, who had come back into the room while Connor was on the phone and was now glaring at both of them. Bill turned back to Connor. "I think we'll be OK," he said. He jerked his head over his shoulder and said, loudly, "Those goons are so ornery they'd say no if you asked them whether they wanted a lifetime's supply of free ice-cream."

@@ -1,691 +1,615 @@
 # Part II: Hard work at play
 
-## Chapter 16
+## Chapter 17
 
 ---
 
 ## Dedication
 
-This scene is dedicated to San Francisco's Booksmith, ensconced in the storied Haight-Ashbury neighborhood, just a few doors down from the Ben and Jerry's at the exact corner of Haight and Ashbury. The Booksmith folks really know how to run an author event -- when I lived in San Francisco, I used to go down all the time to hear incredible writers speak (William Gibson was unforgettable). They also produce little baseball-card-style trading cards for each author -- I have two from my own appearances there.
+This scene is dedicated to Waterstone's, the national UK bookselling chain. Waterstone's is a chain of stores, but each one has the feel of a great independent store, with tons of personality, great stock (especially audiobooks!), and knowledgeable staff. Of particular note is the Manchester Deansgate store, which has an *outstanding* sf section.
 
-Booksmith http://thebooksmith.booksense.com 1644 Haight St. San Francisco CA 94117 USA +1 415 863 8688
+Waterstones http://www.waterstones.com
 
 ---
 
-Yasmin didn't see Mala anymore.  If you weren't in the gang, "General Robotwallah" didn't want to talk to you.
+Lu didn't know where to go. Boss Wing's dormitories were out of the question, of course. And while he knew a dozen Internet cafes in Shenzhen where he could sit and log on to the game, he didn't really want to be playing just then. Not with everyone else in jail.
 
-And Yasmin didn't want to be in the gang.
+But he had to sit down. He'd been hit hard in the head and on the shoulder and he was very dizzy. He'd thrown up once already, holding onto a bus-stop pole and leaning over the gutter, earning a disapproving cluck from an old woman who walked past hauling a huge barrow full of electronic waste.
 
-She, too, had had a visit from Big Sister Nor. The woman had made sense. They did all the work, they made almost none of the money. Not just in games, either -- her parents had spent their whole lives toiling for others, and those others had gotten wealthier and wealthier, and they'd stayed in Dharavi.
+He had thought of texting Matthew and the others, to find out if the police had them in custody, but he was afraid that the police would track him back if he did, using the phone network to locate him and pick him up.
 
-Mr Banerjee had paid Mala's army more than any other slum-child could earn, it was true, and they were getting paid for playing their game, which  had felt like a miracle -- at first. But the more Yasmin thought about it, the less miraculous it became. Big Sister Nor showed her pictures, in-game, of the workers whose jobs they'd been disrupting. Some had been in Indonesia, some had been in Thailand, some had been in Malaysia, some had been in China. And lots of them had been in India, in Sri Lanka, in Pakistan, and in Bangladesh, where her parents had come from. They looked like her. They looked like her friends.
+It had all felt so *wonderful*. They'd stood up from their computers, chanting angrily, the war-chants from the games, which Boss Wing and his goons never played, and so it had all been totally perplexing to them. Their faces had gone from puzzlement to anger to fear as all the boys in the room stood together and marched out of the cafe, blocking the doorways so that no one could come in.
 
-And *they* were just trying to earn money, too. They were just trying to help their families, the way Mala's army had. "You don't have to hurt other workers to survive," Big Sister Nor told her. "We can all thrive together."
+And there had been girls, and old grannies, and young men stopping to admire them as they stood, shoulder to shoulder, chanting bravely at the cowardly goons from Boss Wing's factory, goons who'd been so tough just a few minutes before, willing to slap you in the head if you talked too much, ready to dock your pay, too. Ever since they'd tried to go out on their own, life had gotten steadily worse. Boss Wing had a huge operation, with plenty of in-game muscle to stand guard against rich players who hunted the gold farmers for sport, but he was cruel and cheap and you were lucky if you saw half the wages you'd earned after all the fines for "breaking rules" had been charged against your salary.
 
-Day after day, Yasmin had snuck into Mrs Dibyendu's Internet cafe before the Army met -- not at Mrs Dibyendu's, but at a new Internet shop a little further down the road, near the women's papadam collective -- and chatted with Big Sister Nor and listened to her stories of how it could be.
+Their phones rang and buzzed with photos from other Boss Wing factories where the workers had gone out too, and there were wars in Mushroom Kingdom as the Webblies kept anyone else from working their zone. And the police came and they'd stayed brave, Matthew and Ping and all his friends. They were workers, they were warriors, they were an army and their cause was just. They would not be intimidated.
 
-She'd never talked about it with anyone else in the army. As far as they knew, she was Mala's loyal lieutenant, sturdy and dependable. She had to enforce discipline in the ranks, which meant keeping the boys from fighting too much and keeping the girls from ganging up on one another with hissing, whispered rumors. To them, she was a stern, formidable fighter, someone to obey unconditionally in battle. She couldn't approach them to say, "Have you ever thought about fighting for workers instead of fighting against them?"
+And then the gas came. And then the clubs started swinging. And then the screams had started. And then Lu had run, run through the stinging clouds of gas and the chaos of battle -- so like and so unlike the million battles he'd fought in the games -- and he'd thrown up and now --
 
-No matter how much Big Sister Nor wanted her to.
+Now he had no idea where to go.
 
-"Yasmin, they listen to you, la, they love you and look up to you. You say it yourself." Her Hindi was strangely accented and peppered with English and Chinese words. But there were lots of funny accents in Dharavi, dialects and languages from across Mother India.
+And then his phone rang. The number was blanked out, which made his pulse hammer in his throat. Did the secret police blank out the number when they called you? But if the secret police knew he existed and had his phone number, they could just pick him up where he stood, using the phone's damned tracking function.
 
-Finally, she agreed to do it. Not to talk to the soldiers, but to talk to Mala, who had been her friend since Yasmin had found her carrying a huge sack of rice home from Mr Bhatt's shop with her little brother, looking lost and scared in the alleys of Dharavi. She and Mala had been inseparable since then, and Yasmin had always been able to tell her anything.
+It wasn't the police. With trepidation, he slid his finger over the talk button on the screen.
 
-"Good morning, General," she said, falling into step beside Mala as she trekked to the community tap with a water-can in each hand. She took one can from Mala and took her now free hand and gave it a sisterly squeeze.
+"Wei?" he said, cautiously.
 
-Mala grinned at her and squeezed back, and the smile was like the old Mala, the Mala from before General Robotwallah had come into being. "Good morning, Lieutenant." Mala was pretty when she smiled, her serious eyes filled with mischief, her square small teeth all on display. When she smiled like this, Yasmin felt like she had a sister.
+"Lu? Is that you?" The call had the weird, echoey sound of a cheap net-calling service, the digital fuzz of packets that travelled third class on the global network. The accent was difficult, too, thick-tongued and off-kilter. He knew the sound and he knew the voice.
 
-They talked in low voices as they waited for the tap, passing gupshup about their families. Mala's mother had met a man at Mr Bhatt's factory, a man whose parents had come to Mumbai a generation before, but from the same village. He'd grown up on stories about life in the village, and he could listen to Mala's ammaji tell stories of that promised land all day long. He was gentle and had a big laugh, and Mala approved. Yasmin's Nani, her grandmother, had been in touch with a matchmaker in London, and she was threatening to find Yasmin a husband there, though her parents were having none of it.
+"*Wei-Dong*?"
 
-Once they had the water, Yasmin helped Mala carry it back to her building, but stopped her before they got there, in the lee of an overhanging chute that workers used to dump bundled cardboard from a second-story factory down to carriers on the ground. The factory hadn't started up yet, so it was quiet now.
+"Yes!"
 
-"Big Sister Nor asked me to talk to you, Mala."
+"Wei-Dong in *America*?" He hadn't heard from the strange gweilo since they'd gone to Boss Wing and Ping had had to kick him out of the guild. Boss Wing didn't allow them to raid with outside people, or even talk to them in game. He had spyware on all his PCs that told him when you broke those rules, and you lost a day's wages for the first offense, a week's wages for the second.
 
-Mala stiffened and her smile faded. They weren't talking as sisters anymore. The hard look, the General Robotwallah look, was in her eyes. "What did she say to you?"
+"Lu, it's me! Look, did I just see you and Ping getting beaten up by the cops?"
 
-"The same she said to you, I imagine. That the people we fight against are also workers, like us. Children, like us. That we can live without hurting others. That we can work with them, with workers everywhere --"
+"I don't know, did you?" The disorientation from his head wound was fierce, and he wondered if he was really having this conversation. It was very strange.
 
-Mala held up her hand, the General's command for silence in the war-room. "I've heard it, I've heard it. And what, you think she's right? You want to give it all up and go back to how we were before? Back to school, back to work, back to no money and no food and being afraid all the time?"
+"I -- I just saw you getting beaten up on a video from Shenzhen. I think I did. Was it you?"
 
-Yasmin didn't remember being afraid all the time, and school hadn't been that bad, had it? "Mala," she said, placatingly. "I just wanted to talk about this with you. You've saved us, all of us in the Army, brought us out of misery and into riches and work. But we work and work for Mr Banerjee, for his bosses, and our parents work for bosses, and the children we fight in the game work for bosses, and I just think --" She drew in a breath. "I think I have more in common with the workers than I do with the bosses. That maybe, if we all come together, we can demand a better deal from all of them --"
+"We just got beaten up," he said. "I'm hurt."
 
-Mala's eyes blazed. "You want to lead the Army, is that it? You want to take us on this mission of yours to make *friends* with everyone, to join with them to fight Mr Banerjee and the bosses, Mr Bhatt who owns the factory and the people who own the game? And how will you fight, little Yasmin?  Are you going to upset the entire world so that it's finally *fair* and *kind* to everyone?"
+"Are you badly hurt? I couldn't reach Ping, so I tried you." He was excited, his voice tight. "What happened?"
 
-Yasmin shrank back, but she took a deep breath and looked into the General's terrible eyes. "What's so wrong with kindness, Mala? What's so terrible about surviving without harming other people?"
+Lu was still grappling with the idea that the gweilo had just called him from thousands of kilometers away. "You saw me on the Internet in America?"
 
-Mala's lip curled up in a snarl of pure disgust. "Don't you know by now, Yasmin? Haven't you figured it out yet? Look around us!" She waved her water can wildly, nearly clubbing an old woman who was inching past, bearing her own water cans. "Look around! You know that there are people all over the world who have fine cars and fine meals, servants and maids? There are people all over the world who have *toilets*, Yasmin, and *running water*, and who get to each have their own bedroom with a fine bed to sleep in! Do you think those people are going to give up their fine beds and their fine houses and cars for *you*? And if they don't give it up, where will it come from? How many beds and cars are there? Are there enough for all of us? In this world, Yasmin, there just isn't enough. That means that there are going to be losers and winners, just like in any game, and you get to decide if you want to be a winner or a loser."
+"Every gamer in the world saw you, Lu! You couldn't have timed it better! After dinner is the busiest time on the servers, and the word went around like nothing I've ever seen before. Everyone in every game was chatting about it, passing around links to the video streams and the photos. It was even on the real news! My neighbor banged on my wall and asked me if I knew anything about it. It was incredible!"
 
-Yasmin mumbled something under her breath.
+"You saw me getting beaten up on the Internet?"
 
-"What?" Mala shouted at her. "What are you saying, girl? Speak up so I can hear you!"
+"Dude, *everyone* saw you getting beaten up on the Internet."
 
-"I don't think it's like that. I think we can be kind to other people and that they will be kind to us. I think that we can stick together, like a team, like the army, and we can all work together to make the world a better place."
+Lu didn't know what to say. "Did I look good?"
 
-Mala laughed, but it sounded forced, and Yasmin thought she saw tears starting in her friend's eyes. "You know what happens when you act like that, Yasmin? They find a way to destroy you. To force you to become an animal. Because *they're* animals. They want to win, and if you offer them your hand, they'll slice off your fingers. You have to be an animal to survive."
+Wei-Dong laughed like a hyena. "You looked *great*!"
 
-Yasmin shook her head, negating everything. "It's not true, Mala! Our neighbors here, they're not animals. They're people. They're good people. We have nothing and yet we all cooperate. We help each other --"
+A dam broke, Lu laughed and laughed and laughed, as all the tension flooded out of him. He finally stopped, knowing that if he didn't he'd throw up again. He was by the train station now, in the heavy foot-traffic, all kinds of people moving purposefully around him as he stood still, a woozy island in the rushing stream. He backed up to a stairwell in front of a beauty parlor and sank to his haunches, squatting and holding the phone to his head.
 
-"Oh fine, maybe you can make a little group of friends here, people who would have to look you in the eye if they did you a dirty trick. But it's a big world. Do you think that Big Sister Nor's friends in Singapore, in China, in America, in Russia -- do you think *they'll* think twice before they destroy you? In Africa, in --" She waved her arm, taking in all the countries she didn't know the names of, filled with teeming masses of predatory workers, ready to take their jobs from them. "Listen: do you really care so much for Chinese and Russians and all those other people? Will you take bread out of your mouth to give it to them? For a bunch of *foreigners* who wouldn't spit on you if you were on fire?"
+"Wei-Dong?"
 
-Yasmin thought she knew her friend, but this was like nothing she'd ever heard from Mala before. Where had all this Indian patriotism come from? "Mala, it's foreigners who own all the games we're playing. Who cares if they're foreigners? Isn't the fact that they're people enough? Didn't you used to rage about the stupid caste system and say that everyone deserved equality?"
+"Yes."
 
-"Deserved!" Mala spat the word out like a curse. "Who cares what you deserve, if you don't get it. Fill your belly with deserve. Sleep on a bed of deserve. See what you get from deserve!"
+"Why are you calling me?"
 
-"So your army is about taking whatever they can get, even if it hurts someone else?"
+There was an uncomfortable silence on the line, broken by soft digital flanging. "I wanted to help you," he said at last. "Help the Webblies."
 
-Mala stood up very straight. "That's right, it's *my* army, Yasmin. My army! And you're not a part of it anymore. Don't bother coming around again, because, because --"
+"You know about the Webblies?" Lu had half-believed that Matthew had made them up, a fantasy army of thousands of imaginary friends who would fight for them.
 
-"Because I'm not your friend or your lieutenant anymore," Yasmin said. "I understand, General Mala Robotwallah. But your army won't last forever and our sisterhood might have, if you'd only valued it more. I'm sorry you are making this decision, General Robotwallah, but it's yours to make. Your karma."  She set down the water-can and turned on her heel and started away, back stiff, waiting for Mala to jump on her back and wrestle her into the mud, waiting for her to run up and hug her and beg her for forgiveness. She got to the next corner, a narrow laneway between more plastic recycling factories, and contrived to look back over her shoulder as she turned, pretending to be dodging to avoid a pair of goats being led by an old Tamil man.
+"Know about them? Lu, they're the ass-kickingest guild in the world! No one can beat them! Coca-Cola Games is sending us three memos a day about them!"
 
-Mala was standing tall as a soldier, eyes burning into her, and they transfixed her for a moment, froze her in her tracks, so that she really *did* have to dodge around the goats. When she looked back again, the General had departed, her skinny arms straining with her water-cans.
+"Why does Coca-Cola send you memos?"
 
-Big Sister Nor told her to be understanding.
+"Oh." More silence. "Didn't I tell you? I'm working for them now. I'm a Turk."
 
-"She's still your friend," the woman said, her voice emanating from the gigantic robot that stood guard over a group of Webbly gold-farmers who were methodically raiding an old armory, clearing out the zombies and picking up the cash and weapon-drops that appeared every time they ran the dungeon. "She may not know it, but she's on the side of workers. The other side -- the boss's side -- they'll use her services, but they'll never let her into their camp. The best she can hope for is to be a cherished pet, a valuable bit of hired muscle. I don't think she'll stay put for that, do you?"
+"Oh," said Lu. He knew about the Turks, but he never really thought about what kind of people would work in ten second increments making up dialog for non-player characters or figuring out what happened when you shot an office chair with a blunderbuss. "That must be interesting."
 
-But it wasn't much comfort. In one morning, Yasmin had lost her best friend and her occupation. She started going to school again, but she'd fallen behind in the work in the six months she'd been away and now the master wanted her to stay back a year and sit with the grade four students, which was embarrassing. She'd always been a good student and it galled her to sit with the younger kids -- and to make things worse, she was tall for her age and towered over them. Gradually, she stopped attending the school.
+Wei-Dong made a wet noise. "It's miserable," he said. "I run four different sessions at once, and I'm barely earning enough to pay the rent. And they make so much money off of us! Last month, they announced quarterly profits and games with Turks are earning 30 percent more than the ones without. They're hiring more Turks as fast as they can -- it's all over the board here. But our wages aren't going up. So I've been thinking of the Webblies, you know..." He trailed off. "Like maybe you guys can help us if we help you? We all play for our money, right? So why shouldn't we be on the same side."
 
-Her parents were outraged, of course. But they'd been outraged when Yasmin had joined the army, too, and her father had beaten her for ten days running, while she refused to cry, refused to have her will broken. In the end, they'd been won over by her stubbornness. And, of course, by the money she brought home.
+"Sounds right to me," Lu said. He was still trying to comprehend the fact that the Webblies were apparently famous with American teenagers. "Wait," he said, playing back Wei-Dong's accented, ungrammatical speech. "You're paying rent?"
 
-Yasmin could handle her parents.
+"Yeah," Wei-Dong said. "Yeah! Living on my own now. It's great! I have a crappy room in a, not sure what you call it, a hotel, kind of. But for people who don't have any money. But I can get wireless here and I've got four machines and there's plenty of stuff I can walk to, at least compared to home --" He began to babble about his favorite restaurants and the clubs that had all-ages nights and a million tiny irrelevant details about Los Angeles, which might as well have been the Mushroom Kingdom for all that it mattered to Lu. He let it wash over him and tried to think of places he could go to recuperate. He fleetingly wished for his mother, who always knew some kind of traditional Chinese remedy for his ailments. They often didn't work, but sometimes they did, and his mother's gentle application of them worked their own magic.
 
-Mrs Dibyendu's Internet Cafe was a sad place now that the Army had moved on. Mala had forced that on Mr Banerjee, and had counted it as a great show of her strength when she prevailed. But Yasmin thought she never would have won the argument if Mrs Dibyendu hadn't been so eager to get rid of the Army.
+He was suddenly, nauseously, overwhelmingly homesick. "Wei-Dong," he said, interrupting the virtual tour of Los Angeles. "I need to think now. I don't know what to do. I'm hurt, I'm on the street, and I can't call anyone in case the police trace the call. What do I do?"
 
-Yasmin doubted that Mrs Dibyendu had anticipated the effect that the Army's departure would have on her little shop, though. Once the Army had gone, every kid in Dharavi had moved with them -- no one under the age of 30 would set foot in the cafe. No one except Yasmin, who now sat there all day long, fighting for the workers.
+"Oh. Well. I don't know exactly. I was hoping that you'd know what *I* should do, to tell you the truth. I want to get involved!"
 
-"You are very good at this," Justbob told her. She was Big Sister Nor's lieutenant, and her Hindi was terrible, so they got by in a broken English that each could barely understand. Nevertheless, Justbob's play was aggressive and just this side of reckless, utterly fearless, and she screamed out fearsome battle-cries in Tamil and Chinese when she played, which made Yasmin laugh even as the hairs on her arms stood up. Justbob liked to put Yasmin in charge of strategy while she led the armies of defenders from around the world who played on their side, defending workers from people like Mala.
+"I think I want to get *uninvolved*." Lu's homesickness was turning to anger. Who was this *boy* to call him from the other side of the world, demanding to "get involved?" Didn't he have enough problems of his own? "What can you do for me from there? What is any of this -- this *garbage* worth? How will everyone going to jail make my life better? How will having my head beaten in help make things better? How?"
 
-"Thank you," Yasmin said, and dispatched a squadron to feint at the left flank of a twenty-cruiser unit of rusting battle-cars that bristled with bolted-on machine-guns and grenade launchers. She mostly played Mad Max: Autoduel and Civilization these days, avoiding Zombie Mecha and the other games that Mala and her Army ruled in. Autoduel was huge now, linked to a reality TV show in which crazy white people fought each other in the deserts in Australia with killer cars just like the ones in the game.
+"I don't know." Wei-Dong's voice was small and hurt. Lu struggled to control his anger. The gweilo wanted to help. It wasn't his fault he didn't know how to help. Lu didn't know how to help, either.
 
-The opposing army bought the feint, turning in a wide arc to present their forward guns to her zippy little motorcycle scouts who must have looked like easy pickings -- the fast dirt-bikes couldn't support any real arms or armor, so each driver was limited to hand-weapons, mostly Uzis on full auto, spraying steel-jacketed rounds toward the heavily armored snouts of the enemy, who returned withering fire with tripod-mounted machine-guns and grenades.
+"I don't know either," Lu said. "Why don't you think about how to help and call me back. I need to find somewhere to rest, maybe a nurse or a doctor. OK?"
 
-But as they turned, they rolled into a double-row of mines Yasmin had laid by stealth at the start of the battle, and then, as the cars rocked and slammed into each other and spun out of control, Justbob's dragoons swept in from the left, and their splendid battle-wagon came in from the right -- a lumbering two-storey RV plated with triple-thick armor, pierced with gun-slits for a battery of flame-throwers and automatic ballistic weapons, mostly firing depleted uranium rounds that cut through the enemy cars like butter. It wasn't hard to outrun the battle-wagon, but there was nowhere for the enemy to go, and a few minutes later, all that was left of the enemy were oily petrol fires and horribly mutilated bodies.
+"Sure," the gweilo said. "Sure. Of course. I'll call you back soon, don't worry."
 
-Yasmin zoomed out and booted her command-trike around a dune to where the work-party continued to labor, doing their job, excavating a buried city full of feral mutants and harvesting its rich ammo-dumps and art-treasures for the tenth time that day. Yasmin couldn't really talk to them -- they were from somewhere in China called Fujian, and besides, they were busy. They'd left their boss and formed a worker's co-op that split the earnings evenly, but they'd had to go heavily into debt to buy the computers to do it, and from what Yasmin understood, their families could be hurt or even killed if they missed a payment, since they'd had to borrow the money from gangsters.
+Every time a Hong Kong train came into the Shenzhen Railway Station, it disgorged a massive crowd of people: Hong Kong people in sharp business styles, rich kids, foreigners, and workers from Shenzhen returning from contracts abroad, clutching backpacks. The dense group got broken up by the taxi-rank and the shopping mall, and emerged as a diffuse cloud onto the street where Lu had been talking. Now he worked his way back through this crowd, listening to snatches of hundreds of conversations about business,  manufacturing -- and gold farming.
 
-It would have been nice if they'd had access to a better source of money, but it certainly wouldn't be Yasmin. Her Army money had run out a few weeks after she'd left Mala, and though the IWWWW paid her a little money to guard union shops, it didn't come to much, especially compared to the money Mr Banerjee had to throw around.
+It was on everyone's lips, talk about the strike, about the police action, about the farmers. Of course most people in China had heard of gold farming and all the stories about the money you could make by just playing video games, but you never heard this kind of business-person talking about it. Not smart, fancy people with obvious wealth and power, the kind of people who skipped back and forth between Hong Kong and Shenzhen, talking rapidly into their earwigs, telling other people what to do.
 
-At least she wasn't hurting other poor people to survive. The goons she'd just wiped out would get paid even though they'd lost. And she had to admit it: this was *fun*. There was a real thrill in playing the game, playing it well, getting this army of people to follow her lead to cooperate and become an unstoppable weapon.
+What had the gweilo said? *Everyone saw you getting beaten up on the Internet!* Were these people looking closely at him? Now it seemed they were. Of course, he was bloody, staring, red-eyed. Why wouldn't they stare at him? But maybe --
 
-Then, Justbob was gone. Not even a hastily typed "gtg," she just wasn't on the end of her mic. And there were crashing sounds, shouts in a language Yasmin didn't speak. Distant screaming.
+"You're one of them, aren't you?" She was 22 or 23, with perfect fingernails on the hand she rested on his arm, coming on him from behind. He gave an involuntary squeak and jump, and she giggled a little. "You must be," she said. She held up her phone. "I watched the video five times on the train. You should see the commentary. So ugly!"
 
-Yasmin flipped over to Minerva, the social networking site that the Webblies favored, as she did a thousand times a day. Minerva had been developed for gamers, and it had all kinds of nice dashboards that showed you what worlds all your friends were in, what kind of battles they were fighting and so on. It was easy to get lost in Minerva, falling into a clicktrance of screencaps of famous battles, trash-talking between guilds, furious arguments about the best way to run a level -- and the endless rounds of gold-farmer bashing. One thing she loved about Minerva was the auto-translate feature, whose database included all kinds of international gamer shorthands and slangs, knowing that Kekekekeke was Korean for LOL and a million other bits of vital dialects. This made Minerva especially useful for the Webblies' global network of guilds, worker co-ops, locals and clans.
+He knew about this. Any time something that made the government look bad managed to find its way online, there was an army of commenters who'd tweet and post and comment about how the government was in the right, how the story was all wrong, how the people in it were guilty of all kinds of terrible things. Lu knew he shouldn't believe any of it, but it was impossible to read it all without feeling a little niggle of doubt, then a little more, and then, like an ice-cube on a bruise, the outrage he'd felt at first would go numb.
 
-Her dashboard was going *crazy*. Webblies from all over the world were tweeting about something happening in China, a big strike from a group of gold-farmers who'd walked out on their boss, and were now picketing outside of their factories. Players from all over the world were rushing to a site in Mushroom Kingdom to blockade some sploit that they'd been mining before they walked out. Yasmin hadn't ever played Mushroom Kingdom and she wouldn't be any use there -- you had to know a lot about a world's weapons and physics and player-types before you could do any damage. But judging from the status ticker zipping past, there were plenty of Webblies available on every shard to fill the gap.
+The thought that he, himself, was at the center of one of these smear-storms made him feel like he was going to throw up again. The girl must have seen this, for she gave his arm a little squeeze. "Oh, don't look so serious. You looked great on the video. I'm sure no one believes all that rubbish!" She pursed her lips. "Well, of course, that's not true. I'm sure lots of people believe it. But they're fools. And so many more were inspired, I'm sure. I'm Jie."
 
-She followed the messages as they went by, watched the rallies and the retreats, the victories and defeats, and waited on tenterhooks for the battle to end when the GMs discovered what they were up to and banned everyones' accounts. 	That was the secret weapon in all these battles: anyone who snitched to the employees of the companies that ran the worlds could destroy both teams, wiping out their accounts and loot in an instant. No one could afford that -- and no one could afford to fight in battles that were so massive that they caught the eye of the GMs, either.
+"Lu," Lu said, after trying and failing to come up with an alias. He was not cut out to be a fugitive. "It was nice to meet you," he said, and shrugged her hand off and set off deeper into the crowd.
 
-And yet, here were the Webblies, hundreds of them, all risking their accounts and their livelihoods to beat back goons who were trying to break a strike. Yasmin's blood sang -- this was it, this was what Big Sister Nor was always talking about: Solidarity! An injury to one is an injury to all! We're all on the same team -- and we stay together.
+She grabbed his arm again. "Oh, please stop. We need to talk. Please?"
 
-There were videos and pictures streaming from the strike, too -- skinny Chinese boys blinking owlishly in the daylight, on busy streets in a distant land, standing with arms linked in front of glass doorways, chanting slogans in Chinese. Passers-by goggled at them, or pointed, or laughed. Mostly they were girls, older than Yasmin, in their late teens and early twenties, very well-dressed, with fashionable haircuts and short skirts and ironed blouses and shining hair. They stared and some of them talked with the boys, who basked in the attention. Yasmin knew about boys and girls and the way they made each other act -- hadn't she seen and used that knowledge when she was Mala's lieutenant?
+He stopped. He didn't have much experience with girls, but something about her voice made him want to stay. "Why do we need to talk?"
 
-And now more and more of the girls were joining the boys -- not exactly joining, but crowding around them, standing in clumps, talking amongst themselves. And there were police coming in too, lots of pictures of the police filling in and Yasmin's heart sank. She could see, with her strategist's eye, how the police positions would work in planning a rush at the strikers, shutting off their escape routes, boxing them in and trapping them when the police swept in.
+"I want to get your story," she said. "For my show."
 
-Now the photos slowed, now the videos stopped. Gloved hands reached up and snatched away cameras, covering lenses. The last audiofeed was shouts, angry, scared, hurt --
+"Your *show*?"
 
-And now the ticker at the bottom of her screen was going even crazier, messages from the pickets in China about the police rush, and there was a moment of unreality as Yasmin felt that she was reading about an in-game battle again, set in some gameworld modelled on industrial China, a place that seemed as foreign to her as Zombie Mecha or Mad Max. But these were real people, skirmishing with real police, being clubbed with real truncheons. Yasmin's imagination supplied images of people screaming, writhing, trampling each other with all the vividness of one of her games. It was a familiar scene, but instead of zombies, it was young, pale Chinese boys and beautiful, fashionable Chinese girls caught in the crush, falling beneath the truncheons.
+She leaned in close -- so close he could smell her perfume -- and whispered, "I'm Jiandi," she said.
 
-And then the messages died away, as everyone on the scene fell silent. The ticker still crawled with other Webblies around the world, someone saying that the Chinese police could shut down all the mobile devices in a city or a local area if they wanted. So maybe the people were still there, still recording and writing it down. Maybe they hadn't all been arrested and taken away.
+He looked at her blankly.
 
-Yasmin buried her face in her hands and breathed heavily. Mrs Dibyendu shouted something at her, maybe concerned. It was impossible to tell over the song of the blood in her ears and the hammer of the blood in her chest.
+She shook her head. "Jiandi," she hissed. "Jiandi! From the Factory Girl Show!"
 
-Out there, Webblies all over the world were fighting for a better deal for poor people, and what did it matter? How could her solidarity help those people in China? How could they help *her* when she needed it? Where were Big Sister Nor and Justbob and The Mighty Krang now that she needed them?
+He shrugged. "What kind of show?"
 
-She stumbled out into the light, blinking, thinking of those skinny Chinese boys and the police in their strategic positions around them. Suddenly, the familiar alleys and lanes of Dharavi felt sinister and claustrophobic, as though people were watching her from every angle, getting ready to attack her. And after all, she was just a girl, a little girl, and not a mighty warrior or a general.
+"Every night!" she said. "At 9PM! Twelve million factory workers listen to me! They phone me with their problems. We go out over the net, audio, through the, uh," she dropped her voice, "the Falun Gong proxies."
 
-Her treacherous feet had led her down the road, around a corner, behind the yard where the women's baking co-op set out their papadams in the sun, and past the new cafe where Mala and her army fought. They were in there now, the sound of their boisterous play floating out on the air like smoke, like the mouthwatering temptation smells of cooking food.
+"Oh," he said, and began to move away.
 
-What were they shouting about? Some battle they'd fought -- a battle in Mushroom Kingdom. A battle against the Webblies. Of course. They were the best. Who else would you hire to fight the armies of the Webblies? She felt a sick lurch in her gut, a feeling of the earth dropping away from beneath her feet. She was alone now, truly alone, the enemy of her former friends. There was no one on her side except for some distant people in a distant land whom she'd never met -- whom she'd probably never meet.
+"It's not religious," she said. "I just help them with their problems. The --" she dropped her voice "*proxies* are just how we get the show into the factories. They try to block me because we tell the truth about the work conditions -- the girls who are sexually pressured by their bosses, the marketing rip-offs, the wage rip offs, lock-ins --"
 
-Dispirited, she turned away and headed for home. Her father was away for a few days, travelling to Pune to install a floor for work. He worked in an adhesive tile plant where they printed out fake stone designs on adhesive-backed squares of durable vinyl that could be easily laid in the office towers of Pune's industrial parks. There were always tiles around their home, and Yasmin had never paid them much attention until she started to game with Mala, and then she'd noticed with a shock one day that the strange, angular blurring around the edges of the fine "marble" veins in the tiles were the same compression smears you got when the game's graphics started to choke, "JPEG artifacts," they called them in the message boards. It was as though the little imperfections that make the games slightly unreal were creeping into the real world.
+"OK," he said. "I get the picture. Thank you but no."
 
-That feeling was with her now as she ghosted away from the cafe, but she was brought back to reality by a tap on her shoulder. She whirled around, startled, feeling, for some reason, like she was about to be punched.
+"Come *on*," she said and looked deep into his eyes. Hers were dark and lined with thin, precise green eye-pencil, and her eyebrows were shaped into surprised, sophisticated arches. "You look like you need a place to clean up, and maybe a meal. I can get that for you."
 
-But it was Sushant, the tallest boy in Mala's army, who had never blustered and fought like the other boys, but had stared intently at his screen as though he wished he could escape into it. Yasmin found herself staring straight down his eyes, and he waggled his chin apologetically and smiled shyly at her.
+"You can?"
 
-"I thought I saw you passing by," he said. "And I thought --" He dropped his eyes.
+"Lu, I'm *famous*! I have advertisers who pay a *lot* to sponsor my show. I have millions of supporters all over Shenzhen, even in Guangzhou and Dongguan. Even in Shanghai and Beijing! I'm a hero to them, Lu. I can put your story into the ears of every worker in the Pearl River Delta like *that*!" She snapped her fingers in front of his nose, making him blink and start back again. She laughed. "You're cute," she said. "Come on, it'll be wonderful."
 
-"You thought what?" she said. It came out harshly, an anger she hadn't known she'd been feeling.
+"Where do we go?" he said, cautiously.
 
-"I thought I'd come out and..." He trailed off.
+"Oh, I have a place," she said.
 
-"What? What did you think, Sushant?" Her own chin was wagging from side to side now, and she leaned her face down toward his, noses just barely apart. She could smell his lunch of spinach bahji on his breath.
+She grabbed his hand -- her fingers were dry and cool, and touched with cold spots where the rings she wore met his skin. She led him away through the crowd, which seemed to part magically before her. It had all become like a dream now, with the pain crowding Lu's vision into a hazy-edged tunnel. He wondered if she'd have something for the pain. He wondered if she knew any traditional medicine, if she'd mix him up a bitter tea with complicated scents and small bits of hard things floating in it. All this he wondered, and the streets and sidewalks slipped past beneath their feet like magic. You could automatically follow your guildies in game, just click on them and select follow, and the whole guild could do that when there was a lot of distance to cover, so that only one player had to pay attention on the long march across the world, while the others relaxed and smoked and ate and used the toilet, while their characters trailed like a string of pack-animals behind the leader.
 
-He shrank back, winced. Yasmin realized that he was terrified. Realized that he had probably risked quite a lot just by coming out to talk to her. Discipline was everything in Mala's army. Hadn't Yasmin been in charge of enforcing discipline?
+That's what this felt like, like he was a character whose player had stepped out for a cigarette and a piss-break and the character bumped along mindlessly behind the leader.
 
-"I'm sorry," she said, backing away. "It's nice to see you again, Sushant. Have you eaten?" It was a formality, because she knew he had, but it was what one friend said to another in Dharavi, in Mumbai -- maybe in all of India, for all Yasmin knew.
+"Do you live here?" he said as they reached the lobby of a tall apartment building. It was a "handshake building," so close to the building next to it that the tenants could lean out their windows and shake hands with their neighbors across the lane. The lobby smelled of cooking and sweat, but it was clean and there was a working intercom and lock at the door.
 
-He smiled again, a faltering little shy smile. It was heartbreaking to see. Yasmin realized that she'd never said much to him when she was Mala's lieutenant. He'd never needed cajoling or harsh words to get down to work, so she'd practically ignored him. "I thought I'd come out and say hello because we've all missed you. I hoped that maybe you and Mala could --" Again he faltered, and Yasmin felt her own chin jutting out involuntarily in a stubborn, angry way.
+"No," she said. "I do some of my shows from here. There are two or three of them, to confuse the jingcha." He thought it was funny to hear her use the gamer clan term for police. She saw it, and said, "Oh yes, the zengfu think I'm very biantai and they'd PK me if they could." He laughed at this, because it was nearly impenetrable slang -- the government think I'm a pervert so they want to "player-kill" -- destroy -- me if they can. It was one thing to hear a boy with his shirt rolled up over his belly and a cigarette hanging out of his face saying this, another to hear this delicate, preciously made-up girl.
 
-"Mala and I have chosen different roads," she said, making a conscious effort to sound calm. "That's final. Does it go well for her and you?"
+The elevator was broken, so she led him up five flights of stairs, the walls decorated with lavish graffiti: murals of curse-words, scenes of factory life, phone numbers you could call to buy fake identity papers, degrees, certificates. Lu's own dorm room was in a building that Boss Wing rented, and he climbed twice this many stairs every day, but this climb felt like it was going to kill him. On  Jie’s floor, there was an old lady squatting by the stairway door, in the hall. She nodded at the two of them.
 
-He nodded. "We win every battle."
+"Mrs Yun," Jie said, "I would like you to meet Hui. He is a mechanic who has come to repair my air-conditioner." The old lady nodded curtly and looked away.
 
-"Congratulations."
+Jie attacked one of the apartment doors with a key ring, opening four different locks with large, elaborate, thick keys and then putting her shoulder into the door, which swung heavily back, clanging against a door-stop with a metallic sound. She motioned him inside and closed the door, shooting the four bolts from the inside and slapping at several light-switches.
 
-"But now -- lately -- I've been thinking --"
+The apartment had two big rooms, the living room in which they stood, and a connecting bedroom that he could see from the doorway. There was a little kitchen area against the wall beside them, and the rest of the room was taken up with a sofa and a large desk with chairs on either side of it, covered in a litter of recording gear: a mixer, several large sets of headphones, and a couple of skinny mics on stands. Every centimeter of wall-space was *covered* in paper: newspaper clippings, letters,  drawings -- all liberally sprinkled with stickers, hearts, cute animal doodles.
 
-She waited for him to say more. The moment stretched. Grownups bumped past them and she realized that they probably thought they were courting, being a boy and a girl together. If news of that got back to her father --
+Jie waved her hand at it: "My studio!" she said, and twirled around. "All my fan-mail and my press." She ran her fingers lightly over a wall. Peering more closely at it, Lu saw that every letter began "Dear Jiani" and that they were all written in neat, girlish hands. "I have a post-box in Macau. My friends send the letters there and they scan them and email them to me. All right under the zengfu's nose!"
 
-But it didn't matter to her anymore. Her father was off installing JPEG artifacts in an IT park in Pune. She was out of the army and out of friends and out of school. What could anything matter.
+"And the old lady in the hall?"
 
-"I talk to your friends," he said at last.
+She flopped down on the sofa, her skirt riding up around her thighs, and kicked her shoes in expert arcs to the mat by the door. "Our building's answer to the bound-foot grannies' detective squad," she said, and he laughed again at the slang. Back in Nanjing, they'd used this term to talk about the little old ladies who were always snooping around, gossiping about who was doing something evil or wicked. They didn't really have bound feet -- the practice of binding little girls' feet to the point where they grew up unable to walk properly was dead, and he'd never seen a real bound foot outside of a museum, though the grannies would always exclaim over the girls' feet, passing evil remarks if a girl had large feet, cooing if she had small ones -- but they acted all pinched anyway.
 
-"My friends?" She didn't know she had any.
+"And she'll believe that I'm a repairman? I don't have any tools!"
 
-"The Webblies. Your  new army. They come to me while I fight, send me private messages. At first I ignored them, but lately I've been on drogue, and I have a lot of time to think. And they sent me pictures -- the people I was hurting. Kids like you and me, all over the world. And it made me think." He paused, licked his lips. "About karma. About hurting people to live. About all the things that they say. I don't think I want to do this forever. Or that I can do it forever."
+"Oh, no,"  Jie laughed again. It was a pretty sound. Lu could see how she'd be a very popular netshow host. That laugh was infectious. "No, she'll think we're having sex!"
 
-Yasmin was at a loss for words. Were there really other people, right here in Dharavi, right here in Mala's army, who felt as she did? She'd never imagined such a thing, somehow. But here he was.
+He felt himself turning red and stammering. "Oh -- Uh --"
 
-"You know that Mala's army pays ten times what you can get with the Webblies, right?"
+Now she was howling with laughter, head flung back, hair fanned out over the sofa-cushions. "You should see your face! Look, so long as Grandma Mao out there thinks I'm just a garden-variety slut, she won't suspect that I'm really Jiandi, Scourge of the Politburo and Voice of the Pearl River Delta, all right? Now, get your shoes off and let's have a look at that head-wound."
 
-"For now," he said. "That's the point, right? Chee! If we fight now, we can raise the wages of everyone who works for a living instead of owning things for a living, right?"
+He did as he was bade, neatly lining his shoes up by the doorway and stepping gingerly onto the dusty wooden floor. Jia stood and led him by the shoulders to one of the rolling chairs by the desk and pushed him down on it, then leaned over him and stared intently at his scalp. "OK," she said. "First of all, you need to switch shampoo, you have very greasy hair, it's shameful. Second of all, you appear to have a pigeon's egg growing out of your head, which has got to sting a little. I'll tell you what, I'll get you something cold to hold on it for a few moments, then I want you to go have a shower and clean it out well. It looks like it bled a little, but not much, which is lucky for you, since scalp wounds usually bleed like crazy. Then, once we've got you into a more civilized state, I'll put you on the Internet and make you even more famous. Sound good?"
 
-"I never thought of the division that way. Owning things for a living, I mean."
+He opened his mouth to object, but she was already spinning away and digging through the small fridge, crouching, hair falling over her shoulders in a way that Lu couldn't stop staring at it. Now she had a bag of frozen Hahaomai chicken dumplings -- he recognized the packaging, it was what they ate for dinner most nights in Boss Wing's dormitory -- and was wrapping it in a tea-towel, and pressing it to his head. It felt like it weighed 500 kilos and had been cooled to absolute zero, but it also made his head stop throbbing almost immediately. He slumped in the chair and closed his eyes and held the dumplings to the spot where the zengfu -- the slang was infectious -- had given him a love-tap. He tracked Jia's movements around him by the sounds she made and the puffs of perfume and hair stuff whenever she passed close. This was not bad, he thought -- a lot better than things had been an hour ago when he'd been crouching in front of the station talking to the gweilo.
 
-His shyness receded. He was clearly enjoying having someone to talk to about this. "It all comes down to owning versus working. Someone has to do the organizing, I guess -- there wouldn't be a Zombie Mecha if someone didn't get a lot of people together, working to make all that code. Someone has to pay the game-masters and do all of that. I understand that part. It makes sense to me. My mother works in Mrs Dotta's fabric-dyeing shop. Someone has to buy the dyes, get the cloth, buy the vats and the tools, arrange to sell it once it's done, otherwise, my mother wouldn't have a job. I always stopped there, thinking, all right, if Mrs Dotta does all that work, and makes a job for my mother, why shouldn't she get paid for it?
+"Right," she said, "take these." He opened his eyes and saw that she was holding out two chalky pills and a glass of water for him.
 
-"But now I think that there's no reason that Mrs Dotta's job is more important than my mother's job. Ammaji wouldn't have a job without Mrs Dotta's factory, but Mrs Dotta wouldn't have a factory without ammaji's work, right?" He waggled his chin defiantly.
+"What are they?" he said, narrowing his eyes at the glare of the sunset light streaming in the window. He'd been nearly asleep.
 
-"That's right," Yasmin said. She was nervous about being in public with this boy, but she had to admit that it was exciting to hear this all from him.
+"Poison," she said. "I've decided to put you out of your misery. Take them."
 
-"So why should Mrs Dotta have the right to fire my mother, but my mother not have the right to fire Mrs Dotta? If they depend on each other, why should one of them always have the power to demand and the other one always have to ask for favors?"
+He took them.
 
-Yasmin felt his excitement, but she knew that there had to be more to it than this. "Isn't Mrs Dotta taking all the risk? Doesn't she have to find the money to start the factory, and doesn't she lose it if the factory closes?"
+"The shower's through there," she said, pointing toward the bedroom. "There's a towel on the toilet-seat, and I found some pajamas that should fit you. We'll rinse out your clothes and put them on the heater to dry while we talk. No offense, Mr Labor Hero, but you smell like something long dead."
 
-"Doesn't ammaji risk losing her job? Doesn't Ammaji risk growing sick from the fumes and the chemicals in the dyes? There's nothing eternal or perfect or natural about it! It's just something we all agreed to -- bosses get to be in charge, instead of just being another kind of worker who contributes a different kind of work!"
+He was blushing again, he could tell,  and there was nothing for it but to duck and scurry through the bedroom -- he had a jumbled impression of a narrow bed with a thin blanket crumbled at the bottom, a litter of stuffed animals, and mounds of fake handbags overflowing with clothing and toiletries. Then he was in the bathroom, the sink-lip covered in mysterious pots and potions, all the oddments of a girl which a million billboards hinted at, but which he'd never seen in place, lids askew, powder spilling out. It was all so much less glamorous than it appeared on the billboards, where everything looked like it was slightly wet and glistening, but it was much more exciting.
 
-"And that's what you think you'll get from the Webblies? An end to bosses?"
+Every horizontal space in the shower seemed to support some kind of bottle. Lu bought big two liter jugs of shower gel that he could use as shampoo, too, but after squinting at the labels, he found one that appeared to be for bodies and another for hair, and made use of both. The water on his head felt like little sharp stones beating against it, and his shoulder began to throb as he rubbed the shampoo in. After the shower, he cleared the steam off the mirror and craned around to get a look at it, and could just make out the huge, raised bruise there, a club-shaped purple bruised line surrounded by a halo of greeny-yellow swelling.
 
-He looked down, blushing. "No," he said. "No, I don't think so. I think that it's too much to ask for. But maybe the workers can get a better deal. That's what Big Sister Nor talks about, isn't it? Good pay, good places to work, fairness? Not being fired just because you disagree with the boss?"
+"There's something you can wear on the bed," Jia yelled from the other side of the door. He cautiously turned the knob and found that she'd drawn a curtain across the door to the bedroom, leaving him alone in naked semi-darkness. On the bed, neatly folded, a pair of track pants and a t-shirt for an employment bureau, the kind of thing they gave out to the people who stood in front of them all day long, paid for every person they brought in to apply for a job. It was a tight fit, but he got it on, and balled up his clothes, which really did stink, and peeked around the curtain.
 
-*Or the general*, Yasmin thought. Aloud, she said, "So you'll leave the army? You want to be a Webbly?"
+"Hello?"
 
-Now he looked down further. "Yes," he said, at last. "Eventually. It all keeps going around and around in my mind. I don't know if I'm ready yet." He risked a look up at her. "I don't know if I'm as brave as you."
+"Come on out here, beautiful!" she said, as he stepped out, his bare feet on the dusty tile. She leaned in and sniffed at him with a delicate little sniffle. "Mmmm, you chose the dang-gui shampoo. Very good. Very good for ladies' reproductive issues." She patted his stomach. "You'll have a little baby there in no time!"
 
-Anger surged through her, hot and irrational. How *dare* he talk about her "bravery"? He was just using that as an excuse to go on getting rich in Mala's army. He understood *so well* what was wrong and what needed to be done. Understood it better than Yasmin! But he didn't want to give up his comfort and friendships. That wasn't cowardice, it was *greed*. He was too greedy to give it up.
+He now felt like he would faint from embarrassment, literally, the room spinning around him.
 
-He must have seen this in her face, because he took a step back and held up his hands. "It's not that I won't do it someday -- but I don't know what good it would do for me to do this today, on my own. What would change if I stopped fighting for Mala's army? She's just one general with one army among hundreds all over the world, and I'm just one fighter in the army. I --" He faltered. "What's the sense in giving up so much if it won't make a difference?"
+She must have seen it in his face, for she stopped laughing and gave his hand a squeeze. "Don't worry," she said. "It's only teasing. Dang-gui is good for everything. Your mother must have given it to you." And yes, he realized now, that was where he knew that smell from -- he remembered wishing that his mother was there to give him some herbs, and that wish must have guided his hand among the many bottles in her shower.
 
-Yasmin's anger boiled in her, ate at her like acid, but she bit her tongue, because that little voice inside her was saying, "You're mostly angry because you thought you had a comrade, someone who'd keep you company, and it turned out that all he wanted to do was confess to you and have you forgive him.* And it was true. She was far more upset by her loneliness than by his cowardice, or greed, or whatever it was.
+"Do you live here?" he said.
 
-"I. Need. To. Go. Now," she said, biting on the words, keeping the anger out of her voice by sheer force of will.
+"In this pit?" She made a face. "No, no! This is just one of my studios. It helps to have a lot of places where I can work. Makes life harder for the zengfu."
 
-She didn't wait for him to raise his eyes, just turned on her heel and walked and walked and walked, through the familiar alleys of Dharavi, not going anywhere but trying to escape anyway, like a chained animal pacing off its patch. She was chained -- chained by birth and by circumstance. Her family might have been rich. They might have been high-caste. She might be in another country -- in America, in China, in Singapore, all the distant lands. But she was here, and she had no control over that. There was a whole world out there and this was where fate had put her.
+"But the clothes, the bed?"
 
-She wouldn't be changing the world. She wouldn't be going to any of those places. She hadn't even left Dharavi, except once with her mother, when she took Yasmin and her brothers on a train to see a beach where it had been hot and sandy and the water had been too dangerous to swim in, so they'd stood on the shore and then walked down a road of smart shops where they couldn't afford to shop, and then they'd waited for the bus again and gone home. Yasmin had seen the multiverses of the games, but she hadn't even seen Mumbai.
+"Just a few things I leave for the nights when I work late. My show can go all night, sometimes, depending on how many callers I have." She smiled again. She had dimples. He hadn't ever noticed a girl's dimples before. The head injury was making him feel woozy. Or maybe it was love.
 
-Now where? She was tired and hungry, angry and exhausted. Home? It was still afternoon, so her mother and brothers were all out working or in school. That emptiness... It scared her. She wasn't used to being alone. It wasn't a natural state in Dharavi. She was very thirsty, the wind was blowing plastic smoke into her eyes and face, making her nostrils and sinuses and throat raw. Mrs Dibyendu's cafe would have chai, and Mrs Dibyendu would give her a cup of it and some computer time on credit, because Mrs Dibyendu was desperate to save her cafe from bankruptcy now that the army had abandoned it.
+"And now?"
 
-Mrs Dibyendu's idiot nephew doled her out a cup of chai grudgingly. He hadn't learned a thing from the savage beating that Mala had laid on him. He still stood too close, still went out Eve teasing with his gang of badmashes. Yasmin knew that he would have loved to take revenge on Mala, and that Mala never went out after dark without three or four of the biggest boys from the army. It made her furious. No matter how much Mala had hurt her, she had the right to go around her home without fearing this idiot. His upper lip was curled in a permanent sneer, thanks to the scar Mala's feet had left behind.
+"And now we talk to you about what you've seen," she said. "My show starts in --" she looked at the face of her phone -- "12 minutes. Just enough time for you to have a drink and get comfortable." She fished in her fridge and brought out a water filter jug and filled a glass from a small rack next to the tiny sink. He took it and drank it greedily and she fetched him the filter, setting it down on one side of the desk before settling into the chair on the other side.
 
-She sat down to a computer, logged in. She was sure that the idiot nephew used all kinds of badware to spy on what they did on the computers, but she'd bought a login fob from one of the shops at the edge of Dharavi, and it did magic, logging her in with a different password every time she sat down, so that her PayPal and game accounts were all safe.
+She began to click and type and furrow her brow in an adorable way, slipping on a set of huge headphones, positioning a mic. She waved to him and he settled into the opposite chair, refilling his glass.
 
-Mindlessly, she plunged back into her usual routine. Login to Minerva, check for Webbly protection missions in the worlds she played. But there were no missions waiting. The Webbly feeds were all afire with chatter about the strike in Shenzhen, rumors of the numbers arrested, rumors of shootings. She watched it tick past helplessly, wondering where all these rumors came from. Everyone seemed to know something that she didn't know. How did they know?
+"What kind of show is this again?"
 
-A direct message popped up on her screen. It was from a stranger, but it was someone in the inner Webbly affinity group, which meant that Big Sister Nor, The Mighty Krang, or Justbob had manually approved her. Anyone could join the outer Webblies, but there were very few inner Webblies.
+"You are such a *boy*!" she said, looking up from her screen, fingers still punishing her keyboard with insectile clicks from her manicured fingernails.
 
-> Hello, can you read this?
+He looked down at himself. "I suppose I am," he said.
 
-It was a full sentence, with punctuation, and the question was as daft as you could imagine. It was the kind of message her father might send. She knew immediately that she was communicating with an adult, and one who didn't game.
+"What I mean is, if you were a girl, you'd know all about this. Every factory girl listens to me, believe it. I start broadcasting after dinner, and they all log in and call in and chat and phone and tell me all their troubles and I tell them what they need to hear. Mostly, it comes down to this: if your boss wants to screw you, find another job, or be prepared to be screwed in more ways than one. If your boyfriend is a deadbeat who won't work and borrows money from you, get a new boyfriend, even if he is the 'love of your life.' If your girlfriends are talking trash about you, confront them, have a good cry, and start over. If your girlfriend is screwing your boyfriend, get rid of both of them. If you are screwing your girlfriend's boyfriend, stop -- dump him, confess to her, and don't do it again." She was ticking these off on her fingers like a shopping list.
 
-> yes
+"It sounds a little repetitive," he said. He wondered if she was making it up, or possibly delusional. Could there really be a show that every factory girl listened to that he'd never heard of? He thought of how little the factory girls in Shilong New Town had talked to him when he worked as a security guard and decided that yes, it was totally possible.
 
-> Our mutual friend B.S.N. has asked me to contact you. You are in Mumbai, correct?
+"It's very repetitive, but we all like it that way, my girls and me. Some problems are universal. Some things you just can't say too often. Anyway, that's not all there is to it. We have variety! We have you!"
 
-She had a moment's hesitation. This was a very grownup, very non-gamer way to type. Maybe this was someone working for the other side? But Mumbai was as huge as the world. "In Mumbai" was only slightly more specific than "In India" or "On Earth."
+"Me," he said. "You're going to put me on a show with all these girls on it? Why? Won't that make the police want to get me even more?"
 
-> yes
+"Darling, the police already want you. Remember the video. Your face is everywhere. The more famous you are, the harder it will be for them to arrest you. Trust me."
 
-> Where are you? Can I come and get you? I must talk with you.
+"How can you be sure? Have you ever done this before?"
 
-> talking now lol
+"Every day," she said, eyes wide. "I'm my own case study. The police have been after me for two years now, and I've stayed out of their clutches. I do it by being too popular to catch!"
 
-> What? Oh, I see. No, I must TALK with you. This is official business. B.S.N. specifically said I must make contact with you.
+"I don't think I understand how that works," he said.
 
-She swallowed a couple times, drained the dregs of her chai.
+She looked at the face of her phone. "We've only got a minute. Here, quickly, I'll explain: if you're a fugitive, being poor is hard. Even harder than for non-fugitives. It's expensive being on the run. You need lots of places to live. Lots of different phones that you can abandon. You need to be able to pay li --" bribes -- "and you need to be able to move fast. Being famous means that you have access to money and favors from a lot of different people. My listeners keep me going, either through direct donations or through my advertisers."
 
-> ok
+"You have ads? Who would buy an ad on a fugitive's radio show?"
 
-> Splendid. Where shall I come and get you from?
+She shrugged. "The Taiwanese," she said. The island of Taiwan had considered itself separate from China since 1949 but China had never stopped laying claim to it -- without much success. "Falun Gong, sometimes." She saw the look of shock on his face. "Don't worry, *I'm* not religious. But I'll take their money. They don't care if I make fun of them on the show, so long as I run their ads, too."
 
-She swallowed again. When they'd gone to the beach, her mother had been very clear on this: *Don't tell anyone you are from Dharavi. For Mumbaikars, Dharavi is like Hell, the place of eternal torment, and those who dwell here are monsters.* This grown up sounded very proper indeed. Perhaps he would think that Dharavi was Hell and would leave her be.
+He shook his head. "It's all too strange," he said.
 
-> dharavi girl
+She held up her hand for silence and swung down a little mic from one of the headphones' earpieces. "Hello, girls!" she called into the mic, clicking her mouse. "It's your best friend here, Sister Jiandi, the friend you can always rely on, the friend who will never let you down, the friend you can confide all your secrets in -- provided you don't mind eight million factory girls finding out about it!" She giggled at her own joke. "Oh, sisters, it's going to be a good night, I can tell! I have a special surprise for you a little later, but first, let's talk! Tonight I'm using Amazon France chat, chat.amazon.fr, so go and sign up now. You'll get me at jiandi88888. Remember to use a couple of the latest FLG proxies before you make the call -- and it looks like the translation services at Yahoo.ru and 123india.in are both unblocked at the moment, which should make it easier to sign up. Well, what are you waiting for? Get signed up!"
 
-> One moment.
+She clicked something and he heard a blaring ad for Falun Gong start in his headphone and he slipped one off the side of his head. Jie swung her mic away and pointed a finger at him. "Feeling the magic yet?"
 
-There was a long pause. She wondered if he was trying to get in touch with Big Sister Nor, to tell her that her warrior was a slum-child, to find someone better to help.
+"This is it? This is your big show?"
 
-> You know this place?
+"Oh yes," she said. "We'll probably have to switch chats three or four times tonight, as they update the firewall. It's fun! Wait, you'll see." In his ear, the ad was wrapping up and he slipped the other headphone back into place.
 
-It was a picture of the Dharavi Mosque, tall and imposing, looming over the whole Muslim quarter.
+"Talk to me," Jie said, her voice full of warmth. It took him a moment to realize she was talking into her mic, to her audience, not to him. Her fingers were working the keyboard and mouse.
 
-> course!!
+"Hello?"
 
-> I'll be there in about an hour. This is me.
+"Yes, darling, hello. You're live. Talk, talk! We've only got all night!"
 
-Another picture. It wasn't the middle-aged man in a suit she'd been expecting, but a young man, barely older than a teenager, short gelled hair and a leather jacket, stylish blue-jeans and black motorcycle boots.
+"Oh, um --" The voice was female, with a strong Henan accent, and it was scared.
 
-> Can you give me your phone number? I will call you when I'm close.
+"It's OK, sweetie, my heart, it's OK. Tell me." Jie's voice was a coo, a purr, a seduction. Her eyes were moist, her lips pursed in a gesture of pure caring. Lu wanted to tell her *his* secrets.
 
-> lol
+"It's just that --" The voice stopped. Crying noises. In the background, the sounds of a busy factory dorm, girlish calls and laughter and conversation. Jie made soothing shhh shhh sounds. "It's my boss," the girl said. "He was so *nice* to me at first. He said he was taking an interest in me because we are both from Henan. He said that he would protect me. Show me around the city. We went to nice places. A restaurant in the stock exchange. He took me to the Windows on the World park and we dressed up like ancient warriors."
 
-> I'm sorry?
+"And he wanted something in return, didn't he?"
 
-> dharavi girl -- no phone for me
+"I knew he would. I listen to your show. But I thought it would be different for me. I thought he was different. But he --" She broke off. "After he kissed me, he told me he wanted to do more. Everything. He told me I owed it to him. That I'd understood that when I accepted his invitation, and that I would be cheating him if I didn't --" She began to cry.
 
-She'd had a phone, when she was in Mala's army. They all had phones. But it was the first thing to go when she quit the army.  She still had it in a drawer, couldn't bear to sell it, but  it didn't work as a phone anymore, though she sometimes used it as a calculator (all the games had turned themselves off right after the service was disconnected, to her disappointment).
+Jie made a face, twirled her finger in an impatient gesture. Lu was horrified by her callousness. But when the crying stopped, her voice was again full of compassion and understanding.
 
-> Sorry, sorry. Of course. Meet you there in about an hour then.
+"Oh, sweet child, you've been done badly, haven't you? Well, of course you knew it would happen, but the heart and the head don't always agree with each other, do they? The question isn't whether you acted like a fool -- because you did, you acted like a perfect fool -- the question is what you can do about it now. Am I right?"
 
-Her heart thudded in her chest. Meeting a strange man, going on a secret errand -- it was the sort of thing that always ended in terrible tragedy, defilement and murder, in the stories. And an hour from now would be --
+"Yes." The voice was so tiny and soft he could barely hear it. He pictured a girl shrunk to the size of a mouse, trembling in fear.
 
-> cant meet at the mosque
+"Well, that's simple. Not easy, but simple. Forfeit your last eight weeks' wages and walk out of the factory first thing tomorrow morning. Go down to a job-broker on Xi Li street and find something -- anything -- that can get you started again. Then you call your boss's wife -- is he married?"
 
-It would be right in the middle of 'Asr, afternoon prayers, and the Mosque would be mobbed by her father's friends. All it would take would be for one of them to see her with a strange man, with gelled hair, a Hindu judging from the rakhi on his wrist, poking free of the leather jacket. Her father would go *insane*.
+"Yes." The voice was a little bigger now.
 
-> meet me at mahim junction station instead by the crash barriers
+"Call his wife and tell her everything. Tell her what he did, what he said, what you said back. Tell her you're sorry, and tell her you're sorry her husband is such a sack of rotten, stinking garbage. Tell her you walked away on the pay he was holding back, and that you've left your job. And then you start to work again. And no matter what your new boss says or does, don't go out with him. Do you understand?"
 
-It would take her an hour to walk there, but it would be safe.
+"Call his wife --"
 
-There was a pause. Then another picture: two boys straddling one of the huge cement barriers in front of the station. It was where she and her brothers had waited while their mother queued up for the tickets.
+"Call his wife, walk away from your pay, and start over. There's nothing else that will work. You can't talk to this man. He has raped you -- that's what it is, you know, when someone in power coerces you into sex, it's rape, just rape -- and he'll do it again and again and again. He'll do it to the other girls in the factory. You tell as many as you can why you're leaving. In fact, you tell me what factory you work in and the name of your boss, right now, and then millions and millions of girls will know about it, too. They'll steer clear of this dog, and maybe you'll save a few souls with your bravery. What do you say?"
 
-> Here?
+"You want me to name my boss? Now? But I thought this was confidential --"
 
-> yes
+"You don't *have* to. But do you want another girl to go through what you just went through? What do you think would have happened if you had heard another girl speak his name on this show, last month, before you went out with him. What will you do? Will you save your sisters from the pain you're in? Or will you protect your bruised ego and let the next girl suffer, and the next?" She waited a moment. The girl on the phone said nothing, though the sounds of people moving around the dorm could still be faintly heard. Lu imagined her under her blanket on her bunk, hand over the mouthpiece of her phone, whispering her secrets to millions of girls. What a strange world. "Well?"
 
-> OK then. I'll be on a Tata 620 scooter.
+"I'll do it," the girl said.
 
-Another picture of a lovingly polished little bike, a proud purple gas-tank on its skeletal chromed frame. There were thousands of these in Dharavi, driven by would-be badmashes who'd saved up a little money for a pair of wheels.
+"What's that? Say it loud!"
 
-> ill be there
+"I'll do it!" the girl said, and let out a little laugh, and the laugh was echoed by the girlish voices near her, as the girls in her dorm realized that the confession they'd been listening into on their computers and phones and radios had been emanating from a bunk in their midst. There was a squeal of feedback as one of the radios got too close to the phone, and Jie's fingers clicked at the keyboard, squelching the feedback but somehow leaving the other squeals, the girlish squeals. They were cheering her, the girls in the dorm, cheering her and chanting her name, her real name, now on the radio, but it didn't matter, because the girl was laughing harder than ever. 
 
-She handed her cup to idiot nephew, not even seeing the grimace on his face as she dashed past him, out into the roadway, back home to change and put some few things in a bag before her mother or brothers came home. She didn't know where she was going or how long she'd be away, and the last thing she wanted was to have to explain this to her mother. She would leave a note, one of her brothers would read it to her mother. She'd just say, "Away on union business. Back soon. Love you." And that would have to be enough -- because, after all, it was all she knew.
+"It's Bau Peixiong," she said, laughing. "Bau Peixiong at the HuaXia sports factory." She laughed, a liberated sound.
 
-On the long walk to Mahim Junction station, she alternated between nervous excitement and nervous dread. This was foolish, to be sure, but it was also all she had left. If Big Sister Nor vouched for this man -- chee! she didn't even know his name! -- then who was Yasmin to doubt him?
+"OK, OK, girls," Jie said into her mic, in a commanding tone. The voices quieted. "Now, your sister has just made a sacrifice for all of you, so you need to help her. She needs money -- your pig of a boss won't give her the eight weeks' pay he's holding onto, especially not after she calls his wife. She needs help packing, help finding a job. Someone there is thinking of changing jobs, someone there knows where there's a job for this girl. Tell her. Help her move out. Help her find the new job. This is your duty to your sister. Promise me!"
 
-As she got closer to the edge of Dharavi, the laneways widened to streets, wide enough for skinny, shoeless boys to play ditch-cricket in. They shouted things at her, "offending decency," as the schoolteacher, Mr Hossain, had always said when the badmashes gathered outside the school to call things to the girls as they left the classroom. But she knew how to ignore them, and besides, she had picked up her brother Abdur's lathi, using it as a walking stick, having tied a spare hijab underscarf to the top to make it seem more innocuous. They'd played gymnastics games in the schoolyard with sticks like lathis, but without the iron binding on the tip. Still, she felt sure she could swing it fearsomely enough to scare off any badmash who got in her way on this fateful day. It was only at the station that she realized she had no idea how they would carry it on the little scooter.
+From the phone, a babble of girls saying, "I promise! I promise!"
 
-She'd brought her phone along, just to tell the time with, and now an hour had gone by and there was no sign of the man with the short gelled hair. Another twenty minutes ticked past. She was used to this: nothing in Dharavi ran on precise time except for the calls to prayer from the mosque, the rooster crows in the morning, and the calls to muster in Mala's army, which were always precisely timed, with fierce discipline for stragglers who showed up late for battle.
+"Very good," Jie said. "Now, stay tuned friends, for soon I will be unveiling a wonderful surprise!" A mouseclick and then there was another ad, this time for a company that provided fake credentials for people looking for work, guaranteed to pass database lookups. Both of them slipped their headphones off and Jie drained her water-glass, a little trickle sliding down her chin and throat. Lu suppressed a groan. She was *so* beautiful, and all that power and confidence --
 
-Trains came in and trains came out. She saw some men she recognized: friends of her father who worked in Mumbai proper, who would have recognized her if she hadn't been wearing her hijab pulled up to her nose and pinned there. She was acutely aware of the Hindu boys' stare. Hindus and Muslims didn't get along, officially. Unofficially, of course, she knew as many Hindus as Muslims in Dharavi, in the army, in school. But on the impersonal, grand scale, she was always *other*. They were "Mumbaikars" -- "real" people from Mumbai. Her parents insisted on calling the city "Bombay," the old name of the city from before the fierce Hindu nationalists had changed it, proclaiming that India was for Hindus and Hindus alone. She and her people could go back to Bangladesh, to Pakistan, to one of the Muslim strongholds where they were in the majority, and leave India to the real Indians.
+"That was a pretty good opener, wasn't it?" she said, raising her eyebrows at him.
 
-Mostly, it didn't touch her, because mostly, she only met people who knew her and whom she knew -- or people who were entirely virtual and who cared more about whether she was an Orc or a Fire Elf than if she was a Muslim. But here, on the edge of the known world, she was a girl in a hijab, an eye-slit and a long, modest dress and a stout stick, and they were all *staring* at her.
+"Is it like this all the time?"
 
-She kept herself amused by thinking about how she would attack or defend the station using a variety of games' weapons-systems. If they were all zombies, she'd array the mechas here, here and here, using the railway bed as a channel to lure combatants into flamethrower range. If they were fighting on motorcycles, she'd circle that way with her cars, this way with her motorcycles, and pull the death-lorry in there. It brought a smile to her face, safely hidden behind the hijab.
+"Oh, that was a particularly good one. But yes, most nights it goes like that. Six or seven hours' worth of it. You still think it'd get repetitious?"
 
-And here was the man, pulling into the lot on his green motorcycle, wiping the road dust off his glasses with his shirt-tail before tucking it back into his jacket. He looked around nervously at the people outside the station -- working people streaming back and forth, badmashes and beggars loitering and sauntering and getting in everyone's way. Several beggars were headed toward him now, children with their hands outstretched, some of them carrying smaller children on their hips. Even over the crowd noises, Yasmin could hear their sad, practiced cries.
+"I can see how that would stay interesting."
 
-She reached under her chin and checked the pin holding her hijab in place, then approached the rider, moving through the beggars as though they weren't there. They shied away from her lathi like flies dodging a raised hand. He was so disconcerted by the beggars that it took him a minute to notice the veiled young girl standing in front of him, clutching a meter-and-a-half long stick bound in iron.
+"After all, you kill the same monsters over and over again all night long, don't you? That must be pretty dull."
 
-"Yasmin?" His Hindi was like a fillum star's. Up close, he was very handsome, with straight teeth and a neatly trimmed little mustache and a strong nose and chin.
+He considered this. "Not really," he said. "It's the teamwork, I guess. All of us working together, and it's not really the same every time -- the games vary the monster-spawning a lot. Sometimes you get really good drops, too -- that can be very exciting! You're going down a corridor you've cleared a dozen times, and you discover that this time it's filled with 200 vampires and then one of them drops an epic sword, and it's not boring at all anymore." He shrugged. "My guildie Matthew says it's intermittent reinforcement."
 
-She nodded.
+She held up a finger and said, "Hold on to that," and clicked and started talking into her mic again, taking a call from another factory girl, this one more angry than sad. "I had a friend who was selling franchises for a line of herbal remedies," she said, and Jie rolled her eyes.
 
-He looked at her lathi. "I have some bungee cables," he said. "I think we can attach that to the side of the bike. And I brought you a helmet."
+"Go on," she said. "Sounds like a great opportunity." The sarcasm in her voice was unmistakable.
 
-She nodded again. She didn't know what to say. He moved to the locked carrier-box on the back of his bike, pushing away a little beggar-boy who'd been fingering the lock, and pushed his thumb into the locking mechanism's print-reader. It sprang open and he fished inside, coming up with a helmet that looked like something out of a manga cartoon, streamlined, with intricate designs etched into its surface in hot yellow and pink. On the front of the helmet was a sticker depicting Sai Baba, the saint that both Muslims and Hindus agreed upon. Yasmin thought this was a good omen -- even if he was a Hindu boy, he'd brought her a helmet that she could wear without defiling Islam.
+"That's what I thought," the girl said. She sounded like she wanted to punch something. "At first I thought it was about selling the herbal remedies, and I liked that, because my mother always gave me herbs when I was sick as a girl, and I thought that a lot of the girls here would want to buy the remedies too because they missed home."
 
-She took the manga Sai Baba helmet from him, noting that the sticker was holographic and that Sai Baba turned to look her straight in the eye as she hefted it. It was heavier than it looked, with thick padding inside. No one in Dharavi wore crash-helmets on motorcycles -- and the boy wasn't wearing one, either. But as she contemplated the narrow saddle, she thought about falling off at 70 kilometers per hour on some Mumbai road and decided that she was glad he'd brought it. So she nodded a third time and lifted it over her head. It went on slowly, her head pushing its way in like a hand caught in a tangled sleeve, pushing to displace the fabric, which slowly gave way. Then she was inside it, and the sounds around her were dead and distant, the sights all tinted yellow through the one-way mirrored eye-visor. She felt tentatively at her head  -- which felt like it would loll forward under the helmet's weight if she turned her face too quickly -- and found the visor's catch and lifted it up. The sound got a little brighter and sharper.
+"Yes," Jie said. "Who wouldn't want to remember her mommy?"
 
-Meanwhile, the boy had been affixing the lathi along the bike's length, to the amusement of the beggar children, who offered laughing  advice and mockery. He had a handful of bungee cords that he'd extracted from the bike's box, and he wrapped them again and again around the pole, finding places on the bike's skeletal chrome to fix the hooks, testing the handlebars to ensure that he could still steer. At last he grunted, stood, dusted his hands off on his jeans and turned to her.
+"Exactly! Just what I thought. And my friend told me about how much money I could make, but not from selling the herbs! She said that selling the herbs would be my 'downliners' job, and that I would manage them. I would be a boss!"
 
-"Ready?"
+"Who wouldn't want to be a boss?"
 
-She drew in a deep breath, spoke at last. "Where are we going?"
+"Right! She said that she was recruiting me to be in the top layer of the organization, and that I would then go and recruit two of my friends to be my salespeople. They'd each pay me for the right to sign up more downliners, and that all the downliners would buy herbs from me and then I would get a share of all their profits. She showed me how if my two downliners signed up two more, and each of *them* signed up two more, and so on, that I would have hundreds of downliners working for me in just a few days! And if I only got a few RMB from each one, I'd be making thousands every month, just for signing up two people."
 
-"Andheri," he said. "Near the film studios."
+"A very generous friend," Jie said, and though she sounded like she was joking, she wasn't smiling.
 
-She nodded as though she knew where that was. In a way, of course, she did: there were plenty of movies about, well, the golden age of making movies, when Andheri had been *the* place to be, glamorous and bustling. But most of those movies had been about how Andheri's sun had set, with all the big filmi production places moving away. What would it be like today?
+"Yes, yes! That's what I thought. And all I needed to do was pay her one small fee for the right to sell downline, and she would supply me with herbs and sales kits and everything else I needed. She said that she was signing me up because I was Fujianese, like her, and she wanted to take care of me. She said I should find girls who were still back in the village, girls I'd gone to school with, and call them and sign them up, because they needed to make money."
 
-"And when will we come back?"
+"Why would girls in the village need herbal remedies? Wouldn't they have their mothers?"
 
-He waggled his chin, thinking. "Tonight, certainly. I'll make sure of that. And some union people can come back with us and make sure you get to your door safely. I've thought of everything."
+That stopped the angry, fast-talking girl. "I didn't think of that," she said, at last. "It seemed like I was going to be a hero for everyone, and like I would escape from the factory and get rich. My friend said she was going to quit in a few weeks and get her own apartment. I thought about moving out of the dorm, having money to send home --"
 
-"And what is your name?"
+"You dreamed about money and all that it could buy you, but you didn't devote the same attention to figuring out whether this thing could possibly work, right?"
 
-He stared at her for a moment, his jaw hanging open in surprise. "OK, I didn't think of everything! I'm Ashok. Do you know how to ride a scooter?"
+Another silence. "Yes," she said. "I have to say that this is true."
 
-She shook her head. She'd seen plenty of people riding on motorcycles and scooters, in twos and even in threes and fours -- sometimes a whole family, with children on mothers' laps on the back -- but she'd never gotten on one. Standing next to it now, it seemed insubstantial and well, *slippery*, the kind of thing that was easier to fall off of than to stay on.
+"And then?"
 
-"OK," he said, waggling his chin, considering her clothing. "It's harder with the dress," he said. "You'll have to sit side-saddle." He climbed up on the bike's saddle and demonstrated, keeping his knees together and pressed against the bike's side, twisting his body around. "You'll have to hold onto me very tight." He grinned his movie-star grin.
+"It started OK. I sold a few downlines, but they were having trouble making their downline commitments. And then my friend, she started to ask me for her percentage of my income. When I told her I wasn't receiving the income my downliners owed me, she changed."
 
-Yasmin realized what a mistake this had all been. This strange man. His motorcycle. Going off to Mumbai, away from Dharavi, to a strange place, for a strange reason. And he had her lathi, which wasn't even hers, and if she turned on her heel and went back into Dharavi, she'd still have to explain the missing lathi to her brother, and the note to her mother. And now she was going to get killed in Mumbai traffic with a total stranger on the way to Bollywood's favorite ghost-town.
+"Go on." Jie's eyes were fixed on the wall behind Lu's head. She was in another world, it seemed, picturing the girl and her problem.
 
-But as hopeless as it was, it wasn't as hopeless as being alone, not in the army, not in school, not in the Webblies. Not as hopeless as being poor Yasmin, the Dharavi girl, born in Dharavi, bred in Dharavi.
+"She got angry. She said that I had made a commitment to her, and that she had made commitments to her uplines based on this, and that I would have to pay her so that she could pay the people she owed. She made me feel like I'd betrayed her, betrayed the incredible opportunity. She said I was just a simple girl from a village, not fit to be a business-woman. She called me all day, over and over, screaming, 'Where's my money?'"
 
-She levered herself sidesaddle onto the bike and Ashok climbed over the saddle and sat down, his leather jacket pressed up against her side. She tried to square her hips to face forward, and found herself in such a precarious position that she nearly tipped over backwards.
+"So what did you do?"
 
-"You have to hold on," Ashok said, and the beggar children jeered and made rude gestures. Shutting her eyes, she put her arms around his waist, feeling how skinny he was under that fancy jacket, and interlaced her fingers around his stomach. It was less precarious now, but she still felt as though she would fall at any second -- and they weren't even moving yet!
+"I finally went to her. I cried. I told her I didn't know what to do. And she told me that I knew, but that I didn't have the courage to do it. She told me I had to go to my downliners, get tough on them, get the money out of them. And if they wouldn't pay, I'd have to get the money some other way: from my parents, my friends, my savings. I could get new downliners next month."
 
-Ashok kicked back the bike's stand and revved the engine. A cloud of biodiesel exhaust escaped from the tailpipe, smelling like old cooking oil -- it probably started out as old cooking oil, of course -- spicy and stale. Yasmin's stomach gurgled and she blushed beneath her hijab, sure he could feel the churning of her empty stomach. But he just turned his head and said, "Ready?"
+"And so you called up your downliners?"
 
-"Yes," she said, but her voice came out in a squeak.
+"I did." She drew in a heaving breath. "At first, I was gentle and kind to them, but my friend called me over and over again, and I got angry. Angry at them, not at her. It was their fault that I was having to spend all this time and energy, that I couldn't sleep or eat. And so I got meaner. I threatened them, begged them, shouted at them. These two girls, they were my old friends. I'd known them since we were little babies. I knew their secrets. I threatened to call my friend's father and tell him that she had let a boy take naked pictures of her when she was 15. I threatened to tell my other friend's sister that she had kissed her boyfriend."
 
-They barely made it fifty meters before she shouted "Stop! Stop!" in his ear. She had never been more afraid in all her life. She forced her fingers to unlace themselves and drew her trembling hands back into her lap.
+"Did they pay what they owed you?"
 
-"What's wrong?"
+"At first. The first month, they paid. The next month, though, I had to call them and shout at them some more. It was like I was sitting above myself, watching a crazy stranger say these terrible things to my old, old friends. But they paid again. And then, in the third month --" She stopped abruptly. The silence swelled. Lu felt it getting thicker, staticky.
 
-"I don't want to die!" she shouted. "I don't want to die on your maniac bike in this maniac traffic!"
+"What happened?"
 
-He waggled his chin. "It's the dress," he said. "If you could only straddle the seat."
+"Then one friend ate rat poison." Her voice was a tiny, far-away whisper.  More silence. "I had told her that I would go to her father and -- and --" Silence. "It was how her mother had committed suicide when we were both small. The same kind of poison. Her father was a hard man, an Old One Hundred Names who had lived through the Cultural Revolution. He has no mercy on him. When she couldn't get the money, she stole it. Got caught. He was going to find out. And if he didn't, I would tell him about the photos she'd taken. And she couldn't face that. I drove her to kill herself. It was me. I killed her."
 
-Yasmin patted her thighs miserably, then she hiked up her dress, revealing the salwar -- loose trousers -- she wore beneath it. Ashok nodded. "That'll do," he said. "But you need to tie up the legs, so they don't get caught in the wheel." He flipped open his cargo box again and passed her two plastic zip-strips which she used to tie up each ankle.
+"She killed herself," Jie said, her voice full of compassion. "It's the women's disease in China. We're the only country in the world where more women commit suicide than men. You can't take the blame for this." She paused. "Not all of it."
 
-"Right, off we go," he said, and she straddled the bike, putting her arms around his waist again. He smelled of his hair gel and of leather, and of sweat from the road. She felt like she'd gone to another planet now, even though she could still see Mahim Junction behind her. She squeezed his waist for dear life as he revved the engine and maneuvered the bike back into traffic.
+"That's not all," the girl said, all the anger gone out of her voice now, nothing left behind but distilled despair.
 
-She realized that he'd been taking it easy for her sake before, driving relatively slowly and evenly in deference to her precarious position. Now that she was more secure, he drove like the baddest badmash she'd ever seen in any action film. He gunned the little bike up the edge of the ditch, beside the jerky, slow traffic, always on the brink of tipping into the stinking ditch, being killed by a swerving driver or a door opening suddenly so the driver could spit out a stream of betel; or running over one of the beggars who lined the road's edge, tapping on the windows and making sad faces at the trapped motorists.
+"Of course not," Jie said. "You still owe for this month. And next month, and the month after."
 
-She'd piloted a million virtual vehicles in her career as a gamer, at high speeds, through dangerous terrain. It wasn't remotely the same, even with the helmet's  reality-filtering padding and visor. She could hear her own whimpering in her head. Every nerve in her body was screaming *Get off this thing while you can*! But her rational mind kept on insisting that this boy clearly rode his bike through Mumbai every day and managed to survive.
+"My friend, the one who brought me into this, she knows... *things*... about me. The kind of things I knew about my friends. Things that could cost me my job, my home, my boyfriend..."
 
-And besides, there was so much Mumbai to see as they sped down the road, and that was much more interesting than worrying about imminent death. As they sped down the causeway, they neared a huge suspension bridge, eight lanes wide, all white concrete and steel cables, proudly proclaimed to be the Bandra-Worli Sea Link by an intricate sign in Hindi and English. They sped up the ramp to it, riding close to the steel girders that lined the bridge's edge, and beneath them, the sea sparkled blue and seemed so close that she could reach down and skim her fingertips in the waves. The air smelled of salt and the sea, the choking traffic fumes whipped away by a wind that ruffled her dress and trousers, pasting them to her body. Her fear ebbed away as they crossed the bridge, and did not come back as they rolled off of it, back into Mumbai, back into the streets all choked with traffic and people. They swerved around saddhus, naked holy men covered in paint. They swerved around dabbahwallahs, men who delivered home-cooked lunches from wives to husbands all over the city, in tiffin pails arranged in huge wooden frames, balanced upon their heads.
+"Of course. That's how cuanxiao works." Lu had heard the term before. "Network sales," is what it meant. There was always someone trying to sell you something as part of a cuanxiao scheme. He used to laugh at it. Now it seemed a lot more serious. "And somewhere, upline from here, there's someone else in the cuanxiao, who has something on her. And there are preachers who can convince you that you'll make a fortune with cuanxiao, and that you just need to inspire your family and friends."
 
-She knew they were almost at Andheri when they passed the gigantic Infinity Mall, and then turned alongside a high, ancient brick wall that ran for hundreds of meters, fencing in a huge estate that had to be one of the film studios. Outside the wall, along the drainage ditch, was a bustling market of hawkers, open-air restaurants, beggars, craftsmen, and, among them, film-makers in smart suits with dark glasses, clutching mobile phones as they picked their way along. The bike swerved through all this, avoiding a long line of expensive, spotless dark cars that ran the length of the wall in an endless queue to pass through the security checkpoint at the gatehouse.
+"You know him? Mr Lee. My friend took me to a meeting. Mr Lee seemed like he was on fire, and he made me so sure that I would become rich if only --"
 
-She took all this in as they sped down the length of the wall, cornering sharply at the end, following it along to a much narrower gate. Two guards with rifles attached to their belts by chains stood before it, and they hefted their guns as Ashok drew nearer. Then he drew closer still and the guards recognized him and stepped away, revealing the narrow gap in the wall that was barely wide enough for the bike to pass through, though Ashok took it at speed, and Yasmin gasped when her billowing sleeves rasped against the ancient, pitted brick.
+"I don't know Mr Lee. But there are hundreds of Mr Lees in Guandong province. You know what we call them? Pharoahs, like the Egyptian kings they buried in pyramids. That's because they sit on top of a pyramid of fools like you. Beneath the pharoah, there's a pair of downliners, and beneath them, two pairs, and beneath them, two more pairs, and so on, all passing money up the power to some feudal idiot from the countryside who knows how to talk a good line and has never worked a day in his life. Did you ever study math?"
 
-Passing through the gate was like passing into another world. Before them, the studios spread forever, the farthest edge lost in the pollution haze. Roads and pathways mazed the grounds, detouring around the biggest buildings Yasmin had ever seen, huge buildings that looked like train stations or airplane hangars from war films. The grounds were all manicured grass, orderly fruit trees, and workmen going back and forth on mysterious errands with toolbelts jangling around their waists, carrying huge bundles of pipe and lumber and cloth.
+"I got a gold medal in our canton's Math Olympiad!"
 
-Ashok drove them past the hangars -- those must be the sound-stages where  they shot the movies, there was a good studio-map in Zombie Mecha where you could fight zombies through a series of wood-backed film scenery -- and toward a series of low-slung trailers that hugged the wall to their left. Each one had a miniature fence in front of it, and a small flower-garden, so neat and tidy that at first she thought the flowers must be fake.
+"That's very good! Math is useful in this world. Let's do a little math. If each level of the pyramid has double the number of members of the previous level, how many members are there on the 10th level of the pyramid?"
 
-Finally, Ashok slowed the bike and then coasted to a stop, killing the engine. The engine noise still hummed in her ears, though, and she continued to feel the thrum of the bike in her legs and bum. She unlocked her hands from around Ashok's waist, prying her fingers apart, and stepped off the bike, catching her toe on the lathi and falling to the grass. Blushing, she got to her feet, unsteady but upright.
+"What? Oh. Um. 2 to the 10. That's --" *1024* Lu thought to himself. "1024, right?"
 
-Ashok grinned at her. "You all right there, sister?"
+"Exactly. How many on the 30th level?"
 
-She wanted to say something sharp and cutting in response, but nothing came. The words had been beaten out of her by the ride. Suddenly, she felt as though she could hardly breathe, and the fabric of her hijab seemed filled with road dust that it released into her nose and mouth with every inhalation. She carefully undid the pin and moved her hijab so that it no longer covered her face.
+"Um..."
 
-Ashok stared at her in horror. "You -- you're just a little girl!"
+Lu pulled out his phone, used the calculator, did some figuring.
 
-She bridled and the words came to her again. "I am *14* -- there were girls my age with husbands and babies in Dharavi! I'm a skilled fighter and commander. I'm no little girl!"
+"Um...."
 
-He blushed a purple color and clasped his hands at his chest apologetically. "Forgive me," he said. "But -- Well, I assumed you were 18 or 19. You're tall. I've brought you all this way and you're, well, you're a child! Your parents will be mad with worry!"
+"Oh, just guess."
 
-She gave him her best steely glare, the one she used to make the boys in the Army behave when they were getting too, well, *boyish*. "I left them a note. And I'll be back tonight. And I'm old enough to worry about this sort of thing on my own account, thank you very much. Now, you've dragged me halfway across India for some mysterious purpose, and I'm sure that it wasn't just to have me stand around here talking about my family life."
+"It's big. A hundred thousand? No! About five hundred thousand."
 
-He recovered himself and grinned again. "Sorry, sorry. Right, we're here for a meeting. It's important. The Webblies have never had much contact with real unions, but now that Nor is in trouble, she's asked me to take up her cause with the unions here. There's meetings like this happening all over the world today -- in China and Indonesia, in Pakistan and Mexico and Guatemala. The people waiting for us inside -- they're labor leaders, representatives of the garment-workers' union, the steelworkers' union, even the Transport and Dock Workers' union -- the biggest unions in Mumbai. With their support, the Webblies can have access to money, warm bodies for picket lines, influence and power. But they don't know anything about what you do -- they've never played a game. They think that the Internet is for email and pornography. So you're here -- *we're* here -- to explain this to them."
+"You should give your medal back, sister. It's over a billion." Jie tapped some numbers into her keyboard. "1,073,741,824 to be precise. There's 1.6 billion people in China. Your herb salespeople were supposed to recruit new downliners every two weeks. At that rate --" She typed some more. "It would be just over a year before every person in China was working in your pyramid, even the tiny babies and the oldest grannies."
 
-She swallowed a few times. There was so much in all that she didn't understand -- and what she *did* understand, she wasn't very happy about. For example, this *real* union business -- the Webblies were a real union! But there was more pressing business than her irritation, for example: "What do you mean *we're here to explain*? Are you a gamer?"
+"Oh."
 
-He shook his head ruefully. "Haven't got the patience for it. I'm an economist. Labor economist. I've spent a lot of time with BSN, working out strategy with her."
+"You know about network selling, you must have. What year are you?" Meaning, how many years since you left the village?
 
-She wasn't exactly certain what an economist was, but she also felt that admitting this might further undermine her credibility with this man who had called her a child. "I need my lathi," she said.
+"Four," the girl admitted. "I did know it. Of course. But I thought this was different. I thought because there was a real product and because it was only two people at a time --"
 
-"You don't need a lathi in this meeting," he said. "No one will attack us."
+"I don't think you thought about any of that, sister. I think you thought about having a big apartment and a lot of money. Isn't that right?"
 
-"Someone will steal it," she said.
+"There was money, though! It was working for weeks! My friend had made so much --"
 
-"This isn't Dharavi," he said. "No one will steal it."
+"What level of the pyramid was she on? 10? 20? When you're stealing from the new people to pay the old people, it's a good deal for the old people. Not so good for the new people. People like you or your downliners."
 
-That did it. She could talk about the problems in Dharavi. *She* was a Dharavi girl. But this stranger had no business saying bad things about her home. "I need my lathi in case I have to beat your brains out with it for rubbishing my home," she said, between gritted teeth.
+"I'm a fool," the girl said. "I'm a monster! I destroyed my friends' lives!" She was sobbing now, screaming out the confession for millions of people to hear.
 
-"Sorry, sorry." He squatted down beside the bike and began to unravel the bungee cords from around the lathi. She also went down on one knee and began to worry at the zipstraps that tied up her trouser legs at the ankles, but they only went in one direction, and once they'd locked tight, they wouldn't loosen. Ashok looked up from the bungee cords.
+"It's true," Jie said, mildly. "You're a fool and a monster, just like thousands of other people. Now what are you going to do about it?"
 
-"You need to cut them off," he said. "Here, one moment." He fished in his trouser-pocket and came up with a wicked flick-knife that he snapped open. He took gentle hold of the strap on her right ankle and slid the blade between it and her leg. She held her breath as he sliced through the strap, then flicked the knife closed, turned to her other leg, and, grasping her ankle, cut away the other strap. He looked up at her. Their eyes met, then she looked away.
+"*What can I do?*"
 
-"Be careful," she said, though he'd finished. He handed her the lathi. She gripped it with numb fingers, nearly dropped it, gripped it.
+"You can stop snivelling and pull yourself together. Your friend, the one who recruited you? Someone's holding something over her, the way that she was holding something over you. Sit down with her, and do whatever it takes to get her out. The most evil thing about these pyramids is that they turn friend against friend, make us betray the people we love to keep from being betrayed ourselves. Even if you're one of the lucky few at the top who makes some money from it, you pay the price of your integrity, your friendships and your soul. The only way to win is not to play."
 
-"OK," he said. "OK." He shook his head. "The people in there don't know anything about you or what you do. They are a little, you know, old fashioned." He smiled and seemed to be remembering something. "Very old fashioned, in some cases. And they're not very good with children. Young people, I mean." He held up his hands as she raised her lathi. "I only mean to warn you." He considered her. "Maybe you could cover your face again?"
+"But --"
 
-Yasmin considered this for a moment. Of course, she didn't want to cover her face. She wanted to just go in as herself. Why shouldn't she be able to? But wearing the hijab had some advantages, and one was that no one would ask you why you were covering your face. Ashok had clearly believed she was much older until she'd undraped it.
+"But, but, but! Listen, foolish girl! You called me tonight because your soul is stained with the evil that you did. Did you think I would just tell you that it's all right, you did what you had to do, no blame on you? No! You know me, I'm Jiandi. I don't grant absolution. I tell you what you must do to pay for your crimes. You don't get to confess, feel better and walk away. You have to do the hard work now -- you have to set things to right, help your friends, restore your integrity and conscience. Do you hear me?"
 
-Wordlessly, she unpinned the fabric, brought it across her face, and repinned it. He gave her a happy thumbs up and said, "All right! They're good people, you know. Very good people. They want to be on our side." He swallowed, thought some, rocked his chin from side to side. "But perhaps they don't know that yet."
+"I hear you." Quiet, meek.
 
-He marched to the door, which was made of heavy metal screen over glass, and opened it, then gestured inside with a grand sweep of his arm. Trying to look as dignified as possible, she stepped into the gloom of the trailer, where it was cool and smelled of betel and chai and bleach, and where a lazy ceiling fan beat the air, trailing long snot-trails of dust.
+"Say it louder." She snapped it like a general giving an order.
 
-This was what she noticed first, and not the people sitting around the room on sofas and easy-chairs. Those people were sunk deep into their chairs and sitting silently, their eyes lost in shadow. But after a moment, they began to shift minutely, staring at her. Ashok entered behind her and said, "Hello! Hello! I'm glad you could all make it!"
+"I hear you!"
 
-And then they stood, and they were all much older than her, much older than Ashok. The youngest was her mother's age, and he was fat and sleek and had great jowls and short hair in a fringe around his ears. There were three others, another man in kurta pyjamas with a Muslim skull cap and two very old women in sarees that showed the wrinkled skin on their bellies.
+"LOUDER!"
 
-Ashok introduced them around, Mr Phadkar of the steelworkers' union, Mr Honnenahalli of the transport and dock workers' union, and Mrs Rukmini and Mrs Muthappa, both from the garment workers' union. "These good people are interested in Big Sister Nor's work and so she asked me to bring you round to talk to them. Ladies and gentlemen, this is Yasmin, a trusted activist within the IWWWW organization. She is here to answer your questions."
+"I HEAR YOU!"
 
-They all greeted her politely, but their smiles never reached their eyes. Ashok busied himself in a corner where there was a chai pot and cups, pouring out masala chai for everyone and bringing it around on a tray. "I will be your chaiwallah," he said. "You just all talk."
+"Good!" She laughed and rubbed at one ear. "I think they heard you in Macau! Good girl. Go and do right now!"
 
-Yasmin's throat was terribly dry, but she was veiled, and so she passed on the chai, but quickly regretted it as the talk began.
+And she clicked something and another ad rolled in Lu's headphones. He took them off, found that his eyes were moist with tears. "That poor girl," he said.
 
-"I understand that your 'work' is just playing games, is that right?" said Mr Honnenahalli, the fat man who worked with the Transport and Dock Workers' union.
+"There's thousands more like her," Jie said. "It's a sickness, like gambling. It comes from not understanding numbers. They all win their little math medals, but they don't believe in the numbers. Now, you were about to tell me about some kind of reinforcement."
 
-"We work in the games, yes," Yasmin said.
+"Intermittent reinforcement," he said. "My friend Matthew, he leads our guild, he told me about it. It comes from experiments with rats. Imagine that you have a rat who gets some food every time he pushes a lever. How often do you think he pushes the lever?"
 
-"And so you organize people who play games. How are they workers? They sound like players to me. In the transport trade, we work."
+"As often as he's hungry, I suppose. I kept mice once -- they knew when it was time for food and they'd rush over to the corner of the cage that I dropped their seeds and cheese into."
 
-Yasmin rocked her chin from side to side and was glad of her veil. She remembered her talk with Sushant. "We work the way anyone works, I suppose. We have a boss who asks us to do work, and he gets rich from our work."
+"Right. Now, what about a lever that gives food every fifth time they press the lever?"
 
-That made the two old aunties smile, and though it was dark in the room, she thought it was a genuine one.
+"I don't know -- less?"
 
-"Sister," said Mr Phadkar, he in the skullcap, "tell us about these games. How are they played?"
+"About the same, actually, After a while, the rats figure out that they need five presses for a food pellet and every time they want feeding, they wander over and hit it five times. Now, what about a lever that gives food out at random? Sometimes one press, sometimes one hundred presses?"
 
-So she told them, starting with Zombie Mecha, aided by the fact that Mr Phadkar had actually seen one of the many films based on the game. But as she delved into character classes, leveling up, unlocking achievements, and so on, she saw that she was losing them.
+"They'd give up, right?"
 
-"It all sounds very complicated," Mr Honnenahalli said, after she had spoken for a good thirty minutes, and her throat was so dry it felt like she had eaten a mouthful of sand and salt. "Who plays these games? Who has time?"
+"Wrong! They press it like crazy, All day and all night. It's like someone who wins a little money in the lottery one week and then plays every week afterward, forever. The uncertainty drives them crazy, it's the most addictive system of all. Matthew says it's the most important part of game design -- one day you manage to kill a really hard NPC with a lucky swing, and it drops some incredibly epic item, and you make more money in ten seconds than you made all week, and you have to keep going back to that spot, looking for a monster like it, thinking it'll happen again."
 
-This was something she often heard from her father, and so she told Mr Honnenahalli what she always told him. "Millions of people, rich and poor, men and women, boys and girls, all over the world. They spend crores and crores of rupees, and thousands of hours. It's a game, yes, but it's also as complicated as life in some ways."
+"But it's random, right?"
 
-Mr Honnenahalli twisted his face up into a sour lemon expression. "People in life *make* things that matter. They don't just --" He flapped a hand, miming some kind of pointless labor. "They don't just press buttons and play make believe."
+"I'm not sure," he said. "Matthew says it is. I sometimes think that the game company deliberately messes up the odds so that when you're just about to quit, you get another jackpot." He shrugged. "That's what I'd do, anyway."
 
-She felt her cheeks coloring and was glad again of the veil. Ashok held up a hand. "If a humble chai-wallah may intervene here." Mr Honnenahalli gave him a hostile look, but he nodded. "'Pressing buttons and playing make believe' describes several important sectors of the economy, not least the entire financial industry. What is banking, if not pressing buttons and asking everyone to make believe that the outcomes have value?"
+"If it's random, it shouldn't make any difference what you do and where you play. If you flip a coin ten times and it comes up heads ten times in a row, you've got exactly the same chance of it coming up heads an eleventh time than if it had come up all tails, or half and half."
 
-The old aunties smiled and Mr Honnenahalli grunted. "You're a clever bugger, Ashok. You can always be clever, but clever doesn't feed people or get them a fair deal from their employers."
+"Matthew says stuff like that all the time. He says that although it may be unlikely that you'll get ten heads in a row, each flip has exactly the same chance."
 
-Ashok nodded as though this point had never occurred to him, though Yasmin was pretty certain from his smile that he'd expected this, too. "Mr Honnenahalli, there are over 9,000,000 people working in this industry, and it turns over 500 crore rupees every year. It's averaging six percent quarterly growth. And eight of the 20 largest economies in the world are not countries, they're games, issuing their own currency, running their own fiscal policies, and setting their own labor laws."
+"Matthew sounds like he knows his math."
 
-Mr Honnenahalli scowled, making his jowls wobble, and raised his eyebrows. "They have labor policies in these games?"
+"He does. You should meet him sometime." He swallowed. "If he ever gets out of jail, that is."
 
-"Oh yes," Ashok said. "Their policy is that no one may work in their worlds without their permission, that they have absolute power to set wages, hire and fire, that they can exile you if they don't like you or for any other reason, and that anyone caught violating the rules can be stripped of all virtual property and expelled without access to a trial, a judge, or elected officials."
+"Oh, we'll have to do something about that."
 
-That got their attention. Yasmin filed away that description. She'd heard Big Sister Nor say similar things, but this was better put than any previous rendition. And there was no denying its effect on the room -- they jolted as if they'd been shocked and all opened their mouths to say something, then closed them.
+She handled six more calls, running the show for another two hours, breaking for commercials and promising all her listeners the most exciting event of their lifetime if they just hung in. At first, Lu listened attentively, but his head hurt and he was so tired, and eventually he slumped in his seat and dozed, drifting in and out of dreams as he listened to Jie berating the foolish factory girls of South China.
 
-Finally, one of the aunties said, "Tell me, you say that nine million people work in these places: where? Bangalore? Pune? Kolkata?" These were the old IT cities, where the phone banks and the technology companies were.
+He woke to a sprinkle of ice-water on his face, gasped and sat up, opening his eyes just in time to see Jie dancing back away from him, laughing, her face glowing with excitement. "I *love* doing this show!" she said. "You're up next, handsome!"
 
-Ashok nodded, "Some of them there. Some right here in Mumbai." He looked at Yasmin, clearly waiting for her to say something.
+He looked at his phone and realized that he'd dozed for an hour more, and that it was well past supper time. His stomach rumbled. Jie had taken off her shoes and socks and unbuttoned the top two buttons on her red blouse. Her hair was down and her makeup was smudged. She looked like she was having the time of her life.
 
-"I work in Dharavi," she said. And did she imagine it, or did their noses all wrinkle up a little, did they all subtly shift their weight away from her, as though to escape the shit-smell of a Dharavi girl?
+"Wha?" his head throbbed and it tasted like something had used his mouth for a toilet.
 
-"She works in Dharavi," Ashok said. "But only a million or two work here in India. The majority are in China, or Indonesia, or Vietnam. Some are in South America, some are in the United States. Wherever there is IT, there are people who work in the games."
+"Come *on*," she said, and moved close again, snapping his headphones on. "It's coming up on 8PM. This is when my listenership peaks. They're back from dinner, they're finished gossiping, and they're all sitting on their beds, tuning in on their computers and phones and radios. And I've been hyping you for *hours*. Every pretty girl in the Pearl River Delta is waiting to meet you, are you ready?"
 
-Now the auntie sat back. "I see," she said. "Well, that's very interesting, Ashok, but what do we have to do with China? We're not in China."
+"I -- I --" He suddenly couldn't find his tongue. "Yes!" he managed.
 
-Yasmin shook her head. "The game isn't in China," she said, as though explaining something to a  child. "The game is everywhere. The players are all in the same place."
+"Get your headset on," she called, dashing around to her side of the desk and pouncing on her seat. "We're live in 10, 9, 8..."
 
-Mr Phadkar said, "You don't understand, sister. Workers in these places compete with our workers. The big companies go wherever the work is cheapest and most unorganized. Our members lose jobs to these people, because they don't have the self-respect to stand up for a fair wage. We can't compete with the Chinese or the Indonesians or the Vietnamese -- even the beggars here expect better wages than they command!"
+He fumbled with his headset, swung the mic down, reached for the water glass and gulped down too much, choked, tried to keep it in, choked more, spilled water all down his front. Jie laughed aloud, gulping it down as she spoke into her mic.
 
-Mr Honnenahalli patted his belly and nodded. "We are Indian workers. We represent them. These workers, what happens to them -- it's none of our affair."
+"We're back, we're back, we're back, and now sisters, I have the special surprise I've been promising you all night! A knight of the people, a hero of the factory, a killer who has hunted pirates in space and dragons in the hills, a professional gold-farmer named --" She broke off. "What name shall I call you by, hero?"
 
-Ashok nodded. "Well, that's fine for your unions and your members. But the union that Yasmin works for --"
+"Oh!" He thought for a second. "Tank," he said. "It's the kind of player I am, the tank."
 
-Mr Honnenahalli snorted, and his jowls shook. "It's not a union," he said. "It's a gang of kids playing games!"
+"A tank!" She giggled. "That's just perfect. Oh, sisters, if only you could see this big, muscled tank I have sitting here in my studio. Let me tell you about Tank. I was watching a little video this afternoon, and like many of you, I found myself watching something amazing: dozens of boys, lined up outside an Internet cafe, blinking and pale as newborn mice in the daylight. It seemed that they were a different kind of factory boy, the legendary gold farmers of Shenzhen, and they were demanding a better job, better pay, better conditions, and an end to their vicious, greedy bosses. Does that sound familiar, sisters?
 
-"It's tens of thousands of organized workers in solidarity with one another," Ashok said, mildly, as though he was a teacher correcting a student. "In 14 countries. Look, these players, they're already organized in guilds. That's practically unions already. You worry that union jobs in India might become non-union jobs in Vietnam -- well, here's how you can organize the workers in Vietnam, too! The companies are multinational -- why should labor still stick to borders? What does a border mean, anyway?"
+"The police arrived, the dirty jingcha, with their helmets and clubs and gas, cowards with their faces hidden and their brutal weapons in hand to fight these boys who only wanted justice. But did the boys flee? No! Did they go back to their jobs and apologize to their bosses? No! The mouse army stood its ground, claimed their workplace as their rightful home, the place their work paid for. And what did the jingcha do? Tell me, Tank, what did they do?"
 
-"Plenty, if the border is with Pakistan. People *die* for borders, sonny. You can sit there, with your college education, and talk about how borders don't matter, but all that means is that you're totally out of touch with the average Indian worker. Indian workers want Indian jobs, not jobs for Chinese or what-have-you. Let the Chinese organize the Chinese."
+Lu looked at her like she was crazy. She made urgent hand-gestures at him as the silence stretched. "I, that is, they beat us up!"
 
-"They *are*," Yasmin broke in. "They're striking in China right now! A whole factory walked out, and the police beat them down."
+"They certainly did! Sisters, download this video now, please! Watch as the jingcha charge the boys of Shenzhen, breaking their heads, gassing them, clubbing them. And now, focus on one brave lad off to the left, right at the 14:22 mark. Strong chin, wide eyes, a little freckles over his nose, hair in disarray. See him stand his ground through the charge with his comrades by his side? See the jingcha with his club who comes upon the boy from behind and hits him in the shoulder, knocking him down? See the club come up again and land on the poor boy's head, the blood that flies from the wound?
 
-And so Yasmin told them the story of the battle of Mushroom Kingdom, and the story of the battle of Shenzhen, and what she'd seen and heard.
+"That, sisters, is Tank, the boy sitting across from me, bloodied but unbowed, brave and strong, standing up for the rights of workers --" She dissolved into giggles. Lu giggled too, he couldn't help it. "Oh, sorry, sorry. Look, he's a very nice boy, and not bad to look at, and the jingcha laid into his head and shoulder like they were tenderizing a steak, and all he was doing was insisting that he had the right to work like a person and not an animal. And he's not alone. They call it 'The People's Republic of China,' but the people don't get any say in the way it's run. It's all corruption and exploitation.
 
-"Wildcat strikes," Mr Honnenahalli said. "Craziness. No strategy, no organization. Doomed. Those workers may never see the light of day again."
+"I thought the video was amazing, a real inspiration. And then I saw him, our Tank, wandering dazed and bloody through --" she broke off. "Through a location I will not disclose, so that the jingcha won't know which video footage they need to review. I saw him and I told him I wanted to introduce him to you, my friends, and then he told me the most amazing story I've heard, and you *know* I hear a lot of amazing stories here every night. A story about a global movement to improve the lot of workers everywhere, and I hope that's the story he'll tell us tonight. So, Tank, darling, start with your injuries. Could you describe them to our friends out there?"
 
-"Not unless their comrades rally to them," Ashok said. "Comrades like Yasmin and her group. You want to see something workers are prepared to fight for? You need to get to an internet cafe and see. See who is out of touch with workers. You can talk all you want about 'Indian workers,' but until you find solidarity with *all* workers, you'll never be able to protect your precious *Indian workers*." He was losing his temper now, losing that schoolmasterish cool. "Those workers got bad treatment from their employer so they went out. Their jobs can just be moved -- to Vietnam, to Cambodia, to Dharavi -- and their strike broken. Can't you *see it*? *We finally have the same tools as the bosses*! For a factory owner, all places are the same, and it's no difference whether the shirts are sewn here or there, so long as they can be loaded onto a shipping container when it's done. But now, for us, all places are the same too! We can go anywhere just by sitting down at a computer. For forty years, things have gotten harder and harder for workers -- now it's time to change that."
+And Lu did, and then he found himself going from there into the story of how he came to be a gold farmer, what life was like for him, the stories Matthew had told him about how Boss Wing had forced him and his friends to go back to work in his factory, talking and talking until the water was gone and his mouth was dry, and mercifully, she called for another commercial.
 
-Yasmin felt herself grinning beneath the veil. That's it, Ashok, give it to him! But then she saw the faces of the old people in the room: stony and heartless.
+He sagged into his chair while she got him some more water. "You should see the chat rooms," she said. "They're all in love with you, 'Tank'. The way you rescued those girls' belongings in Shilong New Town! You're their hero. There are dozens of them who claim that they were there on that day, that they saw you climbing the fence. Listen to this, 'His muscles rippled like iron bands as he clambered up the fence like a mighty jungle creature...'" He snorted water up his sinuses, and Jie gave his bicep a squeeze. "You need to work out some more, Jungle Creature, your muscles have gone all soft!"
 
-"Those are nice words," one of the aunties said. "Honestly. It's a beautiful vision. But my workers don't have computers. They don't go to Internet cafes. They dye clothing all day. When their jobs go abroad, they can't chase them with your computers."
+"How do you have message boards? Don't they block them?"
 
-"They can be part of the Webblies too!" Yasmin said. "That's the beauty of it. The ones who work in games, we can go anywhere, organize anywhere, and wherever your workers are, we are too! We can go anywhere, no one can keep us out. We can organize dyers anywhere, through the gamers."
+"Oh, that's easy," she said. "We just pick a random blog out there on the net, usually one that no one has posted to in a year or two, and we take over the comment board on one of its posts. Once they block it -- or the server crashes -- we switch to another one. It's easy -- and fun!"
 
-Mr Honnenahalli nodded. "I thought so. And when this is all done, the Webblies organize all the workers in the world, and our unions, what happens to them? They melt away? Or they're absorbed by you? Oh yes, I understand very well. A very neat deal all around. You certainly do play games over there at the Webblies."
+He laughed and shook his head, which set his headache going again. He winced and squeezed his head between his hands. "Sheer genius!"
 
-Ashok and Yasmin both started to speak at once, then both stopped, then exchanged glances. "It's not like that," Yasmin said. "We're offering to help. We don't want to take over."
+Now the commercial was ending, and they both sat down quickly in their chairs and swung their mics into place. Lu was getting good at this now, the talk coming to him the way it did when he was chatting with his guildies. He'd always been the storyteller of the bunch.
 
-Mr Honnenahalli said, "Perhaps you don't, but perhaps someone else does. Can you speak for everyone? You say you've never met this Big Sister Nor of yours, nor her lieutenants, the Mighty Whatever and Justbob."
+And the story went on -- he told of how the Webblies had come to him and his guildies in game, had talked to them about the need for solidarity and mutual aid to protect themselves from bosses, from players who hunted gold-farmers, from the game company.
 
-"I've met them dozens of times," Yasmin said quietly.
+"They want to unite Chinese workers," Jie said, nodding sagely.
 
-"Oh, certainly. In the game. What is the old joke from America? On the Internet, nobody knows you're a dog. Perhaps these friends of yours are old men or little children. Perhaps they're in the next Internet cafe in Dharavi. The Internet is full of lies and tricks and filth, little sister --" Her back stiffened. It was one thing to be called 'sister,' but 'little sister' wasn't friendly. It was a dismissal. "And who's to say you haven't fallen for one of these tricks?"
+"No!" He surprised himself with his vehemence. "Uniting Chinese workers would be useless. With gold farming, the work can just move to Indonesia, Vietnam, Cambodia, India -- anywhere workers aren't organized. It's the same with all work now -- your job can move in no time at all to anywhere you can build a factory and dock a container ship. There's no such thing as 'Chinese' workers anymore. Just workers! And so the Webblies organize all of us, everywhere!"
 
-Ashok held up a hand. "Perhaps this is all a dream, then. Perhaps you are all figments of my imagination. Why should we believe in anything, if this is the standard all must rise to? I've spoken to Big Sister Nor many times, and to many other members of the IWWWW around the world. You represent two million construction workers -- how many of them have *you* met? How are we to know that *they* are real?"
+"That's a lot of workers," she said. "How many have you got?"
 
-"This is getting us all nowhere," one of the aunties said. "You were very kind to come and visit with us, Ashok, and you, too, Yasmin. It was very courteous for you to tell us what you were up to. Thank you."
+He hung his head. "Jiandi," he said. "We can all see the counter, and we all cheer when it goes up by a few hundred, but we're a long way off."
 
-"Wait," Ashok said. "That can't be all! We came here to ask you for help -- for *solidarity*. We've just had our first strike, and our executive cell is offline and missing --" Yasmin turned her head at this. What did that mean? "And we need help: a strike fund, administrative support, legal assistance --"
+"Oh, Tank," she said. "Don't be discouraged. Tens of thousands of people! That's fantastic -- and I'm sure we can get a few members for you. How can my listeners join up?"
 
-"Out of the question," Mr Honnenahalli said.
+"Eh? Oh!" He struggled to remember the procedure for this. "You need to get at least 50 percent of your co-workers to agree to sign up, and then we certify the union for your whole factory."
 
-"I'm afraid so," said Mr Phadkar. "I'm sorry, brother. Our charter doesn't allow us to intervene with other unions -- especially not the sort of organization you represent."
+"Ay-yah! 50 percent! The big factories have 50,000 workers! How do you do that?"
 
-"It's impossible," said one of the aunties, her mouth tight and sorry. "This just isn't the sort of thing we do."
+He shrugged. "I'm not sure," he said. "We've been mostly signing up small game-factories, there's not many bigger than 200 workers. It has to be possible, though. Trade unions all over the world have organized factories of every size." He swallowed, understanding how lame he sounded. "Look, this is usually Matthew's side of things. He understands all of it. I'm just the tank, you understand? I stand in the front and soak up all the damage. And you can't talk to Matthew because he's in jail."
 
-Ashok went to the kettle and set about making more chai. "Well, I'm sorry to have wasted your time," he said. "I'm sure we'll figure something out."
+"Ah yes, jail. Tell us about what happened today."
 
-They all stared at one another, then Mr Honnenahalli stood with a wheeze, picking up an overstuffed briefcase at his feet and leaving the little building. Mr Phadkar followed, smiling softly at the aunties and waving tentatively at Yasmin. She didn't meet his eye. One of the aunties got up and tried to say something to Ashok, but he shrugged her off. She went back to her partner and helped her to her old, uncertain feet. The pair of them squeezed Yasmin's shoulders before departing.
+So he told them the story of the battle, all those millions of girls out there in the towns of Guangdong, and he found himself...transported. Taken away back to the cafe, the shouting, the police and the screams, his voice drifting to his ears from a long way off through the remembered shouts in his ears. When he stopped, he snapped back to reality and found Jie staring at him with wet eyes and parted lips. He looked at his phone. It was nearly midnight.
 
-Once the door had banged shut behind them, Ashok turned and hissed *bainchoad* at the room. Yasmin had heard worse words than this every day in the alleys of Dharavi and in the game-room when the army was fighting, and hearing it from this soft boy almost made her giggle. But she heard the choke in his voice, like he was holding back tears, and she didn't want to smile anymore. She reached up and unhooked her hijab, repinning it around her neck, freeing her face to cool in the sultry air the fan whipped around them. She crossed to Ashok and took a cup of tea from him and sipped it as quickly as she could, relishing the warm wet against her dry, scratchy throat. Now that her face was clear of hijab, she could smell the strong reek of old betel spit, and saw that the baseboards of the scuffed walls were stained pink with old spittle.
+He shrugged, dry mouthed. "I -- Well, that's it, I suppose."
 
-"Ashok," she said, using the voice she'd used to enforce discipline in the army. "Ashok, look at me. What was that -- that *meeting* about? Why was I here?"
+"Wow," Jie breathed, and cued up another commercial. "Are you OK?"
 
-He sat down in the chair that Mr Phadkar had just vacated and sipped at his chai.
+"My head feels like it's being crushed between two heavy rocks," he said. He shifted his butt in his chair and winced. "And my shoulder's on fire."
 
-"Oh, I've made a bloody mess of it all, I have," he said.
+"I've really kept you up," she said. "We're almost done here, though. You're a really tough bastard, you know that?"
 
-"Ashok," she said, that stern note in her voice. "Complain later. Talk now. What did you just drag me halfway across Mumbai for?"
+He didn't feel tough. Truth be told, he felt pretty terrible about the fact that he'd gotten away while his guildies had all been locked up. Logically he knew that they wouldn't benefit from him being jailed alongside of them, but that was logic, not feelings.
 
-"I've been working on this meeting for months, ever since Big Sister Nor asked me to. I told her that I thought the trade unions here would embrace the Webblies, would see the power of a global labor movement that could organize everywhere all at once. She loved the idea, and ever since then, I've been sweet-talking the union execs here, trying to get them to see the potential. With their members helping us -- and with our members helping them -- we could change the world. Change it like that!" He snapped his fingers. "But then the strike broke out, and Big Sister Nor told me she needed help *right now*, otherwise those comrades would end up in jail forever, or worse. She said she thought you'd be able to help, and we were all going to talk about it before we came down, but then, when I was riding to get you --" He broke off, drank chai, stared out the grimy, screened in windows at the manicured grounds of the film studio. "I got a call from The Mighty Krang. They were beaten. Badly. All three of them, though Krang managed to escape. Big Sister Nor is in hospital, unconscious. The Mighty Krang said he thought it was one of the Chinese factory owners -- they've been getting meaner, sending in threats. And they've got lots of contacts in Singapore."
+"OK," she said. "We're back. What a *story*! Sisters, didn't I tell you I had something special tonight? Alas, it's nearly time to go -- we all need some sleep before we go back to work in the morning, don't we? Just one more thing: *what are we going to do about this?*"
 
-Yasmin  finished her chai. Her hair itched with dust and sweat, and she slid a finger up underneath it and scratched at a bead of sweat that was trickling down her head. "All right," she said. "What had you hoped for from those old people?"
+Suddenly, she wasn't sleepy and soothing. Her eyes were wide, and she was gripping the edge of her desk tightly. "We come here from our villages looking to do an honest job for decent pay so that we can help our families, so that we can live and survive. What do we get? Slimy perverts who screw us on the job and off! Bastard criminals who destroy anyone who challenges their rackets! Cops who beat us and put us in jail if we dare to challenge the status quo!"
 
-"Money," he said. "Support. They have the ear of the press. If their members demanded justice for the workers in Shenzhen, rallied at the Chinese consulates all around India..." He waved his hands. "I'm not sure, to be honest. It was supposed to happen weeks from now, after I'd done a lot more whispering in their ears, finding out what they wanted, what they could give, what we could give them. It wasn't supposed to happen in the middle of a strike." He stared miserably at the floor.
+"Sisters, it *can't go on*! Tank here said there's no such thing as a Chinese worker anymore, just a worker. I hadn't heard of these Webblies of his before tonight, and I don't know if they're any better than your boss or the thief running the network sales rip-off next door, and I don't care. If there are workers around the world organizing for a better deal, I want to be a part of it, and so do you!
 
-Yasmin thought about Sushant, about his fear of leaving Mala's army. As long as soldiers like him fought for the other side, the Webblies wouldn't be able to blockade the strikes in-game. So. So she'd have to stop Mala's army. Stop all the armies. The soldiers who fought for the bosses were on the wrong side. They'd see that.
+"I'll tell you what's going to happen next. Tank and I are going to find the Webblies and we're going to plan something big. Something *huge*! I don't know what it will be, but it's going to change things. There's *millions* of us! Anything we do is *big*.
 
-"What if we helped ourselves?" she said. "What if we got so big that the unions had to join us?"
+"I have a confession to make." Her voice got quieter. "A sin to confess. I do this show because it makes me money. A lot of money. I have to spend a lot to stay ahead of the zengfu, but there's plenty left over. More than you make, I have to confess. It's been a long time since I was as poor as a factory girl. I'm practically rich. Not boss-rich, but rich, you understand?
 
-"Yes, what if, what if. It's so easy to play what if. But I can't see how this will happen."
+"But I'm with you. I didn't start this show to get rich. I started it because I was a factory girl and I cared about my sisters. We've been coming to Guangdong Province since Deng Xiaoping changed the rules and made the factories here grow. It's been generations, sisters, and we come, we poor mice from the country, and we are ground up by the factories we slave in. For every Yuan we send home, our bosses put a hundred in their pockets. And when we're done, then what? We become one of the old grannies begging by the road.
 
-"I think I can get more fighters in the games. We can protect any strike."
+"So listen in tomorrow. We're going to find out more about these Webblies, we're going to make a plan, and we're going to bring it to you. In the meantime, don't take any crap off your bosses. Don't let the cops push you or your sisters and brothers around. And be good to each other -- we're all on the same side."
 
-"Well, that's fine for the games, but it doesn't help the players. Big Sister Nor is still in hospital. The Webblies in Shenzhen are still in jail."
+She clicked her mouse and flipped the lid down on her laptop.
 
-"All I can do is what I can do," Yasmin said. "What can you do? What do economists do?"
+"Whew!" she said. "What a *night*!"
 
-He looked rueful. "We go to university and learn a lot of maths. We use the maths to try to predict what large numbers of people will do with their money and labor. Then we try to come up with recommendations for influencing it."
+"Is your show like this every night?"
 
-"And this is what you do with your life?"
+"Not this good, Tank. You certainly improved things. I'm glad I kidnapped you from the train station."
 
-"Yes, I suppose it all sounds bloody pointless, doesn't it? Maybe that's why I'm willing to take the games so seriously -- they're no less imaginary than anything else I do. But I became an economist because nothing made sense without it. Why were my parents poor? Why were our cousins in America so rich? Why would America send its garbage to India? Why would India send its wood to America? Why does anyone care about gold?
+"I am too," he said. He was so tired. "I guess I'll call you tomorrow about the next show? Maybe we could meet in the morning and try to reach the Webblies or find a way to try to call my guildies and see if they're all still in jail?"
 
-"That was the really strange one. Gold is such a useless thing, you know? It's heavy, it's not much good for making things out of -- too soft for really long-wearing jewelry. Stainless steel is much better for rings." He tapped an intricate ring on his right hand on the arm of the chair. "There's not much of it, of course. All the gold we've ever dug out of the ground would form a cube with sides the length of a tennis court." Yasmin had seen pictures of tennis courts, but she wasn't clear how big this actually was. Not very large, she supposed. "We dig it out of one hole in the ground and then put it in another hole in the ground, some vault somewhere, and call it money. It seemed ridiculous.
+"Call me? Don't be stupid, Tank. I'm not letting you out of my sight."
 
-"But everyone *knows* gold is valuable. How did they all agree on this? That's where I started to get really fascinated. Because gold and money are really closely related. It used to be that money was just an easy way of carrying around gold. The government would fill a hole in the ground with gold, and then print notes saying, 'This note is worth so many grams of gold.' So rather than carrying heavy gold around to buy things, we could carry around easy paper money.
+"It's OK," he said. "I can find somewhere to sleep." When he'd first arrived in Shenzhen, he'd spent a couple nights sleeping in parks. He could do that again. It wasn't so bad, if it didn't rain in the night. Had there been clouds that day? He couldn't remember.
 
-"It's funny, isn't it? We dig gold out of holes in the ground, weigh it, and then put it in another hole in the ground! What good is gold? Well, it puts a limit on how much money a government can make. If they want to make more money, they have to get more gold from somewhere. "
+"You certainly can -- right through that doorway, right there." She pointed to the bedroom.
 
-"Why does it matter how much money a country prints?"
+He was suddenly wide awake. "Oh, I couldn't --"
 
-"Well, imagine that the government decided to print a crore of rupees for every person in India. We'd all be rich, right?"
+"Shut up and go to bed. You've got a head injury, stupid. And you've just given me hours of great radio show. So you need it and you've earned it. Bed. Now."
 
-Yasmin thought for a moment. "No, of course not. Everything would get more expensive, right?"
+He was too tired to argue. He stumbled a little on the way to bed, and she swept the clothes and toys and handbags from the bed onto the floor just ahead of him. She pulled the sheet over him and kissed him on the forehead as he settled in. "Sleep, Tank," she whispered in his ear.
 
-He waggled his chin. He was sounding like a schoolteacher again. "Very good," he said. "That's inflation: more money makes everything more expensive. If inflation happened evenly, it wouldn't be so bad. Say your pay doubled overnight, and so did all the prices -- you'd be all right, because you could just buy as much as you could the day before, though it 'cost' twice as much. But there's a problem with this. Do you know what it is?"
+He wondered dimly where she would sleep, as she left the room and he heard her typing on her computer again. He fell asleep with the sound of the keys in his ears.
 
-Yasmin thought. "I don't know." She thought some more. Ashok was nodding at her, and she felt like it was something obvious, almost visible. "I just don't know."
+He barely woke when she slid under the covers with him, snuggled up to him and began to snore softly in his ear.
 
-"A hint," he said. "Savings."
+But he was wide awake an hour later when ten police cars pulled up out front of Houhai's buildings, sirens blaring, and a helicopter spotlight bathed the entire building in light as white as daylight. She went rigid beside him under the covers and then practically levitated out of the bed.
 
-She thought about this some more. "Savings. If you had money saved, it wouldn't double along with wages, right?" She shook her head. "I don't see why that's such a problem, though. We've got some money saved, but it's just a few thousand rupees. If wages doubled, we'd get that back quickly from the new money coming in."
+"Twenty seconds," she barked. "Shoes, your phone, anything else you need. We won't come back here."
 
-He looked surprised, then laughed. "I'm sorry," he said. "Of course. But there are some people and companies and governments that have a *lot* of savings. Rich people might save crores of rupees -- those savings would be cut in half overnight. Or a hospital might have many crores saved for a new wing. Or the government or a union might have crores in savings for pensions. What if you work all your life for a pension of two thousand rupees a month, and then, a year before you're supposed to start collecting it, it gets cut in half?"
+Lu felt obscurely proud of how calm he felt as he stood up and, in an unhurried, calm fashion, picked up his shoes -- factory workers' tennis shoes, cheap and ubiquitous -- and laced them up, then pulled on his jacket, then moved efficiently into the living room, where Jie was hosing solvent over all the flat surfaces in the room. The smell was as sharp as his headache, and intensified it.
 
-Yasmin didn't know anyone who had a pension, though she'd heard of them. "I don't know," she said. "You'd work, I suppose."
+She nodded once at him, and then nodded at another pressure-bottle of solvent and said, "You do the bathroom and the bedroom." He did, working quickly. He guessed that this would wipe away anything like a fingerprint or a distinctive kind of dirt. He was done in a minute, or maybe, less, and she was at his elbow with a ziploc baggie full of dust. "Vacuumed out of the seas of the Hong Kong-Shenzhen train," she said. "Skin cells from a good million people. Spread it evenly, please. Quickly now."
 
-"You're not making this easy," Ashok said. "Let me put it this way: there are a lot of powerful, rich people who would be very upset if inflation wiped out their savings. But governments are very tempted by inflation. Say you're fighting an expensive war, and you need to buy tanks and pay the soldiers and put airplanes in the sky and keep the missiles rolling out of the factories. That's expensive stuff. You have to pay for it somehow. You could borrow the money --"
+The dust got up his nose and  made  him sneeze, and sunk into the creases of his palms, and it was all a little icky, but his head was clear and full of the sirens and the helicopter's thunder. As he scattered the genetic material throughout, he watched Jie popping the drive out of her computer and dropping the slender stick down her cleavage, and *that* finally broke through his cool. Suddenly, he realized that he'd spent the night sleeping next to this beautiful girl, and he hadn't even *kissed* her, much less touched those mysterious and intriguing breasts that now warmly embraced an extremely compromising piece of storage media, a sliver of magnetic media that could put them both in jail forever.
 
-"Governments borrow money?"
+She looked around and ticked off a mental checklist on her finger. Then she snapped a decisive nod and said, "All right, let's go." She led him out into the corridor, which was brightly lit and empty, leaving him feeling very exposed. She pulled a short prybar out of her purse and expertly pried open the steel door on a fuse-panel by the elevators, revealing neat rows of black plastic breaker switches. She fished in her handbag again and came out with a disposable butane lighter, which she lit, applying the flame to a little twist of white vinyl or shiny paper protruding like a pull-tab from an unobtrusive seam in the panel. It sizzled and flashed and a twist of black smoke rose from it and then the paper burned away, the spark disappearing into the panel.
 
-"Oh yes, they're shocking beggars! They borrow it from other governments, from companies -- even from their own people. But if you're not likely to win the war -- or if victory will wipe you out -- then it's unlikely anyone will voluntarily lend you the money to fight it. But governments don't have to rely on voluntary payments, do they?"
+A second later, the entire panel-face erupted in a shower of sparks, smoke and flame. Jie regarded it with satisfaction as black smoke poured out of the plate. Then all the lights went out and the smoke alarms began to toll, a bone-deep dee-dah dee-dah that drowned out the helicopter, the sirens.
 
-Yasmin could see where this was going. "They can just tax people."
+She clicked a little red LED light to life and it bathed her face in demonic light. She looked very satisfied with herself. It made Lu feel calm.
 
-"Correct," he said. "If you weren't such a clearly sensible girl, I'd suggest you try a career as an economist, Yasmin! OK, so governments can just raise taxes. But people who have to pay too much tax are unlikely to vote for you the next time around. And if you're a dictator, nothing gets the revolutionaries out in the street faster than runaway taxation. So taxes are only of limited use in paying for a war."
+"Now what?" he said.
 
-"Which is why governments like inflation, right?"
+"Now we stroll out with everyone else who'se running away from the fire alarms."
 
-"Correct again! First, governments can print a lot of money that they can use to buy missiles and tanks and so on, all the while borrowing even more, as fast as they can. Then, when prices and wages all go up and up -- say, a hundred times -- then suddenly it's very easy to repay all that money they borrowed. Maybe it took a thousand workers' tax to add up to a crore of rupees before inflation, and now it just takes one. Of course, the person who loaned you the money is in trouble, but by that time, you've won the war, gotten reelected, and all without crippling your country with debt. Bravo."
+All through the building, doors were opening, bleary families were emerging, and smoke was billowing, black and acrid. They headed for the staircase, just behind the Bound-Foot Granny who they'd met the day before. In the stairwell, they met hundreds, then thousands more refugees from the building, all carrying armloads of precious possessions, babies, elderly family members.
 
-Yasmin turned this over. She found it surprisingly easy to follow -- all she had to do was think of what happened to the price of goods in the different games she played, going up and down, and she could easily see how inflation would work to some players' benefit and not others. "But governments don't have to use inflation just to win wars, do they?" She thought of the politicians who came through Dharavi, grubbing for the votes the people there might deliver. She thought of their promises. "You could use inflation to build schools, hospitals, that sort of thing. Then, when the debt caught up with you, you could just use inflation to wipe it out. You'd get a lot of votes that way, I'm quite sure."
-
-"Oh yes, that's the other side of the equation. Governments are always trying to get re-elected with guns or butter -- or both. You can certainly get a lot of votes by buying a lot of inflationary hospitals and schools, but inflation is like fatty food -- you always pay the price for it eventually. Once hyperinflation sets in, no one can pay the teachers or nurses or doctors, so the next election is likely to end your career.
-
-"But the temptation is powerful, very powerful. And that's where gold comes in. Can you think of how?"
-
-Yasmin thought some more. Gold, inflation; inflation, gold. They danced in her head. Then she had it. "You can't make more money unless you have more gold, right?"
-
-He beamed at her. "Gold star!" he said. "That's it exactly. That's what rich people like about gold. It is a disciplinarian, a policeman in the treasury, and it stops government from being tempted into funding their folly with fake money. If you have a lot of savings, you want to discipline the government's money-printing habits, because every rupee they print devalues your own wealth. But no government has enough gold to cover the money they've printed. Some governments fill their vaults with other valuable things, like other dollars or euros."
-
-"So dollars and euros are based on gold, then?"
-
-"Not at all! No, they're backed by other currencies, and by little bits of metal, and by dreams and boasts. So at the end of the day, it's all based on nothing!"
-
-"Just like game-gold!" she said.
-
-"Another gold star! Even *gold* isn't based on gold! Most of the time, if you buy gold in the real world, you just buy a certificate saying that you own some bar of gold in some vault somewhere in the world. The postman doesn't deliver a gold-brick through your mail-slot. And here's the dirty secret about gold: there is more gold available through certificates of deposit than has ever been dug out of the ground."
-
-"How is that possible?"
-
-"How do you think it's possible?"
-
-"Someone's printing certificates without having the gold to back them up?"
-
-"That's a good theory. Here's what I think happens. Say you have a vault full of gold in Hong Kong. Call it a thousand bars. You sell the thousand bars' worth of gold through the certificate market, and lock the door. Now, some time later, someone -- a security guard, an executive at the bank -- walks into the vault and walks out again with ten gold bars from the middle of the pile. These ten bars of gold are sold at a metals market, and they end up in a vault in Switzerland, which prints certificates for *its* gold holdings and sells them on. Then, one day, an executive at the Swiss bank helps himself to ten bars from *that* vault and they get sold on the metals market. Before you know it, your ten bars of gold have been sold to a hundred different people."
-
-"It's inflation!"
-
-He clapped. "Top pupil! Correct. There's a saying from physics, 'It's turtles all the way down.' Do you know it? It comes from a story about a British physicist, Bertrand Russell, who gave a lecture about the universe, how the Earth goes around the Sun and so on. And a little old granny in the audience says, 'It's all rubbish! The world is flat and rests on the back of a turtle!' And Russell says, 'If that's so, what does the turtle stand on?' And the granny says, 'You can't fool me, sonny, it's turtles all the way down!' In other words, what lives under the illusion is yet another illusion, and under that one is another illusion again. Supposedly good currency is backed by gold, but the gold itself doesn't exist. Bad currency isn't backed by gold, it's backed by other currencies, and  *they* don't exist. At the end of the day, all that any of this is based on is, what, can you tell me?"
-
-"Belief," Yasmin said. "Or fear, yes? Fear that if you stop believing in the money, you won't be able to buy anything. It *is* just like game-gold! I remember one time when Zombie Mecha started charging for buffs that used to be free and overnight, all the players left. The people who were left behind were so desperate, walking around, trying to hawk their gold and weapons, offering prices that were tiny compared to just a few days before. It was like everyone had stopped believing in Zombie Mecha and then it stopped existing! And then the game dropped its prices and people came back and the prices shot back up again."
-
-"We call it 'confidence'," Ashok said. "If you have 'confidence' in the economy, you can use its money. If you don't have confidence in the economy, you want to get away from it and get it away from you. And it's turtles all the way down. There's almost nothing that's worth *anything*, except for confidence. Go to a steel foundry here in Mumbai and you'll find men risking their lives, working in the fires of hell in their bare feet without helmets or gloves, casting steel to make huge round metal plates to cover the sewer entrances in America. Why do they do it? Because they are given rupees -- which are worth nothing unless you have confidence in them. And why are they given rupees? Because someone -- the boss -- thinks that he'll get dollars for his steel discs. What are dollars worth?"
-
-"Nothing?"
-
-"*Nothing!* Unless you believe in them. And what about the discs -- what good are they? They're the wrong size for the sewer openings in Mumbai. You could melt them down and do something else with them, but apart from that, they're just bloody heavy biscuits that serve no useful purpose. So why does any of this happen?"
-
-Yasmin said, "Oh, that's simple. You really don't know?"
-
-"It's easy? Please, tell me. It's not easy for me and I've been studying it all my life."
-
-"It all happens because it's a *game*!"
-
-He looked offended. "Maybe it's a game for the rich and powerful -- but it's not any fun for the poor and the workers and the savers who get the wrong end of it."
-
-"Games don't need to be *fun*, they only have to be, I don't know, *interesting*? No, *captivating*! There are so many times when I find myself playing and playing and playing, and I can't stop even though it's all gotten very boring and repetitive. 'One more quest,' I tell myself. 'One more kill.' And then again, 'One more, one more, one more.' The important thing about a game isn't how fun it is, it's how easy it is to start playing and how hard it is to stop."
-
-"Aha. OK, that makes sense. What, specifically, makes it hard to stop?"
-
-"Oh, many little things. For example, in Zombie Mecha, if you stop playing without going to a mecha-base, you get 'fatigued.' So when you come back to the game, you play worse and earn fewer points for making the same kills and running the same dungeons. So you think, 'OK, I'm done for today, time to go back to a base.' And you run for a base, which is never very close to the quests, and on the way, you get a new quest, a short one that has a lot of good rewards. You do the quest. Now you head for the base again, but again, you find yourself on a quest, but this one is a little longer than it seemed, and now even more time has gone by. Finally, you reach the base, but you've played so much that you've almost levelled up, and it would be a pity to stop playing now when just a few random kills would get you to the next level and then you can buy some very good new weapons and training at the base, so you hunt down some of the biters around the base-entrance, and now you level up, and you get some good new weapons, and you've also just unlocked many new quests. These quests are given to you when you reach the base, and some of them look very interesting, and now some of your friends have joined you, so you can group with them and run the quests together, which will be much quicker and a lot more fun. And by the time you stop, it's been three, sometimes four hours more play than you thought you'd do."
-
-"This happens a lot?"
-
-"Oh yes. Many times a week for me. And I don't even play for points -- I play to help the union! The more play you do, the more sense it makes to keep on playing. All this business with gold and rupees and dollars and steel plates -- we play that game all the time, don't we? So of course it works. Everyone plays it because everyone has played it all their lives."
-
-"I can see why Big Sister Nor told me I must talk with you," he said. "You're a very clever girl."
-
-She looked down.
-
-"What do we do about Big Sister Nor?"
-
-"She thinks we need to find money and support for the strikers. I think she needs money and support for *herself*. She says she's fine, but she's in hospital and it sounds like she was badly beaten."
-
-"How do we get her support from here? They're so far away." Thinking: *Mumbai's opposite corner is far away for me -- China might as well be the moon or the Mushroom Kingdom.* "And how do we know that Big Sister Nor will be safe where she is?"
-
-"Both good questions," he said. "It's frustrating. They're so close when we're all online, but so far when we need to do something that involves the physical world." He began to pace. "This is Big Sister Nor's department. She sees a way to tie up the virtual world and the real world, to move work and ideas and money from one to the other."
-
-"Maybe we should just concentrate on the games, then? They're the part we know how to use."
-
-"But these people are in trouble in the real world," Ashok said, balling his hands into fists.
-
-And Yasmin found herself giggling, and then laughing, really laughing. It was so obvious!
-
-"Oh, Ashok," she said, "oh, yes, they certainly are."
-
-And she knew just what to do about it.
+At the bottom, the police tried to corral them into an orderly group in front of the building, but there were too many people, too much confusion. In the end, it was simple to slip through the police lines and mingle with the crowd of gawkers from nearby buildings who'd turned out to watch.

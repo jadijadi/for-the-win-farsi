@@ -1,47 +1,43 @@
 # Part III: Ponzi
 
-## Chapter 61
+## Chapter 62
 
 ---
 
-There were five of them in all.  Matthew, Jie, Wing, Shirong, and Wei-Dong. They'd stopped at a 7-11 on the way to the train station and bought as much food as they could carry, asking the bemused clerk to pack it in boxes and seal them with packing tape.
+Big Sister Nor, The Mighty Krang and Justbob had no warning this time. Three men, small-time crooks working on contract for a man in Dongguan who owned one of the big gold-exchanges, worked silently and efficiently. They followed Justbob back from a Malaysian satay restaurant that they were known to frequent, back to the latest safe-house, a room over a massage-parlor on Changi Road, where the Webblies could tap into the wireless from a nearby office building.  They waited patiently outside for all the windows to go dark.
 
-As they approached the port, they stopped talking, walking slowly and deliberately. Wei-Dong steeled himself and walked to the guard's booth. He hadn't called his mother back. There hadn't been time. Shenzhen was in chaos, police-checks and demonstrations everywhere, some riots, spirals of black smoke heading into the sky.
+Then they methodically attached bicycle locks to each doorway. It was nearly 5AM and the few passers-by paid them no particular attention. Once they had locked each door, they hurled petrol bombs through windows on the ground floor. They stayed just long enough to make sure that the fires were burning cheerily before they got into two cars parked around the corner and sped off. The next morning, they crossed into Kuala Lumpur and did not return to Singapore for eight months, drawing a small salary from the man in Dongguan while they laid low.
 
-He motioned for Wing to join him. They had agreed that he would play interpreter, to make Wei-Dong seem like more of a hopeless gweilo, above suspicion. They'd found him some cheap fake Chinese Nike gear to wear, a ridiculous track suit that reminded him of the Russian gangsters he'd see around Santee Alley.
+Big Sister Nor was the first one awake, roused by the sound of three windows smashing in close succession. She smelled the greasy smoke a moment later and began to shout, in her loudest voice, "Fire! Fire!" just as she had practiced in a thousand dreams.
 
-Wordlessly, he handed his passport -- his real passport, held safely all this time -- to the young man on the gate. "WENU432134," he said. "Rosenbaum Logistics container."
+Justbob and The Mighty Krang were up an instant later. Justbob went to the stairs and ventured halfway down toward the massage-parlor before the flames forced her up again. The Mighty Krang broke out the window with a chair -- it had been painted shut -- and leaned way out, far enough to see the lock that had been added to the door. He breathlessly but calmly reported this to Big Sister Nor, who had already popped the drives out of their control machines. She handed them to him, listened to Justbob's assessment of the staircase and nodded.
 
-He waited for Wing to translate, watched him sketch out the English letters on his palm.
+They could hear the screams from the floor below them as the girls from the massage parlor broke out their own windows and called for help. A girl emerged, legs first, from one of the massage parlor's small, high windows. She was screaming, on fire, rolling on the ground. A few people were in the street below, talking into their phones -- the fire department would be here soon. It wouldn't be soon enough. Choking smoke was already filling the room, and they were forced to their knees.
 
-The security guard looked over his shoulder at the two policemen in the booth with him. He picked up a scratched tablet and prodded at it with a blunt finger, squinting at Wei-Dong's passport. Wei-Dong hoped that he wouldn't try something clever, like riffling its pages looking for a Chinese visa.
+"Out the window," Big Sister Nor gasped. "You'll probably break a leg, but that's better than staying here."
 
-He began to shake his head, said "I don't see it --"
+"You first," The Mighty Krang said.
 
-Wei-Dong felt sweat run down his butt-crack and over his thighs. He craned his neck to see the screen. There it was, but the number had been entered wrong, WENU432144. He pointed to it and said, "Tell him that this is the one." He sent a silent thanks to his mother. The guard compared the number to the one he'd entered and then seemed about to let them pass. Then one of the policeman said, "Wait."
+"Me last," she said, in a voice that brooked no argument. "After you two are out." She managed a small smile. "Try to catch me, OK?"
 
-The cop shouldered the security guard out of the way, took the passport from him, examined it closely, holding a page up to the light to see the watermark. "What are you bringing?"
+Justbob grabbed The Mighty Krang's arm and pulled him toward the window. He got as far as the sill, then balked. "Too far!" he said, dropping back to his belly. Justbob gave him a withering look, then hauled herself over the sill, dropped so she was hanging by her arms, then allowed herself to drop the rest of the way. If she made a sound, it was lost in the roar of the flames that were just outside the door now. The floor was too hot to touch.
 
-Wei-Dong waited for Wing to translate.
+"GO!" Big Sister Nor said.
 
-"Samples," he said. "Clothes."
+"You're our leader, our Big Sister Nor," he said, and grabbed her arm. "We're all nothing without you!" She shook his hand off.
 
-He opened up the box at his feet and pulled out a folded tee-shirt emblazoned with some Chinese characters that said "I'm stupid enough to think that this shirt looks cool." Jie had found them from one of the few stubborn peddlers left on the street outside of the Metro entrance near the train station. The cop snorted and said, "Does he know what this says?"
+"No, you idiot," she said. "I am nothing more than the switchboard. You all lead yourselves. Remember that!" She grabbed the waistband of his jeans, just over his butt, and practically threw him out the window. The air whistled past him for an instant, and then there was a tremendous, jarring impact, and then blackness.
 
-Wing nodded. "Yes," he said. "But he thinks that other Americans won't. If they like it, they will  order twenty thousand from us!" He laughed, and after a moment, the cop and the security guard joined in. The cop slapped Wei-Dong on the shoulder and Wei-Dong forced a laugh out as well.
+Big Sister Nor was on fire, her loose Indian cotton trousers, her long black hair. The room was all smoke now, and every breath was fire, too. She smelled her own nose-hairs singe as a breath of scalding air passed into her lungs, which froze and refused to work anymore. She stood and took one step to the window, standing for a moment like a flaming avatar of some tragic god in the window before she faltered, went down on one knee, then the flames engulfed her.
 
-"OK," the cop said, handing back his papers. The security guard gave them directions. "But you'll have to use the north gate to leave. We're closing this one for the evening in half an hour."
+And below, the crowd on the street began to cry. Justbob cried too, from the pavement where she was being tended by a passerby who knew some first aid and was applying pressure to the ruin of her left leg. The Mighty Krang was unconscious, with a broken arm and three broken ribs.
 
-Wing made a show of translating for Wei-Dong, who had the presence of mind to pretend to listen, but he was rocking on his heels, almost at the point of collapse from lack of sleep and food.
+But he remembered what Big Sister Nor told him, and he wrote those words down, typing them with his left hand in English, Malay, Hindi and Chinese, recording them with his smoke-ruined voice from his hospital bed.
 
-They walked in total silence to the container, and Wei-Dong managed to only look over his shoulder once. Jie caught his eye when he did and waggled a finger at him. He smiled wryly and looked ahead, following the directions.
+His words -- Big Sister Nor's words -- went out all over the world, spreading from phone to message board to site to site. You lead yourselves.
 
-The container was just as he'd left it, and his key fit the padlock. The four marvelled at the cleverness of his work inside as they efficiently unpacked their food.
+The words were heard by factory girls all over South China, back on the job after a few short days of energetic chaos, mass firings and mass arrests. They were heard by factory boys all over Cambodia and Vietnam. They were heard in the alleys of Dharavi and in the living rooms of Mechanical Turks all over Europe, the US and Canada. They were published in many languages on the cover of many newspapers and aired on many broadcasts.
 
-"Three nights, huh?" said Jie, as he pulled the door shut behind them.
+These last treated the words as a report from a distant world -- "Did you know that these strange games and the people who played them took it all so seriously?" But for the people who needed to hear them, the words were heard.
 
-"After they load us."
-
-"When will that be?"
-
-He sighed. "I need to call my mother to find out." He pulled out his phone and Jie handed him her last SIM and a calling card.
+They were heard by five friends who downloaded them over the achingly slow network connection on the container ship, a day out of Shenzhen port. Five friends who wept to hear them. Five friends who took strength from them.

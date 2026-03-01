@@ -1,107 +1,103 @@
 # Part II: Hard work at play
 
-## Chapter 19
+## Chapter 20
 
 ---
 
 ## Dedication
 
-This scene is dedicated to Vancouver's multilingual Sophia Books, a diverse and exciting store filled with the best of the strange and exciting pop culture worlds of many lands. Sophia was around the corner from my hotel when I went to Van to give a talk at Simon Fraser University, and the Sophia folks emailed me in advance to ask me to drop in and sign their stock while I was in the neighborhood. When I got there, I discovered a treasure-trove of never-before-seen works in a dizzying array of languages, from graphic novels to thick academic treatises, presided over by good-natured (even slapstick) staff who so palpably enjoyed their jobs that it spread to every customer who stepped through the door.
+This scene is dedicated to the MIT Press Bookshop, a store I've visited on every single trip to Boston over the past ten years. MIT, of course, is one of the legendary origin nodes for global nerd culture, and the campus bookstore lives up to the incredible expectations I had when I first set foot in it. In addition to the wonderful titles published by the MIT press, the bookshop is a tour through the most exciting high-tech publications in the world, from hacker zines like 2600 to fat academic anthologies on video-game design. This is one of those stores where I have to ask them to ship my purchases home because they don't fit in my suitcase.
 
-Sophia Books http://www.sophiabooks.com/ 450 West Hastings St., Vancouver, BC Canada V6B1L1 +1 604 684 0484
+MIT Press Bookstore http://web.mit.edu/bookstore/www/  Building E38, 77 Massachusetts Ave., Cambridge, MA USA 02139-4307 +1 617 253 5249
 
 ---
 
-Coca Cola Games Command Central had been designed by one of the world's leading film-set designers. The brief had called for a room that looked like you could use it to run an evil empire, launch an intergalactic explorer vessel, or command a high-tech mercenary army. Everything was curved and brushed steel and spotlit and what wasn't chrome was black, except for accents of cracked, worn-out black leather harvested from vintage motorcycle jackets. There were screens everywhere, built into the tables, rolled up in the ceiling or floor, even one on the back of the door. Any wall could be drawn on with special pens that used RFIDs and accelerometers to track their motions and transmit them to a computer that recorded it all and splashed it across wireless multitouch screens that were velcroed up all around the room.
+Ashok wove his pretty bike through the narrow alleys of Dharavi, his headlamp slicing through the night. Yasmin's mother would be rigid with worry and anger, and would probably beat her, but it was OK. She and Ashok had sat in that studio shed for hours, talking it through, getting meat on the bones of her idea, and he had left long, detailed messages for Big Sister Nor before getting them back on his bike.
 
-Slick photos of Command Central graced the Coca Cola Games recruiting site and featured in a series of vanity documentaries CCG had commissioned about itself, looking designer-fresh, filled with fit, intense, laughing young people in smart clothes doing intelligent things.
+Yasmin tapped him on the shoulder at each junction, showing him which way to turn. Soon they were nearly at her family's house and shouted at him to stop, hollering through the helmet. He killed the engine and the headlight and her bum finally stopped vibrating, her legs complaining about the hours she'd spent gripping the bike with the insides of her thighs. She swung unsteadily off her bike and brought her hands up to her helmet.
 
-Coca Cola Games Command Central was a lie.
+Her hands were on her helmet when she heard the voices.
 
-Ten seconds after the game-runners moved into Command Central, every multitouch had been broken or stolen. The recessed terminals set into the tables were obsolete before they were installed and now they suffered an ignominious fate: serving as stands for cutting-edge laptops equipped with graphics cards that ran so hot, their fans sounded like jet-engines.
+"Is that her?"
 
-Fifteen seconds later, every flat surface had been covered with junk-food wrappers, pizza boxes, energy-drink cans, vintage sci-fi novels, used kleenexes, origami orc-helmets folded out of post-it notes, snappy hats, and the infinitely varied junky licensed crap that CCG made from the game, from Pez dispensers to bicycle valve-caps to trading cards to flick-knives.
+"I can't tell."
 
-Twenty seconds after that, the room acquired the game-runner funk, a heady mix of pizza-grease strained through armpit pores, cheap cologne, unwashed hair, vintage Japanese denim, and motor oil.
+They were whispering loudly, and a trick of the grilles over the helmet's ear-coverings let her hear the sound as though it was originating from right beside her. She put a firm hand on Ashok's shoulder and squeezed.
 
-And now the sleek supergenius lair had become the exclusive meeting-cave for a tribe of savage, hyper-competitive, extremely well-paid game-runners, who holed up in there, gnashing their teeth and shouting at each other for every hour that God sent. No cleaner would enter the room, and even the personal assistants would only go so far as the doorway, where they plaintively called out their bosses' names and dodged the disgusting food-wrappers that were hurled at their heads by the game-runners, who did not take kindly to having their work interrupted.
+"It's her." The voice was Mala's, hard.
 
-Connor Prikkel had found His People. Technically he was a vice-president, but no one reported to him, except for a PA whose job it was to fish him out of Command Central a couple times a month, steam-clean him in the corporate gym, stick him in the corporate jet, and fire him into crowds of players and press around  the world to explain -- with a superior smirk -- just how Coca Cola Games managed to oversee three of the twenty largest economies in the world.
+Yasmin let go of Ashok's shoulder and brought her hand down to the cables tying the lathi to the bike, while her free hand moved to the helmet's visor, swinging it up. She'd repinned her hijab around her neck and now she was glad she had, as she had pretty good visibility. It had been a long time since she'd been in a physical fight, but she understood the principles of it well, knew her tactics.
 
-The rest of the time, Connor's job was to work on his fingerspitzengefuhl. That was a useful word. It was a German word, of course. The Germans had words for *everything*, created by the simple expedient of bashing as many smaller words as you needed together until you got one monster mouth-murderer like fingerspitzengefuhl that exactly and precisely conveyed something no other language could even get close to.
+The lathi was really well anchored -- Ashok hadn't wanted it to go flying off while they were running down the motorway -- and now she brought her other hand down to work at it blind, keeping her eyes on the shadows around her, listening for the footsteps.
 
-Fingerspitzengefuhl means "fingertip feel" -- that feeling you get when you've got the world resting against the thick cushion of nerve-endings on the tips of your fingers. That feeling when you've got a basketball held lightly in your hands, and you know precisely where the next bounce will take it when you let it go. That feeling you get when you're holding onto a baby and you can feel whether she's falling asleep now, or waking up. That feeling you get when your hands are resting lightly on the handlebars of your bike, bouncing down a steep hillside, gentle pressure on the brakes, riding the razor-edged line between doing an end-over and reaching the bottom safely.
+"What about the man?"
 
-Proprioception is your ability to sense where your body is in space relative to everything else. It's a sixth sense, and you don't even know you have it until you lose it -- like when you intertwine your fingers and thread your hands through your arms and find that you wiggle your left finger when you mean to move your right; or when you step on a ghost step at the top of a staircase and your foot lands on nothing.
+"Him too," Mala said.
 
-Fingerspitzengefuhl is proprioception for the world, an extension of your sixth sense into everything around you. You have fingerspitzengefuhl when you can tell, just by the way the air feels, that your class is in a bad mood, or that your teammate is upcourt and waiting for you to pass the ball.
+And then they charged, an army of them, coming from the shadows all around them. "GO!" she said to Ashok, trying to keep him from dismounting the bike, but he got to his feet, squared his shoulders, and faced away from her, to the soldiers who were charging him. A rock or lump of cement clanged off her helmet, making a sound like a cooking pot falling to the floor, and now she tugged as hard as she could at the lathi and at last it sprang free, the steel hooks on the tips of the bunjee cables whipping around and smacking painfully into her hands. She barely noticed, whirling with the two-meter stick held overhead like a cricket-bat.
 
-Connor's fingerspitzengefuhl meant that he could feel *everything* that was happening in the games he ran. He could tell when there was a run on gold in Svartalfaheim Warriors, or when Zombie Mecha's credits take a dive. He could tell when there was a huge raiding guild making a run at Odin's Fortress, six hundred humans embodied in six hundred avs, coordinated by generals and captains and lieutenants. He could tell when there was a traffic jam on the Brooklyn Bridge in Zombie Mecha as too many ronin tried to enter Manhattan to clear out the Flatiron Building and complete the Publishing Quest.
+And pulled up short.
 
-All this knowledge came to him through his ever-rotating, ever-changing feeds -- charts, chat-transcripts, server logs, bars representing load and memory and failover and rate of subscriber churn and every other bit of changing information from in the game. They flickered past in a colorful roll, on the display of his monster widescreen laptop, opacity dialled down to 10 percent in the windows that sat over his playscreens in which he ran four avs in both games.
+The boy closest to her was Sushant. Sushant, who, that afternoon, had spoken of how he'd longed to join her cause. His face was a mask of terror in the weak light leaking out of the homes around them. The steel tip trembled over her shoulder as her wrists twitched. All she would need to do is unwind the swing, let the long pole and its steel end whistle through the air with all the whip-crack force penned up at the lathi's end and she would bash poor Sushant's head in.
 
-Every gamerunner had a different way of attaining fingerspitzengefuhl, as personal as the thought you follow to go to sleep or the reason you fall in love. Some like a *lot* of screens -- four or five. Some listened to a lot of read-aloud text and eavesdropped gamechat. Some only watched charts, some only logs, some only game-screens. Coca Cola Games had hired some industrial psychologists to try to come and unpick the game-runners' methods, try to create a system for reproducing and refining it. They'd lasted a day before being tossed out of Command Central amid a torrent of abuse and profanities.
+And why not? After all, that's what Mala's army was here for.
 
-The game-runners didn't want to be systematized. They didn't want to be studied. To be a game-runner was to attain fingerspitzengefuhl and vice-versa. Game-runners didn't need shrinks to tell them when they had fingerspitzengefuhl. When you had fingerspitzengefuhl, you fell into a warm bath, a kind of hyper-alert coma, in which knowledge flowed in and out of every orifice at maximum speed. Fingerspitzengefuhl needed coffee and energy drinks, junk food and loud goddamned music, grunts of your co-workers. Fingerspitzengefuhl didn't need industrial psychology.
+All this thought in the blink of an eye, so fast she didn't even register that she'd thought it, but she did not swing the lathi through the air at Sushant's head. Instead, she swept it at his feet, pulling the swing so that it just knocked him backwards, flying into two more soldiers behind him, boys who had once taken orders from her.
 
-Connor's fingerspitzengefuhl was the best. It guided the unconscious dance of his fingers on his laptop, guided him to eavesdrop on the right conversations, to monitor the right action, to spot the Webblies' fight with the Pinkertons as it began. He grunted that special grunt that alerted the rest of his tribe to danger, and stabbed at his screen with a fat finger greased with pizza-oil. The knowledge rippled through the room like a wave, bellies and chins wobbling as the whole tribe tuned into the fight.
+"Stand down!" she barked, in the voice of command, and swung the lathi back, sweeping it toward the army's feet like a broom. They took a giant step back in unison, eyes crazed and rolling in the weak light. Sushant was weeping. She'd heard bone break when the lathi's tip met his ankle. He was holding onto the shoulders of the two soldiers he'd knocked over, and they were struggling to keep him upright.
 
-"We should pull the plug on this," said Fairfax, a designer who'd worked her way up to Command Central.
+No one said anything and there was just the collective breath of Dharavi, thousands and thousands of chests rising and falling in unison, breathing in each others' air, breathing in the stink of the tanners and the burning reek from the dye factories and the sting of the plastic smoke.
 
-"Forget it," said Kaden. "Twenty thousand gold on the Webblies."
+Then Mala stepped forward. In her hand, she held -- what? A bottle?
 
-"Two-to-one?" said Palmer, the number two economist, who had earned his PhD but hadn't invented the Prikkel Equations.
+A bottle. With an oily rag hanging out of the end. A petrol bomb.
 
-"No bets," Connor said. "Just watch the play."
+"Mala!" she said, and she heard the shock in her own voice. "You'll burn the whole of Dharavi down!" It was the tone of voice you use when shouting into your headset at a guildie who was about to get the party killed by accidentally aggroing some giant boss. The tone that said, *You're being an idiot, cut it out.*
 
-"You're such a combat freak," said Kaden. "You chose the wrong specialty. You should have been a military strategist."
+It was the wrong tone to use with Mala. She stiffened up and her other hand worked at the wheel of a disposable lighter -- *snzz* *snzz*.
 
-"Bad pay, stupid clothes, and you have to work for the government," Connor snapped, noting the stiffened spines of Kaden and Bill, both recruited out of the Pentagon's anti-terror Delta Force command to help analyze the big guilds' command-structures and figure out how to get more money out of them.
+Again, she moved before she thought, two running steps while she brought the lathi up over her shoulder, feeling it thunk against something behind her as it sliced up, then slicing it back down again, in that savage, cutting arc, down at Mala's skinny legs, sweeping them with the whole force of her body, and Mala skipped backwards, away from the lathi, stumbled, went over backwards --
 
-"Look at 'em go!" Fairfax said. Connor had a lot of time for her, even though they often disagreed. She'd run big teams of level-designers, graphic artists, AI specialists, programmers, the whole thing, and she had a good top-down and bottom-up view of things.
+-- and the lathi *connected*, a solid blow that made a sound like the butcher's knife parting a goat's head from its neck, and Mala's scream was so terrible that it actually brought people to their windows (normally a scream in the night would make them stay back from it). There was bone sticking out of her leg, glinting amid the blood that fountained from the wound.
 
-"They're good," Connor said. He clicked a little and colored each of the avs with a national flag representing the country the IP address of the player was registered to. "And it's a goddamned United Nations of players, look at that. What language are they speaking?" He clicked some more and took over the room's speakers, cleverly recessed into walls and floors, now buried under mountains of pizza-cardboard. The room filled with a gabble of heavily accented English mixed with Mandarin. His ear picked out Indian accents, Chinese, something else -- Malay? Indonesian? There were players from the whole Malay Peninsula in that mob.
+And still she had the petrol bomb, and still she had the lighter, and now the lighter was lit. Yasmin drew back her foot for a footballer's kick, knowing as she wound up that she could cripple Mala's hand with a good kick, ending her career as General Robotwallah.
 
-"And look at the Pinkertons," Fairfax said. She had a background in programming artificial intelligences, a trade that had changed an awful lot since the Mechanical Turks stepped in to backstop the AIs in game. But she had invented the idea of giving the game's soundtrack its own AI, capable of upping the drama-quotient in the music when momentous things were afoot, and that holistic view of gameplay had landed her a seat in Command Central. She was the one who ordered out for health food and giant salads instead of burgers by the sack and pints of icecream. "They're nearly in the same distribution as the Webblies! Look at this --" she zoomed in on a scrolling list of IP addresses, then pulled up another table, fiddled with their sort order. "Look! These Pinkertons are fighting from a netblock that's within 200 meters of these Webblies! They're neighbors! Oh, this is *hella weird*."
+Afterwards, she remembered the voice that had chased itself around her head as she drew back for that kick:
 
-It was true. Connor banged out a quick script to find and pair any players who were physically proximate to one another and to try for maps where they were available. Mostly they weren't -- he'd tried tracking down these rats before, tried to see where they lived, but ended up with a dead end. They didn't live on roads -- they lived in illegal squats, shantytowns in the world's slumzones. The best he could do was month-old sat photos of these mazes, revealing mountains of smoldering garbage, toxic open sewers, livestock pens... Connor felt like he should visit one of these places, fly a team of rats out to Command Central in the company jet, stick them in a lab and study them and learn how to exterminate them.
+*Do it, do it and end your troubles. Do it because she would do it to you. Do it because it will scare her army out of fighting you and the Webblies. Do it because she betrayed you. Do it because it will keep you safe.*
 
-Because there was one chart Connor didn't need to load, the chart showing overall stability of the game economy: his fingerspitzengefuhl was filling him in just fine. The game economy was *hosed*.
+And she lowered her foot and instead *leapt* on Mala, pinning her arms with her body. The lighter's flame licked at her arm, burning her, and she ground it out. She could feel Mala's breath, snorting and pained, on her throat. She grabbed Mala's left wrist, shook the hand that held the bomb, smashed it against the ground until it broke and spilled out the stinking petrol into the ditch that ran alongside the shacks.  She stood up.
 
-"OK people, there's plenty to do here. No one else respawns on that shard. Create a new instance for the Caverns so any real players who hit them don't have to wade through that mess. Get every one of those accounts and freeze their assets." Esteban, who headed up customer service, groaned.
+Mala's face was ashen, even in the bad light. The blood  smell and the petrol smell were everywhere.
 
-"You *know* they're mostly hacked," he said. "There's hundreds of them! We're going to be untangling the assets for *months*."
+Yasmin looked to Ashok. "You need to take her to the hospital," she said.
 
-Connor knew it. The legit players whose accounts had been stolen by the warring clans of third-world rip-off artists didn't deserve to have their assets frozen. What's more, there'd be plenty of them whose assets were part of a larger guild bank that might have the wealth of dozens or hundreds of players. Of course the Bad Guys knew this and depended on it, knew it would make the game-runners cautious and slow when it came time to shut down the accounts they were using to smuggle around their illicit wealth.
+"Yes," he said. He was holding onto the side of his head, eye squeezed shut. "Yes, of course."
 
-He made eye-contact with Bill, head of security. They'd been going back and forth over whether it would be worth sucking some of Connor's budget into the security department to develop some forensic software that would ferret out the transaction histories of stolen accounts and figure out what assets the original player legitimately owned and where the dirty money ended up after it left his account. Connor hated to part with budget, especially when it involved Bill, who was a pompous ass who liked to act like he was some kind of super-cybercop rather than a glorified systems administrator.
+"What happened to you?"
 
-But sometimes you had to bite the bullet. "We'll handle it," he said. "Right, Bill?" The head of security nodded, and began to pound at his keyboard, no doubt hiring a bunch of his old hacker buddies to come on board for top dollar and write the code.
+He shrugged. "Got too close to your lathi," he said and tried for a brave smile. She remembered the *thunk* as she'd drawn back for her swing.
 
-"Yeah," Bill added. "Don't worry about it, we've got it covered."
+"Sorry," she said.
 
-One by one, the combatants vanished as their accounts were shut down and frozen out. Some of the soldiers reappeared in the new instance -- a parallel universe containing an identical dungeon, but none of the same players -- using new avs, but they could tell who they were because they originated from the same IP addresses as the kicked accounts. "This is great," Connor said. "If they keep this up, we'll have all their accounts nuked by the end of the day."
+Mala's army stood at a distance, staring.
 
-But the Pinkertons and Webblies must have had the same thought, because the logins dropped off to near-zero, then zero. The screens shifted, the eating sounds began anew, and Connor went back to his economic charts. As he'd felt, the price of assets, currency and derivatives had gone bonkers. The market somehow knew when there was trouble in Gold Farmer Land, and began to see-saw with the expectation that the price of goods was about to change.
+"Go!" Yasmin said. "Go. This was a disaster. It was stupid and evil and wrong. I'm not your enemy, you idiots. GO!"
 
-Connor's own holdings had dropped by 18 percent in 25 minutes, costing him a cool $321,498.18.
+They went.
 
-He popped open a chat to Bill.
+"We have to splint her," Ashok said. "Make a stretcher, too. Can't move her like that."
 
-> This stuff you're commissioning with my budget
+Yasmin looked at him, raised an eyebrow.
 
-> Yeah?
+"My father's a doctor," he said.
 
-> I want to use it to run every gold farmer to ground and throw him out of the game
+Yasmin went into the flat, climbed the stairs. Her mother sat up as she entered the room and opened her mouth to say something, but Yasmin raised on hand to her and, miraculously, she shut up. Yasmin looked around the room, took the chair that sat in one corner, an armload of rags from the bundle they used to keep the room clean, and left, without saying a word.
 
-> What?
+Ashok broke the chair into splints by smashing it against a nearby wall. It was a cheap thing and went to pieces quickly. Yasmin knelt by Mala and took her hand. Her breathing was shallow, labored.
 
-> It'll be there, in the transaction history. Some kind of fingerprint in play-style and spending that'll let us auto-detect farmers and toss them out. We're going to have a perfect, controlled, farmer-free economy. The first of its kind
+Mala squeezed her hand weakly. Then she opened her eyes and looked around, confused. Her eyes settled on Yasmin. They looked at each other. Mala tried to pull her hand away. Yasmin didn't let go. The hand was strong, nimble. It had dispatched innumerable zombies and monsters.
 
-> Connor every complex ecosystem has parasites.
+Mala stopped struggling, closed her eyes. Ashok brought over the splints and rags and hunkered down beside them.
 
-> Not this one
-
-> It won't work
-
-> Wanna bet? Let's make it $10K. I'll give you 2-1
+Just before he began to work on her, Mala said something. Yasmin couldn't quite make it out, but she thought it might be, *Forgive me.*

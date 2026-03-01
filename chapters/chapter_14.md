@@ -1,195 +1,275 @@
 # Part II: Hard work at play
 
-## Chapter 14
+## Chapter 15
 
 ---
 
 ## Dedication
 
-This scene is dedicated to the incomparable Mysterious Galaxy in San Diego, California. The Mysterious Galaxy folks have had me in to sign books every time I've been in San Diego for a conference or to teach (the Clarion Writers' Workshop is based at UC San Diego in nearby La Jolla, CA), and every time I show up, they pack the house. This is a store with a loyal following of die-hard fans who know that they'll always be able to get great recommendations and great ideas at the store. In summer 2007, I took my writing class from Clarion down to the store for the midnight launch of the final Harry Potter book and I've never seen such a rollicking, awesomely fun party at a store.
+This scene is dedicated to Chapters/Indigo, the national Canadian megachain. I was working at Bakka, the independent science fiction bookstore, when Chapters opened its first store in Toronto and I knew that something big was going on right away, because two of our smartest, best-informed customers stopped in to tell me that they'd been hired to run the science fiction section. From the start, Chapters raised the bar on what a big corporate bookstore could be, extending its hours, adding a friendly cafe and lots of seating, installing in-store self-service terminals and stocking the most amazing variety of titles.
 
-Mysterious Galaxy http://mysteriousgalaxy.booksense.com/NASApp/store/Product?s=showproduct&isbn=9780765322166 7051 Clairemont Mesa Blvd., Suite #302 San Diego, CA  USA 92111 +1 858 268 4747
+Chapters/Indigo: http://www.chapters.indigo.ca/books/For-The-Win-Cory-Doctorow/9780765322166-item.html
 
 ---
 
-They came for the workers in the game and in the real world, a coordinated assault that left Big Sister Nor's organization in tatters.
+Connor Prikkel sometimes thought of math as a beautiful girl, the kind of girl that he'd dreamt of wooing, dating, even marrying, while sitting in the back of any class that wasn't related to math, daydreaming. A beautiful girl like Jenny Rosen, who'd had classes with him all through high-school, who always seemed to know the answer no matter what the subject, who had a light dusting of freckles around her nose and a quirky half-smile. Who dressed in jeans that she'd tailored herself, in t-shirts she'd modded, stitching multiple shirts together to make tight little half-shirts, elaborate shawls, mock turtelnecks.
 
-On that fateful night, she'd taken up the back room of Headshot, a PC Baang in the Geylang district in Singapore, a neighborhood that throbbed all night long from the roaring sex-trade from the legal brothels and the illegal street-hookers. Any time after dark, the Geylang's streets were choked with people, from adventurous diners eating in the excellent all-night restaurants (almost all of them halal, which always made her smile) to guest workers and Singaporeans on the prowl for illicit thrills to the girls dashing out on their breaks to the all-night supermarkets to do their shopping.
+Jenny Rosen had seemed to have it all: beauty and brains and, above all, rationality: she didn't like the way that store-bought jeans fit, so she hacked her own. She didn't like the t-shirts that everyone wore, so she changed the shirts to suit her taste. She was funny, she was clever, and he'd been completely, head-over-heels in love with her from sophomore English right through to senior American History.
 
-The Geylang was as unbuttoned as Singapore got, one of the few places where you could be "out of bounds" -- doing something that was illegal, immoral, unmentionable, or bad for social harmony -- without attracting too much attention. Headshot strobed all night long with networked poker games, big shoot-em-up tournaments, guestworkers phoning home on the cheap, shouting over the noise-salad of all those games, and, on that night, Big Sister Nor and her clan.
+They'd been friendly through that time, though not really friends. Connor’s friends were into gaming and computers, Jenny's friends were jocks and school-paper kids. But friendly, sure, enough to say hello in the hallway, enough to become lab partners in sophomore physics (she was a careful taker of notes, and her hair-stuff smelled *amazing*, and their hands brushed against each other a hundred times that semester).
 
-They called themselves the Webblies, which was an obscure little joke that pleased Big Sister Nor an awful lot. Nearly a century ago, a group of workers had formed a union called the Industrial Workers of the World, the first union that said that all workers needed to stick up for each other, that every worker was welcome no matter the color of his skin, no matter if the worker was a woman, no matter if the worker did "skilled" or "unskilled" work. They called themselves the Wobblies.
+And then, in senior year, he'd asked her out to a movie. Then she'd asked him to a track rally. Then he'd asked her to work with him on an American History project on Chinese railway workers that involved going to Chinatown after school, and there they'd had a giant dim sum meal and then sat in a park and talked for hours, and then they'd stopped talking and started kissing.
 
-Information about the Wobblies was just one of the many "out of bounds" subjects that were blocked on the Singaporean Internet, and so of course Big Sister Nor had made it her business to find out more about them. The more she read, the more sense this group from out of history made for the world of *right now* -- everything that the IWW had done needed doing *today*, and what's more, it would be easier today than it had been.
+And one thing led to another, and the kissing led to more kissing, and then their friends all started to whisper, "Did you hear about Connor and Jenny?" and she met his parents and he met hers. And it had all seemed perfect.
 
-Take organizing workers. Back then, you'd have to actually get into the factory or at least stand at its gates to talk to workers about signing a union card and demanding better conditions, higher wages and shorter hours. Now you could reach those same people online, from anywhere in the world. Once they were members, they could talk to all the other members, using the same tools.
+But it wasn't perfect. Anything but.
 
-She'd decided to call her little group the Industrial Workers of the World Wide Web, the IWWWW, and that was another of those jokes that pleased her an awful lot. And the IWWWW had grown and grown and grown. Gold farmers were easy pickings: working in terrible conditions all over the world, for terrible wages, hated by the game-runners and the rich players alike. They already understood about working in teams, they'd already formed their own little guilds -- and they were better at using the Internet than their bosses would ever be.
+In the four months, two weeks and three days that they were officially a couple, they had approximately 2,453,212 arguments, each more blazing than the last. Theoretically, he understood everything he needed to about her. She loved sports. She loved to use her mind. She loved humor. She loved silly comedies and slow music without words.
 
-Now, a year later, the IWWWW had over 20,000 members signed up in six countries, paying dues and filling up a fat strike fund that had finally been called into use, in Shenzhen, the last place Big Sister Nor had ever expected to see a walkout.
+And so he would go away and plan out exactly how to deliver all these things to her, plugging in her loves like variables into an equation, working out elaborate schemes to deliver them to her.
 
-But they had, they had! The boss, some character named Wing, had declared a lock-in at three of his "factories" -- Internet cafes that he'd taken over to support his burgeoning army of workers -- in order to take advantage of a sploit in Mushroom Kingdom, a Mario-based MMO that had a huge following in Brazil. One of his workers had found a way to triple the gold they took out of one of the dungeons, and he wanted to extract every penny he could before Nintendo-Sun caught on to it.
+But it never worked. He'd work it out so that they could go to a ball game at AT&T Park and she'd want to go see a concert at Cow Palace instead. He'd take her to see a new wacky comedy and she'd want to go home and work on an overdue assignment. No matter how hard he tried to get her reality and his theory to match up, he always failed.
 
-The next thing she knew, her phone was rattling with urgent messages relayed from her various in-game identities to tell her that the workers had knocked aside the factory management and guards and stormed out, climbing the sides of the buildings or the utility poles and cutting the cafes' network links. They'd formed up out front and begun to chant impromptu slogans -- mostly adapted from their in-game battle-cries. And now they wanted to know what to do.
+In his heart of hearts, he knew it wasn't her fault. He knew that he had some deficiency that caused him to live in the imaginary world he sometimes thought of as "theory-land," the country where everything behaved as it was supposed to.
 
-"It's a wildcat strike," Big Sister Nor said to her lieutenants, The Mighty Krang and Justbob, the former a small Chinese guy with frosted purple tips in his hair, the latter a Tamil girl in a beautiful, immaculate sari and silk slippers -- a girl who had previously run with one of the most notorious girl-gangs in Asia and spent three years in prison for her trouble. "They've walked out in Shenzhen." She forwarded the tweets and blips and alerts off her phone, then showed them her screen while they waited for the forwards to land on their devices.
+After graduation, through his bachelor's degree in pure math at Berkeley, his Masters in Signal Processing at Caltech, and the first year of a PhD in economics at Stanford, he had occasion to date lots of beautiful women, and every time, he found himself ground to pulp between the gears of real-world and theory-land. He gave up on women and his PhD on a fine day in October, telling the prof who was supposed to be his advisor that he could find someone else to teach his freshman math courses, grade his papers, and answer his email.
 
-"It's crazy," The Mighty Krang said, dancing from foot to foot, excitedly. "It's crazy, it's crazy, it's --"
+He walked off the Stanford campus and into the monied streets of Palo Alto, and he packed up his car and drove to his new job, as chief economist for Coca Cola's games division, and finally, he found a real world that matched the beautiful elegance of theory-land.
 
-"Wonderful," Justbob said, planting her palms on his shoulders and bringing him back to the earth. "And overdue. I predicted this. I predicted it from the start. As soon as you start collecting dues for a 'strike fund,' someone's going to go on strike. And la-la, here we are, wildcatting the night away."
+Coca Cola ran or franchised anywhere from a dozen to thirty game-worlds at any given time. The number of games went up or down according to the brutal, elegant logic of the economics of fun:
 
-The next step was to head for headquarters, the back room at Headshot, to slam themselves into their chairs and to hit the worlds, spreading the word to all 20,000 members about the first-ever strike. Big Sister Nor went to work on a plan:
+a certain amount of difficulty
 
-1. Spread the word to the rank-and-file
+plus
 
-2. Recruit in-world pickets to block the work-site so that Boss Wing couldn't bring in scabs -- replacement workers -- to get the job done
+a certain amount of your friends
 
-3. Get the strike-leaders on the phone and talk about human-rights lawyers, strike-pay, sleeping quarters for any workers who relied on the factory for dorm-beds
+plus
 
-4. Get footage and real-time reports from the strikers out to the human rights wires, get the strike-leaders on interviews with the press
+a certain amount of interesting strangers
 
-She'd done this before, in real life, on the other side of things, as a wildcat strike leader walking off the line when the bosses at her weaving factory in Taman Makmur announced pay cuts because their big European distributor had cut its orders. It happened every year, but it made her so angry -- the workers didn't get bonuses, sharing in the good fortune when distributors increased their orders, but they were made to share the burden when orders went down. Well, forget it, enough was enough. She'd stood up in the middle of the factory floor and denounced the bosses for the greedy, immoral bastards they were, and when the security moved in to take her, she'd stood proud and strong, ready to be beaten for her insolence.
+plus
 
-Instead, her fellow workers had risen to her defense, the young women around her getting to their feet and surrounding her, cheering her, ululating cries shouting around waggling tongues that bounced off the ceiling and filled the room and her heart, making them all brave, so that the security men moved back, and they'd taken over the factory, blocking the gates, shutting it down, and then someone from the Malaysian Union of Textile Employees had been there to get them to sign cards, and someone had made her picket captain and then --
+a certain amount of reward
 
-And then it had all come crashing down around them, police vans moving in, the police forming a line and ordering them to disperse, to get back to work, to stop this foolishness before someone got hurt, barking the orders through a bullhorn, glaring at them from beneath their riot helmets, banging their truncheons on their shields, spraying them with teargas.
+plus
 
-Their line wavered, disintegrated, retreated. But they reformed in an alley near the factory, amid a gang of staring children, and the women from the MUTE collared the children and sent them running to get milk -- cow's milk, goat's milk, anything they could find, and the MUTE organizers had rinsed their eyes with the milk, holding their faces still while they coughed and gagged. The fat-soluble CS gas rinsed away, leaving them teary but able to see, and the coughs dispersed, and someone produced a bag of charcoal-filter cycling masks, and someone else had a bag of swimming goggles, and the women put them on and pulled their hijabs over their noses, over the masks, so that they looked like some species of snouted animal, and they reformed their line and marched back, chanting their slogans.
+a certain amount of opportunity
 
-The police gassed them again, but this time, the picket captains were able to hold the line, to send brave women forward to grab the smoking cannisters and throw them back over police lines. For a moment, it looked like the police would charge, but the strikers and the organizers had been feeding a photostream to the Internet using mobile phones that tunneled through the national firewall, getting them up on the human rights wires, and so the Ministry of Labour was getting phone calls from the foreign press, and they were on the phone to the Ministry of Justice, and the police withdrew.
+equalled
 
-The first skirmish was over, and the strikers settled in for a long siege. No one got in or out of the factory without being harangued by hundreds of young women, shoving literature detailing their working conditions and grievances and demands through the windows of their cars and buses. Some replacement workers got in, some picked fights, some turned around and left. A unionized trucker refused to cross their line, and wouldn't take away the load he'd been charged with picking up, so it just sat there on the docks.
+fun
 
-The days turned into weeks, and they fed their families as best as they could with the strike pay, which came to a third of what they'd earned in the plant, but the factory owners -- a subsidiary of a Dutch company -- were hurting too. The MUTE organizers explained that the parent company had to release its quarterly statement to its shareholders, who would demand to know why this major factory was sitting idle instead of making money. The organizers offered confident reassurances that when this happened, the workers' demands would be met, the strike settled, and they could get back to work.
+.
 
-So they hung in there, keeping their spirits up on the line, and then --
+That was the equation that had come to him one day early in his second semester of the PhD grind, a bolt of inspiration like the finger of god reaching down into his brain. The magic was that equals sign, just before the fun, because once you could express fun as a function of other variables, you could establish its relationship to those variables -- if we reduce the difficulty and the number of your friends playing, can we increase the reward and make the fun stay the same?
 
-The factory closed.
+This line of thought drove him to phone in a sick-call to his advisor and head straight home, where he typed and drew and scribbled and thought and thought and thought, and he phoned in sick the next day, and the next -- and then it was the weekend, and he let his phone run down, shut off his email and IM, and worked, eating when he had to.
 
-Big Sister Nor found out about it one night as she was playing Theater of War VII, a game she'd played since she was a little girl. One of her guildies was a girl whose brother had passed by the factory on his way home from school, and he'd seen them moving the machines out of the plant, driving away in huge lorries.
+By the time he found himself shoving fingerloads of butter into his mouth, having emptied the fridge of all else, he knew he was onto something.
 
-She'd texted everyone she knew, *Get to the factory now*, but by the time they got there, the factory was dead, empty, the gates chained shut. No one from the union met them. None of them answered her calls.
+He called them the Prikkel equations, and they described in elegant, pure, abstract math the relationship between all the variables that went into fun, and how fun equalled money, inasmuch as people would pay to play fun games, and would pay more for items that had value in those games.
 
-And the women she'd called sister, the women who'd saved her when she'd said *enough*, they all looked to her and said, *What do we do now?*
+Technically, he should have sent the paper to his advisor. He'd signed a contract when he was accepted to the University giving ownership of all his ideas to the school forever, in exchange for the promise of someday adding "PhD" to his name. It hadn't seemed like a good idea at the time, but the alternative was the awesomely craptacular job-market, and so he'd signed it.
 
-And she hadn't known. She'd managed to hold the tears in until she got home, but then they'd flowed, and her parents -- who'd doubted her and harangued her every step of the way -- scolded her for her foolishness, told her it was her fault that all her friends were jobless.
+But he wasn't going to give this to Stanford. He wasn't going to *give* it to anybody. He was going to *sell* it.
 
-She'd lain in bed that night, miserable, and had been woken by the soft chirp of her phone.
+He didn't go back to campus after that, but rather plunged into a succession of virtual worlds, plotting the time in hours it took him to achieve different tasks, and comparing that to the price of gold in the black-, grey- and white-market exchanges for in-game wealth.
 
-*I'm outside.* It was Affendi, the MUTE organizer she'd been closest to. *Come to the door*.
+Each number slotted in perfectly, just where he'd expected it to go. His equations <em>fit</em>, and the world fit his equations. He'd finally found a place where the irrational was rendered comprehensible. And what's more, he could *manipulate* the world using his equations.
 
-She'd crept outside on cat's feet and barely had time to make out Affendi's outline before she collapsed into Nor's arms. She had been beaten bloody, her eyes blacked, two of her fingers broken, her lips mashed and one of her teeth missing. She managed a mangled smile and whispered, "It's all part of the job."
+He decided to do a little fantasy trading: working from his equations, he'd predicted that the gold in MAD Magazine's Shlabotnik's Curse was wildly undervalued. It was an incredibly fun game -- or at least, it satisfied the fun equation -- but for some reason, game money and elite items were going for peanuts. Sure enough, in 36 hours, his imaginary MAD Money was worth $130 in imaginary real money.
 
-The cheap hotel where the four organizers had shared a room was raided just after dinner, the police taking them away. They'd been prepared for this, had lawyers standing by to help them when it happened, but they didn't get to call lawyers. They didn't go to the jailhouse. Instead, they'd been taken to a shantytown behind the main train-station and three policemen had stood guard while a group of private security forces from the plant had taken turns beating them with truncheons and fists and boots, screaming insults at them, calling them whores, tearing at their clothes, beating their breasts and thighs.
+Then he took his $130 stake and sank it into four other game currencies, spreading out his bets. Three of the four hit the jackpot, bringing his total up to $200 in imaginary dollars. Now he decided to spend some real money -- he already knew that he wasn't going back to campus, so that meant his grad student grant would vanish shortly. He'd need to pay the rent while he searched for a buyer for his equations.
 
-It only stopped when one of the women fell unconscious, bleeding from a head-wound, eyelids fluttering. The men had fled then, after taking their money and identity papers, leaving them weeping and hurt. Affendi had managed to hide her spare mobile phone -- a tiny thing the size of a matchbook -- in the elastic of her underpants, and that had enabled her to call the MUTE headquarters for help. Once the ambulance was on its way, she'd come to get Nor.
+He'd already proven to his own satisfaction that he could predict the movement of game currencies, but now he wanted to branch out into the weirder areas of game economics: elite items, the rare prestige items that were insanely difficult to acquire in-game. Some of them had a certain innate value -- powerful weapons and armor, ingredients for useful spells -- but others seemed to hold value by sheer rarity or novelty. Why should a purple suit of armor cost ten times as much as the red one, given that both suits of armor had exactly the same play value?
 
-"They'll probably come for you, too," she said. "They usually try to make an example of the workers who start trouble."
+Of course, the purple one was much harder to come by. You had to either buy it with unimaginable mountains of gold -- so players who saw your av sporting it would assume that you had played your ass off to earn for it -- or pull off some fantastic stunt to get it, like doing a 60-player raid on a nigh-unkillable boss. Like a designer label on an otherwise unimpressive article of clothing, these items were valuable because people who saw them assumed they had to cost a lot or be hard to get, and thought more of the owner for having them. In other words, they cost a lot because...they cost a lot!
 
-"But you told me that they were going to have to give in because of their shareholders --"
+So far, so good -- but could you use Prikkel's Equations to predict *how much* they'd cost? Connor thought so. He thought you could use a formula that combined the fun quotient of the game and the number of hours needed to get the item, and derive the "value" of any elite item from purple armor to gold pinstripes on your spaceship to a banana-cream pie the size of an apartment block.
 
-Affendi held up a broken hand. "I thought they would. But they decided to leave. We think they're probably going to Indonesia. The new laws there make it much harder to organize the workers. That's how it goes, sometimes." She shrugged, then winced and sucked air over her teeth. "We thought they'd want to stay put here. The provincial government gave them too much to come here -- tax breaks, new roads, free utilities for five years. But there are new Special Economic Zones in Indonesia that have even better deals." She shrugged again, winced again. "You may be all right here, of course. Maybe they'll just move on. But I thought you should be given the chance to get somewhere safe with us, if you wanted to."
+Yes, it would work. Connor was sure of it. He started to calculate the true value of various elite items, casting about for undervalued items. What he discovered surprised him: while virtual currency tended to rest pretty close to its real value, plus or minus five percent, the value-gap in elite items was *gigantic*. Some items routinely traded for two or three hundred percent of their real value -- as predicted by his Equations, anyway -- and some traded at a pittance.
 
-Nor shook her head. "I don't understand. Somewhere safe?"
+Never for a moment did he doubt his equations, though a more humble or more cautious person might have. No, Connor looked at this paradoxical picture and the first thing that came into his head wasn't "Oops." It was *BUY*!
 
-"The union has a safe-house across the provincial line. We can take you there tonight. We can help you find work, get set up. You can help us unionize another factory."
+And he bought. Anything that was undervalued, he bought, in great storehouses, so much that he had to create alts and secondaries in many worlds, because his primary characters couldn't *carry* all the undervalued junk he was buying. He spent a hundred dollars -- two hundred -- three hundred, snapping up assets, spreadsheeting their nominal value. On paper, he was incredibly, unspeakably rich. On paper, he could afford to move out of his one-bedroom apartment that was a little too close to the poor and scary East Palo Alto for his suburban tastes, buy a McMansion somewhere on the peninsula, and go into business full time, spending his days buying magic armor and zeppelins and flaming hamburgers, and his evening opening checks.
 
-A light rain fell, pattering off the palms that lined her street and splashing down in wet, fat drops, bringing an earthy smell up from the soil. A fat drop slid off an unseen leaf overhead and spattered on Nor's neck, reminding her that she'd gone out of the house without her hijab, something she almost never did. It seemed to her an omen, like her life was changing in every single way.
+In reality, he was going broke. The theory said that these assets were wildly undervalued. The marketplace said otherwise. He'd cornered the market on several kinds of marvellous gew-gaws, but no one seemed to actually want to buy them from him. He remembered Jenny Rosen, and all the crushing ways that theory and reality could sometimes stop communicating with one another.
 
-"Where are we going?"
+When the first red bills came in, he stuck them under his keyboard and kept buying. He didn't need to pay his cell phone bill. He didn't need his cell-phone to buy magic lizards. His student loans? He wasn't a student anymore, so he didn't see why he should worry about them -- they couldn't kick him out of school. Car payments? Let them repo it (and they did, one night, at 2AM, and he waved goodbye to the little hunk of junk as the repo man drove it away, then turned back to his keyboard). Credit card bills? So long as there was one card that was still good, one card he could use to pay the subscription fees for his games, that was all that mattered.
 
-"You find out when we get there. I don't know either. That's why it's a safe house -- no one knows where it is unless they have to. MUTE organizers have been murdered, you understand."
+Living close to East Palo Alto had its advantages: for one thing, there were food-banks there, places where he could line up with other poor people to get giant bricks of government cheese, bags of day-old bread, boxes of irregular and unlovely root-vegetables. He fried all the latter in an all-day starch festival and froze them, and then he proceeded to live off of cheese and potato sandwiches, and one morning, he realized that his entire body and everything that came out of it -- breath, burps, farts, even his urine -- smelled of cheese sandwiches. He didn't care. There were ostrich plumes to buy.
 
-*Why didn't you tell me this when all this started?* She wanted to say. But her parents *had* told her. Management had warned them, through bullhorns, that they were risking everything. She'd laughed at them, filled with the feeling of sisterhood and safety, of *power*. That feeling was gone now.
+Disaster struck: he lost track of which credit card he was ignoring and had half of his accounts suspended when his monthly subscription fees bounced. Half his wealth, wiped out. And the other card wasn't far behind.
 
-And she'd gone with Affendi, and she'd worked in a factory that was much like the factory she'd left, and there had been a union fight much like the one she'd fought, but this time, they were better prepared and the workers had called Nor "Big Sister," a term of endearment that had scared her a little, coming from the mouths of women much older than her, coming from young girls who could never appreciate the danger.
+He thought he could probably call his parents and grovel a bit and get a bus ticket to Petaluma, hole up in his folks' basement and lick his wounds and be yet another small-town failure who came home with his tail between his legs. He'd need a roll of quarters and a payphone, of course, because his cellphone was now an inert, unpaid, debt-haunted brick. Lucky for him, East Palo Alto was the kind of place where you got lots of people who were too poor even to go into debt with a cell-phone, people who also needed to use payphones.
 
-And this time, the owners hadn't fled, the workers had won better conditions, and Big Sister Nor found that she didn't want to make textiles anymore. She found that she had a taste for the fight.
+He tucked himself into his grimy bed on a Wednesday morning and thought, *Tomorrow, tomorrow I will call them.*
 
-Now there was a young man, someone called Matthew Fong, in Shenzhen, and he was relying on her to help him win his dignity, fair wages, and a safe and secure workplace. And he was doing it in China, where unofficial unions were illegal and where labor organizers sometimes disappeared into prison for years.
+But tomorrow he didn't. And Friday he didn't, though he was now out of government cheese and wasn't eligible for more until Monday. He could eat potato sandwiches. He couldn't buy assets anymore, but he was still tracking them, watching them trade and identifying the bargains he *would* buy, if only he had a little more liquidity, a little more cashish.
 
-The Mighty Krang could speak a beautiful Mandarin as well as his native Cantonese, so he was in charge of giving soundbites to the foreign Chinese press, that network of news-resources serving the hundreds of millions of people of Chinese ancestry living abroad. They were key, because they were intimately connected to the whole sprawling enterprise of imports and exports, and when they spoke, the bureaucrats in Beijing listened. And The Mighty Krang could put on a voice that was so smoothly convincing you'd swear it was a newscaster.
+Saturday, he brushed his teeth, because he remembered to do that sometimes, and his gums bled and there were sores on the insides of his mouth and *now* he was ready to call his parents, but it was 11PM somehow, how did the day shoot past, and they went to bed at 9 every night. He'd call them on Sunday.
 
-Justbob was in charge of moral support for the strikers, talking to them in broken Cantonese and Singlish and gamer-speak on conference calls, keeping their morale up. She could work three phones and two computers like a human octopus, her attention split across a dozen conversations without losing the thread in any of them.
+And on Sunday -- on Sunday -- on that magical, wonderful Sunday, on Sunday --
 
-And Big Sister Nor? She was in-world, in several worlds, rallying Webblies to the site of the Mushroom Kingdom, finding gamers converging from all over Asia -- where it was night -- and from Europe -- where it was day -- and America -- where it was morning. Management had wasted no time moving replacement workers in. There were always desperate subcontractors out in the provinces of China, ten kids in a dead industrial town in Dongbei who'd been lured to computers with pretty talk about getting paid to play. Across a dozen different shards of the same Mushroom Kingdom world, a dozen alternate realities, they came, and Big Sister Nor played general in a skirmish against them, as strikers blocked the entrance to the dungeon and sent a stream of pro-union chats and URLs to them even as they fought them to keep them out of the dungeon.
+THE MARKET MOVED!
 
-The battle wasn't much of a fight, not at first. The replacement workers were there to kill dumb non-player characters in a boring, predictable way that wouldn't trigger the Mechanical Turks and bring their operation to the attention of Nintendo-Sun. They were all seasoned gamers, and they were used to teamplay, and many of the Webblies had never fought side-by-side before. But the Webblies were fighting for the movement, and the replacement workers -- they called them "scabs," another old word from out of history -- were fighting because they didn't know what else to do.
+There he was, pricing assets, recording their values in his spreadsheet, and he realized that the asset he was booking -- a steampunk leather gasmask adorned with a cluster of huge leathery ear-trumpets and brass cogs and rivets (no better than a standard gasmask in the blighted ecotastrophe world that was Rising Seas, but infinitely cooler) -- had already been entered onto his sheet, weeks before. Indeed, he'd booked the mask when its real world cash value was about $0.18, against the $4.54 the Equations predicted. And now he was booking it at $1.24, which meant that the 750 of them he had in inventory had just jumped from $135 to $930, a profit of $795.
 
-It was a rout. The scabs were sent back to their respawn points by the thousand, unable to return to work until they'd done their corpse runs, and the Webblies raised their swords and shot fireballs into the sky and cheered in a dozen languages.
+There was a strange sound. He realized after a moment that it was his stomach, growling for food. He could flip his gasmasks now, take the $795 onto one of his PayPal debit cards, and eat like a king. He might even be able to buy back some of his lost accounts and recover his assets.
 
-The news was good from Shenzhen, too, judging from what Justbob was saying into her headsets and typing onto her screens. The strike-line was holding, and while the police were there, they hadn't moved in -- in fact, it sounded like they'd moved to hold back the private factory security!
+But Connor did not consider doing this, even for a second. He dashed to the sink and filled up three cooking pots with water and brought them back to his desk, along with a cup. He filled the cup and drank it, filled it and drank it, filling his stomach with water until it stopped demanding to be filled. This was California, after all, where people paid good money to go to "retreats" for "liquid fasting" and "detox." So he could wait out food for a day or two... After all, his Equations predicted that these things should go to $3,405. He was just getting started.
 
-Silently, Big Sister Nor thanked Matthew Fong for picking a fight that -- seemingly -- they'd be able to win. She shouted up to Ezhil in the front of Headshot, calling for ginseng bubble-tea all around, the ginseng root would give them all a little shot of energy. Couldn't live on caffeine and taurine alone!
+And now the gasmasks were rising. He'd get up, go to the bathroom -- his kidneys were certainly getting a workout! -- and return to check the listings on the official exchange sites and the black-market ones where the gold-farmers hung out. He had a little formula for calculating the real price, using these two prices as a kind of beacon. No matter how he calculated it, his gasmasks were rising.
 
-"Ezhil!" she shouted a minute later, looking up from her mouse. "Bubble tea!" If she'd been paying attention, she would have noticed the squeak in his voice as he promised right away, right away.
+And yes, some of his other assets were rising, too. A robot dog, up from $1.32 to $1.54, still pretty far off from the $8.17 he'd predicted, but he owned a thousand of the things, which meant that he'd just made $1,318.46 here, and he was just getting started.
 
-But her attention was fixed on her screens, because that's where it was all suddenly going very wrong indeed. What she'd taken for strikers' victorious fireballs launched into the sky were landing among the players now, inflicting major damage. Just as she was noticing this, a volley of skidding, spiked turtle-shells came sliding in from offscreen, in twelve worlds at once.
+Up and up the prices went, as asset after asset attained liftoff, and he began to suspect that his asset-buying spree had coincided with an inter-world depression across all virtual economies, which accounted for the huge quantities of undervalued assets he'd found lying around. There was probably an interesting cause for all those virtual economies slumping at once, but that was something to study another day. As it was, he was more interested in the fact that the economies were bouncing back while he was sitting on mountains of dirt-cheap imaginary gewgaws, knickknacks, tchotchkes and white-elephants, and that their values were taking off like crazy.
 
-*Ambush!*
+And now it was time to convert some of those assets to money and some of that money to food, rent, and paid-off bills. His collection of articulated tentacles from Nemo's Adventures on the Ocean Floor were maturing nicely -- he'd bought them at $0.22, priced them at $3.21, and now they were trading at $3.27 -- so he dumped them, and regretted that he'd only bought 400 of them. Still, he managed to dump them for a handy $1150 profit (by the time he'd sold 300 of them, the price had started to tip down again, as the supply of tentacles increased and the demand diminished).
 
-She barked the word into her headset in Mandarin, then Cantonese, then Hindi, then English. The cry was taken up by the players and they rallied, forming battle-squares, healers in the middle, tanks on the outside, nimble thieves and scouts spreading out into the mushroom forests, looking for the ambush.
+The money dribbled into his PayPal account and he used that to order three pizzas, a gallon of orange juice and ten boxes of salad, paid off his suspended accounts, and sent $400 to his landlord against the $3500 he owed for two months' rent, along with a begging letter promising to pay the rest off within a day or two.
 
-This would work much better if they were a regular guild, all playing on the side of the evil Bowser or of the valiant Princess Peach, because if you were all on the same side, the game would coordinate your movements for you, give you radar for where and how all the other players were moving. But the strikers were from both sides of Mushroom Kingdom's moral coin, and as far as the game was concerned, they were sworn enemies. Their IMs were unintelligible to one another, and the default option for any "opposing" av you clicked on was ATTACK, leading to a lot of accidental skirmishes.
+While he waited for the pizzas to arrive, he decided he'd better shower and shave and try to do something about his hair, which had started to go into dreadlocks from a month without seeing a hairbrush. In the end, he just cut the tangles out, and got dressed in something other than his filthy housecoat for the first time in a week -- marvelling at how his jeans hungoff his prominent hips, how his t-shirt clung to his wasted chest, his ribs like a xylophone through the pale skin. He opened all the windows, aware of the funk of body-odor and stale computer-filtered air in his apartment, and realized as he did that it was morning, and thanked his lucky stars that he lived in a college town, where you could get a pizza delivered at 8:30AM.
 
-But gold farmers knew all about playing their own game, one that lived on top of the game that the companies wanted them to play. The game's communications tools were powerful and easy, but nothing (apart from the ridiculous "agreement" you had to click every time you started up the game) kept you from using anything you wanted. They favored free chat systems developed to help corporate work-groups collaborate; since these services always had free demo-versions available, hoping to snag some office-person into buying 30,000 licenses for their mega-corp. These systems even allowed them to stream screen-caps from their own computers, and Big Sister Nor saw to it that these were arranged sequentially, forming a huge, panoramic view of the entire battlefield.
+He barfed after eating the first pizza, getting most of it into the big pot he'd used to hold his drinking water, big chunks of crust and pepperoni, reeking of sour stomach-acid. He didn't let that put him off. His PayPal account was now bulging, up to $50,000, and he was just getting started. He switched to salads and juice, figuring it would take a little while to get used to food again, and not having the time just now to take a long bio-break. His body would have to wait. He ordered an urn of coffee from a place that catered corporate meetings, the kind of thing that held 80 cups' worth, and threw in a plate of sliced veggie and some pastries.
 
-She flicked through the battlescenes and the communications hub, fingers flying on the keyboard. They had a Koopa Turbo Hammer in seven of the worlds, a huge, whirling god-hammer that could clobber a score of attackers on a single throw, and she had it brought forward, using the scouts' screencaps to pinpoint the enemies' positions, conferring them to the hammer-throwers, a passel of hulking Kongs with protruding fangs and enormous, hairy chests.
+Selling was getting easier now. The economies were bouncing back, and from the tone of the thank-you messages he got from his buyers, he understood that there was a kind of reverse-panic in the air, a sense that players all over the world were starting to worry that if they didn't buy this junk now, they'd never be able to buy it, because the prices would go up and up and up forever.
 
-That was seven battles down; in the remaining five, she ordered the Peaches to form up with their umbrellas at the ready, then had two Bowsers "bounce" each of them, sticking to them while doing minimum damage. The Peaches unfurled their umbrellas and sailed into the air, taking their Bowsers with them, to drop behind enemy lines, ready to breathe fire and stomp the opposing forces. This was a devastating attack, one that was only possible if you played the farmers' game, cooperating through a side-channel -- normally, Bowsers and Princess Peaches were on the opposite sides of the Great War that was at the center of the Mushroom Kingdom story.
+And it was then that he had his second great flash, the second time that the finger of God reached down and touched his mind, with a force that shook him out of his chair and set him to pacing his living room like a tiger, muttering to himself.
 
-It should have worked -- the hammers, the Bowsers, the skilled players of a dozen guilds, bristling with armament and armor, spelling and firing and skirmishing.
+Once, when he'd been working on his Masters, he'd participated in a study for a pal in the economics department. They'd locked twenty five grad students into a room and given each of them a poker chip. "You can do whatever you want with those chips," the experimenter had said. "But you might want to hang onto them. Every hour, on the hour, I'm going to unlock this door and give you twenty dollars for each poker chip you're holding. I'll do this eight times, for the next eight hours. Then I'll unlock the door for a final time and you can go home and your poker chips will be worthless -- though you'll be able to keep all the money you've acquired over the course of the experiment."
 
-It should have worked -- but it hadn't.
+He'd snorted and rolled his eyes at the other grad students, who were mostly doing the same. It was going to be a loooong eight hours. After all, everyone knew what the value of the poker chips were: $160 in the first hour, $140 in the next, $120 in the next and so on. What would be the point of trading a poker chip to anyone else for anything less than it was worth?
 
-The mysterious attackers -- she'd branded them "Pinkertons" in her mind, after the strike-breaking goons from the Pinkerton Detective Agency who'd been the old Wobblies' worst enemies -- had seemingly endless numbers, and every attack they launched seemed to do maximum damage. Meanwhile, they were able to pull off incredible dodges and defenses against the strikers' attacks. And their aim! Every fireball, every turtle, every sound-bomb, every flung axe found its target with perfect accuracy.
+For the first hour, they all sat around and griped about how boring it all was. Then, the experimenter walked back into the room with a tray of sandwiches and 25 $20 bills. "Poker chips, please," he said, and they dutifully held out their chips, and one by one, each received a crisp new $20 bill.
 
-It was almost as though they were --
+"One down, seven to go," someone said, once the experimenter had left. The  sandwiches were largely untouched. They waited. They flirted in a bored way, or made small talk. The hour ticked past.
 
--- Cheating!
+Then, at 55 minutes past the hour, one guy, a real joker with red hair and mischievous freckles, got out of the beat-up old orange sofa turned to the prettiest girl in the room, a lovely Chinese girl with short hair and homemade clothes that reminded Connor of Jenny's fashion, and said, "Rent me your poker chip for five minutes? I'll pay you $20."
 
-That had to be it. They were using aimhacks, dodgehacks, all the prohibited add-on software that the game was supposed to be able to spot and disable. Somehow, they'd gotten past the game's defenses. It didn't matter. The game was always stacked against gold farmers.
+That cracked the entire room up. It was the perfect demonstration of the absurdity of sitting around, waiting for the $20 hour. The Chinese girl laughed, too, and they solemnly traded. In came the grad student, five minutes later, with another wad of twenties and a cooler filled with smoothies in tetrapaks. "Poker chips, please," he said, and the joker held up his two chips. They all grinned at one another, like they'd gotten one over on the student, and he grinned a little  too and handed two twenties to the redhead. The Chinese girl held up her extra twenty, showing that she had the same as everyone else.  Once he'd gone, Red gave her back her chip. She pocketed it and went back to sitting in one of the dusty old armchairs.
 
-"Pull back!" she shouted. "Retreat!" This was going to have to be guerrilla war, jungle war, hiding in the bushes and sniping at them as they'd sniped at her. She'd lure them into the clearing that marked the dungeon's entrance and then they'd slip around them into the mushroom forest, using their superior coordination to trump the hacks and numbers the Pinkertons had on their side. In her headset, she heard the ragged breathing, the curses in six languages, the laughter and shouting of players all over the world, listening to her rap out commands in all the different versions of Mushroom Kingdom that they were fighting in.
+They drank their smoothies. There were murmured conversations, and it seemed like a lot of people were trading their chips back and forth. Connor laughed to see this, and he wasn't the only one, but it was all in fun. Twenty dollars was the going rate for an hour's rental, after all -- the exactly and perfectly rational sum.
 
-She found that she was grinning. This was *fun.* This was a *lot* more fun than being tear-gassed.
+"Give me your poker-chip for 20 minutes for $5?" The asker was at the young end of the room, about 22, with a soft, cultured southern accent. She was also very pretty. He checked the clock on the wall: "It's only half past," he said. "What's the point?"
 
-It had been Big Sister Nor's idea to use the games for organizing. Why risk your neck in the factory or standing at its gates when you could slip right in among the workers, no matter where they were in the world, and talk to them about joining up? Plenty of the MUTE old guard had thought she was crazy, but there was lots of support, too -- especially when Nor showed them that they could reach the Indonesian textile workers who'd inherited her job when her factory had closed up and moved on, simply by logging into Spirals of the Golden Snail, a game that had taken the whole Malay peninsula by storm.
+She grinned at him. "You'll see."
 
-It didn't matter where you fought, it mattered whether you won. And the more she thought about it, the more she realized that they could win in-game. The bosses were better at firing teargas at them, but they were better at lobbing fireballs, pulsed energy weapons, photon torpedoes and savage flying fish -- and they always would be. What's more, a striker who lost a skirmish in-game merely had to re-spawn and do a corpse-run, possibly losing a little inventory in the process. A striker who lost a skirmish AFK -- away from keyboard -- might end up dead.
+A five dollar bill was produced and the poker-chip left his custody. The pretty southern girl talked with another girl, and after a moment, $10 traded hands, rather conspicuously. "Hey," he began, but the southern girl tipped him a wink, and he fell silent.
 
-Big Sister Nor lived in perpetual fear of having someone's death on her hands.
+Anxiously, he watched the clock, waiting for the 20 minutes to tick past. "I need the chip back," he said, to the southern girl.
 
-The battle was turning again. The Pinkertons had all fallen for her gambit, letting them rush past and back into the mushroom forest, effectively trading places. Now they were digging in the woods, laying little ambushes, fortifying positions and laying down withering fire from all directions. The breathing, gasping, triumphant muttering voices in her head and the hastily clattered in-game chat gave her a feeling like the battle was resting delicately balanced on her fingertips, every shift and change dancing felt as a tremor against the sensitive pads of her fingers.
+She shrugged. "You need to talk to her," she said, jerking her thumb over her shoulder, then she ostentatiously pulled a paperback novel -- *The Fountainhead* -- out of her backpack and buried her nose in it. He felt a complicated emotion: he wanted to laugh, and he wanted to shout at the girl. He chose laughter, conscious of all the people watching him, and approached the other girl, who was tall and solidly built, with a no-nonsense look that went perfectly with her no-nonsense clothes and haircut.
 
-Big Sister Nor called for her bubble tea again, realizing that a very long time indeed had gone by since she'd first ordered it. This time, no one answered. The skin on the back of her neck prickled and she slipped her headphones off her head. Justbob and The Mighty Krang caught on a second later, removing their earwigs. There was no noise at all from the front of Headshot, none of the normal hyperactive calling of gamer-kids, or the shouts of guestworkers phoning home on cheap earwigs.
+"Yes?" she said, when he approached her.
 
-Big Sister Nor stood up quietly and quickly and backed up against the wall, motioning to the others to do the same. On her screen, she saw another rally by the Pinkertons, who'd taken advantage of the sudden lack of strategic leadership to capture several of the small striker strongholds. She inched her way toward the door and very, very, *very* slowly tilted her head to see around the frame, then whipped it back as quick as she could.
+"You've got my chip," he said.
 
-*RUN*, she mouthed to her lieutenants, and they broke for the rear entrance, the escape hatch that Big Sister Nor always made sure of before she holed up to do union work.
+"No," she said. "I do not."
 
-On their heels came the Pinkertons, the real world Pinkertons, Malay men in workers' clothes, poor men, men armed with stout sticks and a few chains, men who'd been making their way to the door when Big Sister Nor chanced to look around it.
+"But the chip she sold you, I'd only rented it to her."
 
-They shouted after them now, excited and tight voices, like the catcalls of drunken boys on streetcorners when they were feeling the bravery of numbers and hormones and liquor. That was a dangerous sound. It was the sound of fools egging each other on.
+"You need to take it up with her," the girl who had his chip said.
 
-Big Sister Nor hit the crashbar on the rear door with both palms, slamming into it with the full weight of her body. The door's gas-lift was broken, so it swung back like a mousetrap, and it was a good thing it did, because it moved so fast that the two Pinkertons waiting to bar their exit didn't have time to get out of the way. One was knocked over on his ass, the other was slammed into the cinderblock wall with a jarring thud that Big Sister Nor felt in her palms.
+"But it's my chip," he said. "It wasn't hers to sell to you." He didn't want to say, *I'm also pretty intimidated by anyone who has the gall to pull a stunt like that.* Was it his imagination, or was the southern girl smiling to herself, a smug little smile?
 
-The door rebounded into her, knocking her back into The Mighty Krang, who caught her, pushed her on, hands on her shoulderblades, breath ragged in her ears.
+"Not my problem, I'm afraid," she said. "Too bad."
 
-They were in a dark, narrow, stinking alley behind that connected two of the Lorangs, the small streets that ran off Geylang Road, and it was time to R and G -- to run and gun, what you did when all your other plans collapsed. Big Sister Nor had thought this through far enough to make sure they had a back door, but no farther than that.
+Now *everyone* was watching very closely and he felt himself blushing, losing his cool. He swallowed and tried to put on a convincing smile. "Yeah, I guess I really should be more careful who I trust. Will you sell me my chip?"
 
-The Pinkertons were close behind, but they were all squeezed down into the incredibly narrow confines of the alleyway, and no one could really run or move faster than a desperate shuffle.
+"My chip," she said, flipping it in the air. He was tempted to try and grab it out of the air, but that might have led to a wrestling match right here, in front of everyone. How embarrassing!
 
-But then they broke free into the next Lorang, and Big Sister Nor broke left, hoping to make it far enough up the road to get into sight of the diners at the all-night restaurants.
+"Yeah," he said. "Your chip."
 
-She didn't make it.
+"OK," she said. "$15."
 
-One of the men threw his truncheon at her and it hit her square between her shoulders, knocking the breath from her and causing her to go down on one knee. Justbob twined one hand in her blouse and hauled her to her feet with a sound of tearing cloth, and dragged her on, but they'd lost a step to her fall, and now the men were on them.
+"Deal," he said, thinking, *I've already earned $45 here, I can afford to let go of $15.*
 
-Justbob whirled around, snarling, shouting a worldless cry, using the movement as inertia for a wild roundhouse kick that connected with one of the Pinkertons, a man with sleepy eyes and a thick mustache. Justbob's foot caught him in the side, and they all heard the sound of his ribs breaking under the toe of her demure sandal with its fake jewels. The sandal flew on and clattered to the road with the cheap sound of paste gems.
+"In seven minutes,*" she said. He looked at the clock: it was 11:54. In seven minutes, she'd have gotten his $20. Correction: *her* $20.
 
-The men hadn't expected that, and there was a moment when they stopped in their tracks, staring at their fallen comrade, and in that instant, Big Sister Nor thought that -- just maybe -- they could get away. But Justbob's chest was heaving, her face contorted in rage, and she *leapt* at the next man, a fat man in a sweaty sportcoat, thumbs aiming at his eyes, and as she reached him, the man beside him lifted his truncheon and brought it down, glancing off her high, fine cheekbone and then smashing against her collarbone.
+"That's not fair," he said.
 
-Justbob howled like a wounded dog and fell back, landing a hard punch in her attacker's groin as she fell back.
+She raised one eyebrow at him, hoisting it so high it seemed like it'd touch her hairline. "Oh really? I think that this chip is worth $120. $15 seems like a bargain to you."
 
-But now the Pinkertons were on them, and their arms were raised, their truncheons held high, and as the first one swung into Big Sister Nor's left breast, she cried out and her mind was filled with Affendi and her broken fingers, her unrecognizably bruised face. Somewhere, just a few tantalizing meters up the Lorang, night people were eating a huge feast of fish and goat in curry, the smells in the air. But that was there. Here, Big Sister Nor was infinitely far from them, and the truncheons rose and fell and she curled up to protect her head, her breasts, her stomach, and in so doing exposed her tender kidneys, her delicate short-ribs, and there she lay, enduring a season in hell that went on for an eternity and a half.
+"I'll give you $20," the redhead said.
+
+"$25," said someone else, laughing.
+
+"Fine, fine," Connor said, hastily, now blushing so hard he actually felt light-headed. "$15."
+
+"Too late," she said. "The price is now $25."
+
+He heard the room chuckle, felt it preparing to holler out a new price -- $40? $60? -- and he quickly snapped, "$25" and dug out his wallet.
+
+The girl took his money -- how did he know she would give him the chip? He felt like an idiot as soon as it had left his hand -- and then the experimenter came in. "Lunch!" he called out, wheeling in a cart laden with boxed salads, vegetarian sushi, and a couple buckets of fried chicken. "Poker chips!" The twenties were handed around.
+
+The girl with his money spent an inordinate amount of time picking out her lunch, then, finally, turned to him with a look of fakey surprise, and said, "Oh right, here," and handed him his chip. The guy with the red hair snickered.
+
+Well, that was the beginning of the game, the thing that turned the next five hours into one of the most intense, emotional experiences he'd ever taken part in. Players formed buying factions, bought out other players, pooled their wealth. Someone changed the wall clock, sneakily, and then they all spent 30 minutes arguing about who's watch or phone was more accurate, until the researcher came back in with a handful of twenties.
+
+In the sixth hour of the experiment, Connor suddenly realized that he was in the minority, an outlier among two great factions: one of which controlled nearly all the poker chips, the other of which controlled nearly all the cash. And there was only two hours left, which meant that his single chip was worth $40.
+
+And something began to gnaw at his belly. Fear. Envy. Panic. The certainty that, when the experiment ended, he'd be the only poor one, the only one without a huge wad of cash. The savvy traders around them had somehow worked themselves into positions of power and wealth, while he'd been made tentative by his bad early experience and had stood pat while everyone else created the market.
+
+So he set out to buy more chips. Or to sell his chip. He didn't care which -- he just wanted to be rich.
+
+He wasn't the only one: after the seventh hour, the entire marketplace erupted in a fury of buying and selling, which made *no damned sense* because now, *now* the chips were all worth exactly $20 each, and in just a few minutes, they'd be absolutely worthless. He kept telling himself this, but he also found himself bidding, harder and harder, for chips. Luckily, he wasn't the most frightened person in the room. That turned out to be the redhead, who went after chips like a crackhead chasing a rock, losing all the casual cool he'd started with and chasing chips with money, IOUs.
+
+Here's the thing, cash should have been *king*. The cash would still be worth something in an hour. The poker chips were like soap bubbles, about to pop. But those holding the chips were the kings and queens of the game, of the market. In seven short hours, they'd been conditioned to think of the chips as ATMs that spat out twenties, and even though their rational minds knew better, their hearts were all telling them to corner the chip.
+
+At 4:53, seven minutes before his chip would have its final payout, he sold it to the Fountainhead lady for $35, smirking at her until she turned around and sold it to the redhead for $50. The researcher came into the room, handed out his twenties, thanked them for their time, and sent them on their way.
+
+No one met anyone else's eye as they departed. No one offered anyone else a phone number or email address or IM. It was as if they'd all just done something they were ashamed of, like they'd all taken part in a mob beating or a witch-burning, and now they just wanted to get away. Far away.
+
+For years, Connor had puzzled over the mania that had seized that room full of otherwise sane people, that had found a home in his own heart, had driven him like an addiction. What had brought him to that shameful place?
+
+Now, as he watched the value of his virtual assets climb and climb and climb, climb higher than his Equations predicted, higher than any sane person should be willing to spend on them, he *understood*.
+
+The emotion that had driven them in that experimenter's lab, that was driving the unseen bidders around the world: it wasn't greed.
+
+It was *envy*.
+
+Greed was predictable: if one slice of pizza is good, it makes sense that your intuition will tell you that five or ten slices would be even better.
+
+But envy wasn't about what was good: it was about what someone else thought was good. It was the devil who whispered in your ear about your neighbor's car, his salary, his clothes, his girlfriend -- better than yours, more expensive than yours, more beautiful than yours. It was the dagger through your heart that could drive you from happiness to misery in a second without changing a single thing about your circumstances. It could turn your perfect life into a perfect mess, just by comparing it to someone who had more/better/prettier.
+
+Envy is what drove that flurry of buying and selling in the lab. The redhead, writing IOUs and emptying his wallet: he'd been driven by the fear that he was missing out on what the rest of them were getting. Connor had sold his chip in the last hour because everyone else seemed to have gotten rich selling theirs. He could have kept his chip to himself for eight hours and walked out $160 richer, and used the time to study, or snooze, or do yoga in the back. But he'd felt that siren call: *Someone else is getting rich, why aren't you?*
+
+And now the markets were running and *everything* was shooting up in value: his collection of red oxtails (useful in the preparation of the Revelations spell in Endtimes) should have been selling at $4.21 each. He'd bought them for $2.10 each. They were presently priced at *$14.51 each*.
+
+It was insane.
+
+It was wonderful.
+
+Connor knew it couldn't last. Eventually, there would be a marketwide realization that these were overpriced -- just as the market had recently realized that they had been underpriced. Bidding would cease. The last, most scared person who bought an overpriced game asset would be unable to flip it, would have to pay for it.
+
+Rationally, he supposed he should sell at his Equation-predicted number. Anything higher was just a bet on someone else's irrationality. But still -- would he really be better off flipping his 50 oxtails for $200, when he could wait a few minutes and sell them for $700? It didn't have to be all or nothing. He divided his assets up into two groups; the ones he'd bought most cheaply, he set aside to allow to rise as far as they could. They represented his lowest-risk inventory, the cheapest losses to absorb. The remaining assets, he flipped at the second they reached the value predicted by his Equations.
+
+He quickly sold out of the second group, leaving him to watch the speculative assets climb higher and higher. He had a dozen games open on his computer, flipping from one to the next, monitoring the chatter and their associated websites and marketplaces, getting a sense for where they were going. Filtering the tweets and the status messages on the social networks, he felt a curious sense of familiarity: they were going nuts out there in a way that was almost identical to the craziness that had swept over the group in the poker-chip experiment. In their hearts, everyone knew that peacock plumes and purple armor were vastly overvalued, but they also knew that some people were getting rich off of them, and that if the prices kept climbing that they'd never be able to own one themselves.
+
+Nevermind that they never wanted to own one *before*, of course! The important thing wasn't what they needed or loved, it was the idea that someone else would have something that they couldn't have.
+
+Connor had made his second great discovery: Envy, not greed, was the most powerful force in any economy.
+
+(Later, when Connor was writing articles about this for glossy magazines and travelling all over the world to talk about it, plenty of people from marketing departments would point out that they'd known this for generations had spent centuries producing ads that were aimed squarely at envy's solar plexus. It was true, he had to admit -- but it was also true that practically every economist he'd ever met had considered marketing people to be a bunch of shallow, foolish court jesters with poor math skills and had therefore largely ignored them)
+
+He watched the envy mount, and tried to get a feel for it all, to track the sentiments as they bubbled up. It was hard -- practically impossible, honestly -- because it was all spread out and no one had written the chat programs and the games and the social networks and the twitsites to track this kind of thing. He ended up with a dozen browsers open, each with dozens of tabs, flipping through them in a high speed blur, not reading exactly, but skimming, absorbing the *sense* of how things were going. He could feel the money and the thoughts and the goods all balanced on his fingertips, feel their weight shifting back and forth.
+
+And so he felt it when things started to go wrong. It was a bunch of subtle indicators, a blip in prices in this market, a joyous tweet from a player who'd just discovered an easy-to-kill miniboss with a huge storehouse stuffed with peacock feathers. The envy bubble was collapsing. Someone had popped it and the air was whooshing out.
+
+SELL!
+
+At that moment, his speculative assets were theoretically worth over *four hundred thousand dollars*, but ten minutes later, it was $250,000 and falling like a rock. He knew this one too -- fear -- fear that everyone else got out while the getting was good, that the musical chairs had all been filled, that you were the most scared person in a chain of terrorized people who bought overpriced junk because someone even more scared would buy it off of you.
+
+But Connor could rise above the fear, fly over it, flip his assets in a methodical, rapidfire way. He got out with over $120,000 in cash, plus the $80,000 he'd gotten from his "rationally priced" assets, and now his PayPal accounts were bulging with profits and it was all over.
+
+Except it wasn't.
+
+One by one, his game accounts began to shut down, his characters kicked out, his passwords changed. He was limp with exhaustion, his hands trembling as he typed and re-typed his passwords. And then he noticed the new email, from the four companies that controlled the twelve games he'd been playing: they'd all cut him off for violating their Terms of Service. Specifically, he'd "Interfered with the game economy by engaging in play that was apt to cause financial panic."
+
+"What the hell does that mean?" he shouted at his computer, resisting the urge to hurl his mouse at the wall. He'd been awake for over 48 hours now, had made hundreds of thousands of dollars in a mere weekend, and had been graced with a thunderbolt of realization about the way that the world's economy ran. Oh, and he'd validated his Equations.
+
+He could solve this problem later.
+
+He didn't even make it into bed. He curled up on the floor, in a nest of pizza boxes and blankets, and slept for 18 hours, until he was awoken by the bailiff who came to evict him for being three months behind on the rent.

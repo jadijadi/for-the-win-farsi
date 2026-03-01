@@ -1,103 +1,75 @@
 # Part II: Hard work at play
 
-## Chapter 20
+## Chapter 21
 
 ---
 
 ## Dedication
 
-This scene is dedicated to the MIT Press Bookshop, a store I've visited on every single trip to Boston over the past ten years. MIT, of course, is one of the legendary origin nodes for global nerd culture, and the campus bookstore lives up to the incredible expectations I had when I first set foot in it. In addition to the wonderful titles published by the MIT press, the bookshop is a tour through the most exciting high-tech publications in the world, from hacker zines like 2600 to fat academic anthologies on video-game design. This is one of those stores where I have to ask them to ship my purchases home because they don't fit in my suitcase.
+This scene is dedicated to The Tattered Cover, Denver's legendary independent bookstore. I happened upon The Tattered Cover quite by accident: Alice and I had just landed in Denver, coming in from London, and it was early and cold and we needed coffee. We drove in aimless rental-car circles, and that's when I spotted it, the Tattered Cover's sign. Something about it tingled in my hindbrain -- I knew I'd heard of this place. We pulled in (got a coffee) and stepped into the store -- a wonderland of dark wood, homey reading nooks, and miles and miles of bookshelves.
 
-MIT Press Bookstore http://web.mit.edu/bookstore/www/  Building E38, 77 Massachusetts Ave., Cambridge, MA USA 02139-4307 +1 617 253 5249
+The Tattered Cover http://www.tatteredcover.com/book/9780765322166 1628 16th St., Denver, CO USA 80202 +1 303 436 1070
 
 ---
 
-Ashok wove his pretty bike through the narrow alleys of Dharavi, his headlamp slicing through the night. Yasmin's mother would be rigid with worry and anger, and would probably beat her, but it was OK. She and Ashok had sat in that studio shed for hours, talking it through, getting meat on the bones of her idea, and he had left long, detailed messages for Big Sister Nor before getting them back on his bike.
+Wei-Dong couldn't get Lu off his mind. A barbarian stabbed a pumpkin and he decided that the sword would be stuck for three seconds and then play a standard squashing sound from his soundboard. He couldn't get Lu off his mind. A pickpocket tried to steal a phoenix's tailfeather, and he made the phoenix turn around and curse the player out, spitting flames, shouting at him in Mandarin, his voice filtered through a gobble-phaser so that it sounded birdy. He couldn't get Lu off his mind. A zombie horde-leader tried to batter his way into a barricaded mini-mall, attempting to go through a "Going out of business" signboard that was only a texture mapped onto an exterior surface that had no interior. Wei-Dong liked the guy's ingenuity, so he decided that it would take 3,000 zombie-minutes to break it down, and when it fell, it would map to the interior of the sporting-goods store where there were some nice clubs, crossbows and machetes.
 
-Yasmin tapped him on the shoulder at each junction, showing him which way to turn. Soon they were nearly at her family's house and shouted at him to stop, hollering through the helmet. He killed the engine and the headlight and her bum finally stopped vibrating, her legs complaining about the hours she'd spent gripping the bike with the insides of her thighs. She swung unsteadily off her bike and brought her hands up to her helmet.
+And he couldn't get Lu off his mind.
 
-Her hands were on her helmet when she heard the voices.
+He'd always liked Lu. Of all the guys, Lu was the one who really got *into* the games. He didn't just love the money, or the friendship: he loved to *play*. He loved to solve puzzles, to take down the big bosses on a huge raid, to unlock new lands and achievements for his avs. Sometimes, as Wei-Dong worked his long shifts making tiny decisions for the game, he thought about how much better it would be to play, thanks to the work he was doing, and imagined the Lu would approve of the artistry. It was nice to be on the other side of the game, making the fun instead of just consuming it. The job was long, it was hard, it didn't pay well, but he was *part of the show*.
 
-"Is that her?"
+But this wasn't a show anymore.
 
-"I can't tell."
+His phone started vibrating in his pocket. He took it out, looked at the face, put it on his desk. It was his mom. He'd relented and given her his new number once he turned 18, justifying it to himself on the ground that he was an adult now and she couldn't have him tracked down and dragged back. But really, it was because he couldn't face spending his 18th birthday alone. But he didn't want to talk to her now. He bumped her to voicemail.
 
-They were whispering loudly, and a trick of the grilles over the helmet's ear-coverings let her hear the sound as though it was originating from right beside her. She put a firm hand on Ashok's shoulder and squeezed.
+She called back. The phone buzzed. He bumped it to voicemail. A second later, the phone buzzed again. He reached to turn it off and then he stopped and answered it.
 
-"It's her." The voice was Mala's, hard.
+"Hi, Mom?"
 
-Yasmin let go of Ashok's shoulder and brought her hand down to the cables tying the lathi to the bike, while her free hand moved to the helmet's visor, swinging it up. She'd repinned her hijab around her neck and now she was glad she had, as she had pretty good visibility. It had been a long time since she'd been in a physical fight, but she understood the principles of it well, knew her tactics.
+"Leonard," she said. "It's your father."
 
-The lathi was really well anchored -- Ashok hadn't wanted it to go flying off while they were running down the motorway -- and now she brought her other hand down to work at it blind, keeping her eyes on the shadows around her, listening for the footsteps.
+"What?"
 
-"What about the man?"
+She took a deep breath, let it out. "A heart attack. A big one. They took him to --" She stopped, took in a deep breath. "They took him to the Hoag Center. He's in the ICU. They say it's the best --" Another breath. "It's supposed to be the best."
 
-"Him too," Mala said.
+Wei-Dong's stomach dropped away from him, sinking to a spot somewhere beneath his chair. His head felt like it might fly away. "When?"
 
-And then they charged, an army of them, coming from the shadows all around them. "GO!" she said to Ashok, trying to keep him from dismounting the bike, but he got to his feet, squared his shoulders, and faced away from her, to the soldiers who were charging him. A rock or lump of cement clanged off her helmet, making a sound like a cooking pot falling to the floor, and now she tugged as hard as she could at the lathi and at last it sprang free, the steel hooks on the tips of the bunjee cables whipping around and smacking painfully into her hands. She barely noticed, whirling with the two-meter stick held overhead like a cricket-bat.
+"Yesterday," she said.
 
-And pulled up short.
+He didn't say anything. *Yesterday?* He wanted to shriek it. His father had been in the hospital since *yesterday* and no one had told him?
 
-The boy closest to her was Sushant. Sushant, who, that afternoon, had spoken of how he'd longed to join her cause. His face was a mask of terror in the weak light leaking out of the homes around them. The steel tip trembled over her shoulder as her wrists twitched. All she would need to do is unwind the swing, let the long pole and its steel end whistle through the air with all the whip-crack force penned up at the lathi's end and she would bash poor Sushant's head in.
+"Oh, Leonard," she said. "I didn't know what to do. You haven't spoken to him since you left. And --"
 
-And why not? After all, that's what Mala's army was here for.
+*And*?
 
-All this thought in the blink of an eye, so fast she didn't even register that she'd thought it, but she did not swing the lathi through the air at Sushant's head. Instead, she swept it at his feet, pulling the swing so that it just knocked him backwards, flying into two more soldiers behind him, boys who had once taken orders from her.
+"I'll come and see him," he said. "I can get a taxi. It'll take about an hour, I guess."
 
-"Stand down!" she barked, in the voice of command, and swung the lathi back, sweeping it toward the army's feet like a broom. They took a giant step back in unison, eyes crazed and rolling in the weak light. Sushant was weeping. She'd heard bone break when the lathi's tip met his ankle. He was holding onto the shoulders of the two soldiers he'd knocked over, and they were struggling to keep him upright.
+"Visiting hours are over," she said. "I've been with him all day. He isn't conscious very much. I... They don't let you use your phone there. Not in the ICU."
 
-No one said anything and there was just the collective breath of Dharavi, thousands and thousands of chests rising and falling in unison, breathing in each others' air, breathing in the stink of the tanners and the burning reek from the dye factories and the sting of the plastic smoke.
+For months, Wei-Dong had been living as an adult, living a life he would have described as ideal, before the phone rang. He knew interesting people, went to exciting places. He *played games all day*, for a living. He knew the secrets of gamespace.
 
-Then Mala stepped forward. In her hand, she held -- what? A bottle?
+Now he understood that a feeling of intense loneliness had been lurking beneath his satisfaction all along, a bubbling pit of despair that stank of failure and misery. Wei-Dong loved his parents. He wanted their approval. He trusted their judgment. That was why he'd been so freaked out when he discovered that they'd been plotting to send him away. If he hadn't cared about them, none of it would have mattered. Somewhere in his mind, he'd had a cut-scene for his reunion with his parents, inviting them to a fancy, urban restaurant, maybe one of those raw food places in Echo Park that he read about all the time in Metroblogs. They'd have a cultured, sophisticated conversation about the many amazing things he'd learned on his own, and his father would have to scrape his jaw off his plate to keep up his end of the conversation. Afterwards, he'd get on his slick Tata scooter, all tricked out with about a thousand coats of lacquer over thin bamboo strips, and cruise away while his parents looked at each other, marvelling at the amazing son they'd spawned.
 
-A bottle. With an oily rag hanging out of the end. A petrol bomb.
+It was stupid, he knew it. But the point was, he'd always treated this time as a holiday, a little interlude in his family life. His vision quest, when he went off to become a man. A real Bar-Mitzvah, one that meant something.
 
-"Mala!" she said, and she heard the shock in her own voice. "You'll burn the whole of Dharavi down!" It was the tone of voice you use when shouting into your headset at a guildie who was about to get the party killed by accidentally aggroing some giant boss. The tone that said, *You're being an idiot, cut it out.*
+The thought that he might never see his father again, never make up with him -- it hit him like a a blow, like he'd swung a hammer at a nail and smashed his hand instead.
 
-It was the wrong tone to use with Mala. She stiffened up and her other hand worked at the wheel of a disposable lighter -- *snzz* *snzz*.
+"Mom --" His voice came out in a croak. He cleared his throat. "Mom, I'm going to come down tomorrow and see you both. I'll get a taxi."
 
-Again, she moved before she thought, two running steps while she brought the lathi up over her shoulder, feeling it thunk against something behind her as it sliced up, then slicing it back down again, in that savage, cutting arc, down at Mala's skinny legs, sweeping them with the whole force of her body, and Mala skipped backwards, away from the lathi, stumbled, went over backwards --
+"OK, Leonard. I think your father would like to see you."
 
--- and the lathi *connected*, a solid blow that made a sound like the butcher's knife parting a goat's head from its neck, and Mala's scream was so terrible that it actually brought people to their windows (normally a scream in the night would make them stay back from it). There was bone sticking out of her leg, glinting amid the blood that fountained from the wound.
+He wanted her to say something about how selfish he'd been to leave them behind, what a bad son he'd been. He wanted her to say something *unfair* so that he could be angry instead of feeling this terrible, awful guilt.
 
-And still she had the petrol bomb, and still she had the lighter, and now the lighter was lit. Yasmin drew back her foot for a footballer's kick, knowing as she wound up that she could cripple Mala's hand with a good kick, ending her career as General Robotwallah.
+But she said, "I love you, Leonard. I can't wait to see you. I've missed you."
 
-Afterwards, she remembered the voice that had chased itself around her head as she drew back for that kick:
+And so he went to bed with a million self-hating thoughts chanting in unison in his mind, and he lay there in his bed in the flophouse hotel for hours, listening to the thoughts and the shouting bums and clubgoers and the people having sex in other rooms and the music floating up from car windows, for hours and hours, and he'd barely fallen asleep when his alarm woke him up. He showered and scraped off his little butt-fluff mustache with a disposable razor and ate a peanut butter sandwich  and made himself a quadruple espresso using the nitrous-powered hand-press he'd bought with his first paycheck and called a cab and brushed his teeth while he waited for it.
 
-*Do it, do it and end your troubles. Do it because she would do it to you. Do it because it will scare her army out of fighting you and the Webblies. Do it because she betrayed you. Do it because it will keep you safe.*
+The cabbie was Chinese, and Wei-Dong asked him, in his best Mandarin, to take him down to Orange County, to his parents' place. The man was clearly amused by the young white boy who spoke Chinese, and they talked a little about the weather and the traffic and then Wei-Dong slept, dozing with his rolled-up jacket for a pillow, sleeping through the caffeine jitter of the quad-shot as the early morning LA traffic crawled down the 5.
 
-And she lowered her foot and instead *leapt* on Mala, pinning her arms with her body. The lighter's flame licked at her arm, burning her, and she ground it out. She could feel Mala's breath, snorting and pained, on her throat. She grabbed Mala's left wrist, shook the hand that held the bomb, smashed it against the ground until it broke and spilled out the stinking petrol into the ditch that ran alongside the shacks.  She stood up.
+And he paid the cabbie nearly a day's wages and took his keys out of his jacket pocket and walked up the walk to his house and let himself in and his mother was sitting at the kitchen table in her housecoat, eyes red and puffy, just staring into space.
 
-Mala's face was ashen, even in the bad light. The blood  smell and the petrol smell were everywhere.
+He stood in the doorway and looked at her and she looked back at him, then stood uncertainly and crossed to him and gave him a hug that was tight and trembling and there was wetness on his neck where her tears streaked it.
 
-Yasmin looked to Ashok. "You need to take her to the hospital," she said.
+"He went," she breathed into his ear. "This morning, about 3 AM. Another heart attack. Very fast. They said it was practically instant." She cried some more.
 
-"Yes," he said. He was holding onto the side of his head, eye squeezed shut. "Yes, of course."
-
-"What happened to you?"
-
-He shrugged. "Got too close to your lathi," he said and tried for a brave smile. She remembered the *thunk* as she'd drawn back for her swing.
-
-"Sorry," she said.
-
-Mala's army stood at a distance, staring.
-
-"Go!" Yasmin said. "Go. This was a disaster. It was stupid and evil and wrong. I'm not your enemy, you idiots. GO!"
-
-They went.
-
-"We have to splint her," Ashok said. "Make a stretcher, too. Can't move her like that."
-
-Yasmin looked at him, raised an eyebrow.
-
-"My father's a doctor," he said.
-
-Yasmin went into the flat, climbed the stairs. Her mother sat up as she entered the room and opened her mouth to say something, but Yasmin raised on hand to her and, miraculously, she shut up. Yasmin looked around the room, took the chair that sat in one corner, an armload of rags from the bundle they used to keep the room clean, and left, without saying a word.
-
-Ashok broke the chair into splints by smashing it against a nearby wall. It was a cheap thing and went to pieces quickly. Yasmin knelt by Mala and took her hand. Her breathing was shallow, labored.
-
-Mala squeezed her hand weakly. Then she opened her eyes and looked around, confused. Her eyes settled on Yasmin. They looked at each other. Mala tried to pull her hand away. Yasmin didn't let go. The hand was strong, nimble. It had dispatched innumerable zombies and monsters.
-
-Mala stopped struggling, closed her eyes. Ashok brought over the splints and rags and hunkered down beside them.
-
-Just before he began to work on her, Mala said something. Yasmin couldn't quite make it out, but she thought it might be, *Forgive me.*
+And Wei-Dong knew that he would be moving home again.

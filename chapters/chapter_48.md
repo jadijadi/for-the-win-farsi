@@ -1,127 +1,101 @@
 # Part III: Ponzi
 
-## Chapter 48
+## Chapter 49
 
 ---
 
-Matthew wept as he walked, pacing the streets without seeing. He'd been one of the first ones out of the building when the police raided, and he'd slipped through the cordon before they'd tightened it, slipping into another handshake building, one he'd played in as a boy, and running up the stairs to the roof, where he'd lain on his belly amid the broken glass and pebbles, staring down at the street below as the police chased down and caught his friends, one after the other, a line of Webblies face-down on the ground, groaning from the occasional kick or punch when they violated the silence and tried to speak with one another.
+Mr Bannerjee came for them that night, with another group of thugs, but these weren't skinny badmashes, but grown adults, dirty men with knives and clubs, men who smelled of betel and sweat and smoke and fiery liquor, a smell that preceded them like a messenger shouting "beware, beware." They came calling and joking through Dharavi, a mob that the Webblies heard from a long way off. Mrs Dibyendu's neighbors came to their windows and clucked worriedly and sent their children to lie down on the floor.
 
-The police began to methodically cuff and hood them, starting at one end, working in threes -- one to cuff, one to hood, and one to stand guard with his rifle. It seemed to go on forever, and Matthew saw that he was far from the only person observing the sick spectacle: the laundry-hung balconies of the handshake buildings shivered as people piled out onto them, their mobile phones aimed at the laneway below. Matthew got out his own phone, zooming in methodically on each face, trying to get a picture of each Webbly before he was hooded, thinking vaguely of putting the images on the big Webbly boards, sending them to the foreign press, the dissident bloggers who used their offshore servers.
+Mr Bannerjee led the procession, in his pretty suit, the mud sucking at his fine shoes. He stood in the laneway before the door to Mrs Dibyendu's cafe and put his hands on his hips and lit a cigarette, making a show of it, all nonchalance as he puffed it to life and blew a stream into the hot, wet air.
 
-Then, sudden movement. Ping was thrashing on the ground, limbs flailing, head cracking against the pavement hard enough to be heard from Matthew's perch six stories up. Matthew knew with hopeless certainty that it was one of his friend's epileptic seizures, which didn't come on very often, but which were violent and terrifying for those around him. The cops tried to grab his arms and legs, and one of them got a hard kick in the knee for his trouble, and then Ping's arm cracked the hooded prisoner beside him, who rolled away, stumbled to his feet, and the cops waded in, rifle-butts raised and ready.
+He waited.
 
-What happened next seemed to take forever, an eternity during which Matthew struggled not to scream, struggled on the edge of indecision, of impotence, of being driven to run to the street below for his comrades and of being  too scared to move from the spot.
+Mala limped to the door and opened it. Behind her, the cafe was dark and not a thing moved.
 
-A policeman cracked the hooded Webbly who was on his feet across the kidneys, and the boy screeched and staggered and happened to catch hold of the rifle-butt. The two grappled for the gun while the boys on the pavement shouted, other policemen closing in, and then one of them unholstered his revolver and calmly shot the hooded boy in the head, the hood spattered and red as the boy fell.
+Neither said a word. The neighbors looked on in worried silence.
 
-That was it. The boys leapt to their feet and *charged*, warriors screaming their battle-cries, unarmed children scared and brave and stupid, and the police guns fired, and fired, and fired.
+"Mala," Mr Bannerjee said, spreading his hands. "Be reasonable."
 
-The cordite smell overpowered his senses, a smell like the fireworks he and his friends used to set off on New Year's. Mingled with it, the blood smell, the shit smell of boys whose bowels had let go. Matthew cried silently as he aimed his phone at the carnage, shooting and shooting, and then a policeman looked up at the crowd observing the massacre and shouted something indistinct, the camera lens on his helmet glinting in the dawn light, and Matthew ducked back as the rest of the policemen looked up, and then he heard the screaming, screaming from all around, from all the balconies.
+Mala stepped onto the porch of the cafe and sat down, awkwardly folding her legs beneath her. In a clear, loud voice, she said, "I work here. This is my job. I demand the right to safe working conditions, decent wages, and a just and fair workplace."
 
-He pelted across the roof, headed for the next building, vaulting the narrow gap between the two with ease. Twice more he leapt from building to building, running on sheer survival instinct, his mind a blank. Then he found himself on the street, with no memory of having descended any stairs, walking briskly, headed for the center of town, the streets with the fancy shops and the pimps, the businessmen and the Internet cafes filled with screaming boys killing orcs and blowing space-pirates out of the sky and vanquishing evil super-villains.
+Mr Bannerjee snorted. The men behind him laughed. He took a step forward, then stopped.
 
-The tears coursed down his cheeks, and the early morning rush of people on their way to work gave him a wide berth. He wasn't the first boy to walk the streets of Shenzhen in tears, and he wouldn't be the last. He randomly boarded a bus and paid the fare and sat down, burying his face in his hands, choking back the sobs. He'd ridden the bus for a full hour before he bothered to look up and see where he was headed.
+One by one, Mala's army filed out of the cafe, in a disciplined, military rank. Each one sat down, until the little porch was crowded with children, sitting down.
 
-Then he had to smile. Somehow, he'd boarded a bus headed for Dafen, the "oil painting village," where thousands of painters working in small factories turned out millions of paintings. He'd gone there once with Ping and the boys, on a rare day off, to wander the narrow streets and marvel at the canvasses hung everywhere, in outdoor stalls and in open shops and in huge galleries. The paintings were mostly in European style, old fashioned, depicting life in ancient European cities, or the tortured Jesus (these made Matthew squirm and remember his father's stories of persecution) or perfect fruit sitting on tables. Some of the shops and stalls had painters working at them, copying paintings out of books, executing deft little brushstrokes and closing out the rest of the world. The books themselves were printed in Dongguan -- Matthew knew a factory girl who worked at the printer -- and something about the whole scene had filled Matthew with an unnameable emotion at the thought of all these painters creating work with their artist's eyes and hands for use by foreigners who'd never come to China, never imagine the faces and hands of the painters who made the work.
+Mr Bannerjee snorted again, then laughed. "You can't be serious," he said. "You want, you want, you want. When I found you, you were a Dharavi rat, no money, no job, no hope. I gave you a good job, good wages, and now you want and want and want?" He made a dismissive noise and waved his hand at her. "You will remove yourself from my cafe and take your schoolchums with you, or you will be hurt. Very badly."
 
-And here they were, pulling up at the five-meter-tall sculpture of a hand holding a brush, disgorging dozens of passengers by the side of the road. All around him rose the tall housing blocks and long factory buildings, the air scented with breakfast and oil paint and turpentine.
+The neighbors made scandalized clucking noises at that and Mr Bannerjee ignored them.
 
-Matthew came out of his funk enough to notice that many of his fellow passengers wore paint-stained work-clothes and carried wooden paint-boxes, and he joined the general throng that snaked into Dafen, amid the murmur of conversation as workers greeted friends and passed the gossip.
+"You won't hurt us," Mala said. "You will go back to your fine house and your fine friends and you will leave us alone to control our destiny."
 
-The time he'd visited Dafen, he'd wandered into a gallery that sold contemporary paintings by Chinese painters, showing Chinese settings. He'd never had much use for art, but he'd been poleaxed by these ones. One showed four factory girls, beautiful and young, holding mobile phones and designer bags, walking down a rural village street at Mid-Autumn Festival, the house-fronts and shop-windows hung with lanterns. The village was old and poor, the street broken, the people watching from the doorways with seamed peasant faces, pinched and dried up. The four girls were glamorous aliens from another world, children who'd been sent away to find their fortunes, who'd come back changed into a different species altogether.
+Mr Bannerjee said nothing, only smoked his cigarette in the night and stared at them, considering them like a scientist who's discovered a new species of insects.
 
-And there'd been a picture of an old grandmother sleeping in a Dongguan bus-shelter, toothless mouth thrown open, huddled under a fake designer coat that was streaked with grime and torn. And a picture of a Cantonese man on a ladder between two handshake buildings, hanging up an illegal cable-wire. The images had been poignant and painful and beautiful, and he'd stood there looking at them until the gallery owner chased him out. These were for people with money, not people like him.
+"You are making mischief, Mala. I know what you are up to. You are disrupting things that are bigger than you. I tell you one more time. Remove yourself from my cafe."
 
-Now, passing by the same shop, he felt a jolt of recognition as he saw the picture of the four factory girls, arms around each others' shoulders, in the shop's windows. It hadn't sold -- or maybe the painter turned them out by the truckload. Maybe there was a factory full of painters devoted to making copies of this painting.
+Mala made a very soft spitting sound, full of contempt.
 
-He became conscious of a distant hubbub, an indistinct roar of angry voices. He thought he'd been hearing it for some time now, but it had been subsumed in the sound of the people around him. Now it was growing louder, and he wasn't the only one who'd noticed it. It was a chant, thunderous and relentless, with tramping, rhythmic feet. The crowd craned their necks around to locate the disturbance, and he joined them.
+Mr Bannerjee raised his hand and his mob fell silent, prepared themselves.
 
-Then they turned the corner and he saw what it was: a group of young men and women, paint-stained, holding up sheets of paper with beautifully calligraphed slogans: "NON-FORMULA PAINTING FACTORY UNFAIR!" "WE DEMAND WAGES!" "BOSS SIU IS CORRUPT!" The signs were decorated with artistic flourishes, and he saw that at the far end of the picket there was a trio of painters crouched over a pile of paper, brushes working furiously. A new sign went up: "REMEMBER THE 42!" and then one that simply said "IWWWW" in the funny Western script, and Matthew felt a surge of elation.
+And then there was a sound. A sound of footsteps, hundreds of them. Thousands of them. An army marching down the laneway from both sides, and then they were upon them. Ashok leading the column from the left, old Mrs Rukmini and Mr Phadkar leading the column from the right.
 
-"Who are the 42?" he asked one of the painters, a pretty young woman with several prominent moles on her face. She pushed her hair behind her ears. "It was three hours ago," she said, then looked at the time on her phone. "Four hours ago." She shook her head, brought up some pictures on her phone. "The police executed 42 boys in Cantonese town. They say that the boys were criminals, but the neighbors say they were just gold-farmers." She showed him the pictures. His friends, on the ground, heads in hoods, being shot by policemen, reeling back under the fire. The policemen anonymous behind their masks. The girl saw the expression on his face and nodded. "Terrible, isn't it? Just terrible. And the things the fifty-cent army have been saying about them --" The fifty-cent army was the huge legion of bloggers paid fifty cents -- 4 RMB -- to write patriotic comments and posts about the government.
+The columns themselves were composed of union workers -- textile workers, steel workers, train workers. Ashok's phonecalls and photos and stories had paid off. Hundreds of text messages were sent and workers were roused from their beds and they hastily dressed and gathered to be picked up by union busses and driven all across Mumbai to Dharavi, guided in to Mrs Dibyendu's shop by Ashok, who had whispered his thanks to the leaders who had given him their support.
 
-He found that he was sitting on the dirty sidewalk, holding the girl's phone. She knelt down with him and said, "Hey, mister, are you all right?"
+The workers halted, just a few paces from the gangsters and their evil smells. Ashok looked at the two groups, the sitting army and the standing mob, and he deliberately and slowly sat down.
 
-He nodded his head automatically, then shook it. Because he wasn't all right. Nothing was all right. "No," he said.
+The exquisitely elderly ladies leading the other column did the same. The sitting spread, moving back through the group, and if any worker thought of his trousers or her sari before sitting in the grime of the Dharavi lane, none said a word and none hesitated.
 
-The girl looked at the sign she'd been painting and then at him. She turned her back on the painting and took his chin, tilted his face up. "Are you hurt?"
+Bannerjee swallowed audibly. One of the neighbors leaning out of a window snickered. Bannerjee glared up at the windows. "Houses in slums like this burn down all the time," he said, but his voice quavered. The neighbor who'd snickered -- a young shirtless man with burns up and and down his bare chest from some old accident -- closed his shutters. A moment later, he was on the street. He walked up to Bannerjee, looked him in the eye, and then, deliberately, folded his legs and sat down before him. Bannerjee raised his leg as if to kick and the crowd *growled*, a low, savage sound that made the hair on the back of Mala's neck stand up, even as she made it herself. It sounded as though all of Dharavi was an angry dog, straining at its leash, threatening to lunge.
 
-"Not hurt," he said. "But." He shook his head. Pointed at her phone. Drew out his own. Brought up the photos he'd taken while trembling on the roof.
+More neighbors drifted into the street -- old and young, men and women. They'd known Mrs Dibyendu for years. They'd seen her driven from her home and business. They were making the same noise. They sat too.
 
-"The same photos?" she said. Then looked closer. "Different photos. Where'd you get them?"
+Mr Bannerjee looked at Mala and opened his mouth as if to say something, then stopped. She stared at him with utter calm, and then smiled broadly. "Boo," she said, softly, and he took a step back.
 
-He said, "I took them," and it came out in a rasp. "They were my friends."
+His own men laughed at this and he went purple in the dim light of the street. Mala bit her tongue to keep from laughing. He looked so comical!
 
-She jolted as if shocked, then bit her lip and paged through the photos. She smelled of turpentine and her fingers were very long and elegant. She reminded Matthew of an elf.  "You were there?" It was only half a question, but he nodded anyway. "Oh, oh, oh," she said, handing him back the phone and giving him a strong, sisterly hug. "You poor boy," she said.
+He turned with great dignity to look at his men, who were so tense they practically vibrated. Mala watched in stupefied awe as he grabbed one at random and slapped him, hard, across the face, a sound that rang through the narrow laneway. It was the single dumbest act of leadership she'd ever seen, so perfectly stupid you could have put it in a jar and displayed it for people to come and marvel at.
 
-"We heard about it an hour ago, while we were settling in to work. We gathered to discuss it, leaving our canvasses, and our boss, Boss Siu, came by and demanded that we all get back to work. He wouldn't let us tell him why we were gathered. He never does. It's like Jiandi says on her radio show -- he controls our bathroom breaks, docks our wages for talking or sometimes just for looking up for too long. And when he told us we were all being docked, one of the girls stood up and shouted a slogan, something like 'Boss Siu is unfair!' and though it was funny, it was also so *real*, straight from her heart, and we all stood up too and then --" She gestured at the line.
+The man regarded Bannerjee for a moment, his eyes furious, his fists bunched. He was shorter than Bannerjee, but he was carrying a length of wood and the muscles in his bare forearms jerked and bunched like a basketful of snakes. Deliberately, the man spat a glob of evil, pink, betel-stained saliva into Bannerjee's face, turned on his heel and walked away, delicately picking his way through the sitting Webblies and workers and neighbors. After a moment, the rest of Bannerjee's mob followed.
 
-Matthew remembered the day they'd walked out, a million years ago, remembered the police arriving and taking them to jail, remembered his vow never to go to jail again. And then he picked up the sign she'd been making and gripped it by the corners and joined the line. He wasn't the only one. He shouted the slogans, and his voice wasn't hoarse anymore, it was strong and loud.
+Bannerjee stood alone. The saliva slid down his face. Mala thought *If he takes out a gun and starts blazing away, it wouldn't surprise me in the least.* He was totally beaten, humiliated before children and the poor of Dharavi, and there were so many cameraphone flashes dancing in the night it was like a disco in a movie.
 
-And when the police finally did come, something miraculous happened: the huge crowd of painters and other workers who'd gathered at the factory joined ranks with the picketers and picked up their slogans. They held their phones aloft and photographed the police as they advanced, with masks and helmets and shields and batons.
+But perhaps Bannerjee didn't have a gun, or perhaps he had more self-control than Mala believed. In any case, he, too, turned on his heel and walked away. At the end of the alley, he turned back and said, in a voice that could be heard above the buzz of conversation that sprang up in his wake, "I know where your parents live, Mala," and then he walked away altogether into the night.
 
-They held their ground.
+The crowd roared with triumph as he disappeared. Ashok helped her stand, his hand lingering in hers for longer than was strictly necessary. She wanted to hug him, but she settled for hugging Yasmin, who was crying, happy tears like the ones they'd shared so many times before. Yasmin was as thin as a piece of paper but her arms were strong, and oh, it did feel good to be held for a moment, instead of holding everyone else up.
 
-The police fired gas cannisters.
+She let go at last and turned to Ashok. "They came," she said.
 
-Painters with big filter masks from the factories seized the cannisters and calmly threw them through the factory windows, smoking out the bosses and security men who'd been cowering there, and they came coughing and weeping and wheezing.
+Instead of answering, he led her to two tiny old ladies, and a man with a skullcap and a beard. "Mr Phadkar, Mrs Rukmini and Mrs Muthappa," he said. "This is Mala. They call her General Robotwallah. Her workers have been defending the strike. They are unbeatable, so long as they have a place to work."
 
-The crowd expanded, moved *toward* the police instead of *away* from it, and a policeman darted forward out of his line, club raised, mouth and eyes open very wide behind his facemask, and three factory girls sidestepped him, tripped him, and the crowd closed over him. The police line trembled as the man disappeared from view, and just as it seemed like they would charge, the mob backed away, and the man was there, moving a little but painfully, lying on the ground. His helmet, truncheon and shield were gone, as was his utility belt with its gun and its gas and its bundle of plastic cuffs.
+Mr Phadkar looked fierce. "You will always have a place to work, General," he said, in a voice that was pitched to carry to the workers who gathered around them, excitedly passing whispered accounts of the historic meeting back through their ranks.
 
-*Now we have a gun*, Matthew thought, and from a far distance observed that he was thinking like a tactician again, not like a terrorized boy, and he knew which way the police should come from next, that alley over there, if they took it they'd control all the entrances to the square, trapping the picketers.
+The old ladies rolled their eyes at one another, which made Mala smile. They each took one of her hands in their calloused, dry old hands and squeezed. "You were very brave," one said. "Please, introduce us to your comrades."
 
-"We need people over there," he shouted to the painter girl, whose name was Mei, and who had stood by his side, her fine slender arm upraised as she called the slogans with him. "There and there. Lots of them. If the police seal those areas off --"
+They chatted all night, and the women's papadam collective brought them food, and there was chai, and as there were far too many people to fit in the little cafe, the party occupied the whole of the laneway and then out into the street. Mala and her fighters fought on through the night in shifts, stepping out on their breaks to mingle, making friends, bringing them into the cafe to explain what they did and how they did it.
 
-She nodded and pushed off through the crowd, tapping people on the shoulder and shouting in their ears over the roar of the mob and the police sirens and the oncoming chopper. That chopper made Matthew's hands sweaty. If it dropped something on them -- *gas, surely, not bombs, surely not bombs* he thought like a prayer -- there'd be nowhere to hide. Protesters moved off to defend the alleyways he'd pointed to, armed with bricks and rocks and cameraphones. The same funnel-shaped alley-mouths that would make those alleys so deadly in the hands of their enemies would make them easier to defend.
+And there were reporters asking questions, and the gupshup flew up and down the streets and lanes of Dharavi, picking up steam as the roosters began to call and the first of the early risers walked to the toilets and the taps and had their ears bent. The bravery of the children, the valor of the workers, the evil of the sinister Bannerjee in his suit and the thugs he'd brought with him -- it was a story straight off the movie screen, and every new ear it entered was attached to a mouth that was anxious to spread it.
 
-The chopper was coming on now, and the cameraphones pointed at the sky, and then the helicopter veered off and headed in a different direction altogether. As Matthew raised his own phone to photograph it, he saw that he'd missed several calls. A number he didn't recognize, overseas. He dialled it back, crouching down low in the forest of stamping feet to get out of the noise.
+Mala and Yasmin's parents came to see them the next morning, as they sat groggy after a night like no other night, on the porch of Mrs Dibyendu's cafe. The parents didn't know what to make of their strange daughters, but they were visibly proud of them, even Yasmin's father, which clearly surprised Yasmin, who'd looked like she expected a beating.
 
-"Hello?" a woman's voice said, in English.
+As their mothers gathered them into their bosoms, Mala looked at Yasmin, and saw the haunted look in Yasmin's eye and knew, just *knew* that she was thinking of the little boy who'd died.
 
-"Do you speak Chinese?" he said, in Cantonese.
+How did she know?  Because Mala herself had never stopped thinking of him, and thinking of how she'd taken the actions that led to his death. And because Mala herself knew that no amount of sitting down peacefully and braving thugs with her moral force instead of her army would ever wipe the stain of that boy's death off her karma.
 
-There was a pause, then the phone was handed off to someone else. "Who is this?" a man's voice said in Mandarin.
+And then Ammaji kissed Mala's forehead and murmured many things in her ear, and her little brother emerged from behind her skirts and demanded to be shown how it all worked and stared at her with so much admiration that she thought he'd burst and for a moment, it was all golden.
 
-"My name is Matthew," he said. "You called me?"
+Ashok looked on from his little office, meeting with the union leaders, talking to Big Sister Nor. Something big was brewing with him, she knew, something even bigger than this miracle that he'd pulled off. She fobbed her brother off on a group of boys who were eager to teach him some of the basics and bask in the pure hero-worship radiating off of him, then slipped back into Ashok's room and perched at his side on a stool, moving a pile of papers away first.
 
-"You're one of the Shenzhen group?" the man said.
+"That was incredible," she said. "Absolutely incredible." She said it quietly, with conviction. "You're our saviour."
 
-"Yes," he said.
+He snorted through his nose, then scrubbed at his eyes with his fists. "Mala, my general, you do a hundred incredible things every day. The only reason all those people came out is because I could show them what you'd done, explain how you had organized these children, these slum-rats, into a disciplined force that was committed to justice."
 
-"We've got another survivor!" he called out and sounded genuinely elated.
+She squirmed on her seat. "I'm just bloodthirsty," she said. "I'm just one of those people who fights all the time." Thinking again of the boy, the dead boy. His blood was still under Ashok's fingernails.
 
-"Who is this?"
+He turned and, just for an instant, touched her arm. The gesture was gentle, tender. No one had ever touched her quite like that. It broke something in her, some flood-dam that had safely contained all the pain and fear and shame, and she had to turn and run blindly out into the lane and around a corner to weep and weep biting her lip to keep from screaming out her grief. Though she heard some of the others looking for her, she kept silent and did not let them find her. Then she realized she was hiding in the same place in which  she'd hidden from Mrs Dibyendu's idiot nephew, and that broke another dam and it was quite some time before she could get herself under control and head back into the laneway again.
 
-"This is The Mighty Krang," the man said. "I work for Big Sister Nor. We are so happy to hear from you, boy! Are you OK, are you safe?"
+She didn't get very far. Out front of dozens of businesses, there were small groups of people boisterously shouting rhymed chants about working conditions and pay. Crowds gathered to talk to each other, and there were arguments, laughter, a fistfight. She stood in the middle of the road and thought, *How can this be?*
 
-"I'm in the middle of a strike," he said. "Thousands of painters in Dafen. That's a village in Shenzhen, where they paint --"
+And at that moment, she realized that she was not alone. All over Dharavi, all over the world, there were people like her who wanted more, *demanded* more, with a yearning that was always just there, beneath the skin, and it only took the lightest scratch to let it out.
 
-"You're in Dafen? We've been seeing pictures out of there, it looks insane. Tell me what's going on."
+She didn't go back to Mrs Dibyendu's cafe. Instead, she took her walking stick and limped all around Dharavi, up and down the streets where the tiny factories would normally have been hives of activity. Many of them were, but many were not -- many had workers and crowds out front, and it was like a virus that was spreading through the streets and lanes and alleys, and now it was as if all the crying had lightened her so that her feet barely touched the ground, as though she might fly away at any instant.
 
-Without thinking, just acting, Matthew scaled a park bench and stood up very tall and dictated a compact, competent situation report to the The Mighty Krang, whom he'd seen on plenty of video-conferences with Big Sister Nor and Justbob, snickering and clowning in the background. Now he sounded absolutely serious and intent, asking Matthew to repeat some details to ensure he had them clear.
-
-"And have you seen the other strikes?"
-
-"Other strikes?"
-
-"All around you," he said. "Lianchuang, Nanling and Jianying Gongyequ. There's a factory on fire in Jianying Gongyequ. That's bad business. Wildcatters -- if they'd talked to us first, we would have told them not to. Still." He paused. "Those photos were something. The 42."
-
-"I have more."
-
-"Where'd you get them?"
-
-"I was there."
-
-"Oh."
-
-A long pause.
-
-"Matthew, are you safe where you are?"
-
-Matthew stood up again. The police line had fallen back, the demonstration had taken on something of a carnival air, the artists laughing and talking intensely. Some had instruments and were improvising music.
-
-"Safe," he said.
-
-"OK, send me those photos. And stay safe."
-
-Two more helicopters now, not headed for them. Headed, he guessed, for the burning factory in Jianying Gongyequ. He hoped no one was in it.
+She was just turning to go back to her army and maybe a few hours' sleep when they grabbed her, hit her very hard on the head, and dragged her into a tiny, stinking room.
