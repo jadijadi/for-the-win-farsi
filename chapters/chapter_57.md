@@ -1,47 +1,25 @@
 # Part III: Ponzi
 
-## Chapter 58
+## Chapter 59
 
 ---
 
-Wei-Dong didn't want to wake Jie, but he needed to sleep. He finally curled up on the floor next to the mattress, using his shoulderbag as a pillow to get his face off of the filthy carpet. At first he lay rigid in the brightly lit room, his mind swirling with all he'd seen and done, but then he must have fallen asleep and fallen hard, because the next thing he knew, he was swimming up from the depths of total oblivion as Jie shook his shoulder and called his name. He opened his eyes to slits and peered at her.
+The policemen that questioned Matthew were so tense they practically vibrated, but the tourist lady put on a big show of being offended that they were being stopped and demanded that they be allowed to go, practically shouting in English. Matthew translated every word, speaking over the policemen as they tried to ask him more questions about how he'd come to be there and what had happened to get his clothes so dirty with paint and mud.
 
-"Wha?" he managed, then realized he was talking English and said, "What?" in Chinese.
+The tourist lady took out her camera and aimed it at the policemen, and that ended the friendly discussion. Before she could bring the screen up to her face, a policeman's gloved hand had closed around the lens. The two boys moved forward and it looked like someone would start shoving soon, and the man was shouting in English, and all the noise was enough to attract the attention of an officer who gave the cops a blistering tongue lashing for wasting everyone's time and waved them on with a stern gesture.
 
-"Time to go," she said. "Big Sister Nor says we have to move."
+Matthew could hardly believe he was free. The tourists seemed to think it was all a game as he urged them down the road a way, out of range of the police cordon and away from the shouting. They walked up the shoulder of the Shenhui Highway, staying right on the edge as huge trucks blew past them so fast it sucked the breath out of their lungs.
 
-He sat up. His mouth was full of evil-tasting salty paste, a stale residue of dumplings and sleep. Self consciously, he breathed through his nose.
+"Taxi?" the woman asked him.
 
-"Where?"
+He shook his head. "I no think taxi today," he said. "Private car, maybe."
 
-"Hong Kong," she said. "Then..." She shrugged. "Taiwan, maybe? Somewhere we can tell the story of the dead without being arrested. That's the most important thing."
+She seemed to understand. He began to wave at every car that passed them by, and eventually one stopped, a Chang’an sedan that had seen better days, its trunk held shut with a bungee cord that allowed the lid to bang as the car rolled to a stop. It was driven by a man in a dirty chauffeur's uniform. Matthew leaned in and said, "100 RMB to take us to  Jiabin Road." It was high, but he was sure the tourists could afford it.
 
-"How are we going to cross the border? I don't have a Chinese visa in my passport."
+"No, too far," the man said. "I have another job --"
 
-She grinned. "That part is easy. We go to my counterfeiter."
+"200," Matthew said.
 
-It was as good a plan as any. Wei-Dong had watched the Webblies change papers again and again. Shenzhen was full of counterfeiters. He rode the Metro apart from her again, staring at his stupid guide map and trying to look like a stupid tourist, invisible. It was easier this time around, because there was so much else going on -- factory girls talking about Jie's radio show and "the 42," policemen prowling the cars and demanding the papers of any group of three or more people, searching bags and, once, confiscating a banner painted on a bedsheet. Wei-Dong didn't see what it said, but the police took four screaming, kicking girls off the train at the next station. Shenzhen was in chaos.
+The man grinned, showing a mouthfull of steel teeth. "OK, everyone in."
 
-They got off the train at the stock market station, and he followed Jie, leaving a hundred yards between them. But he came up against her when they got to the surface. The last time he'd been here, it had been thronged with counterfeiters and touts handing out fliers advertising their services, scrap-buyers with scales lining the sidewalks, hawkers selling fruit and ices. Now it was wall-to-wall police, a cordon formed around the entrance to the stock-market. Officers were stationed every few yards on the street, too, checking papers.
-
-Jie picked up her phone and pretended to talk into it, but Wei-Dong could see she just didn't want to look suspicious. He got out his tourist-map and pretended to study it. Gradually, they both made their way back into the station. She joined him at a large map of the surrounding area.
-
-"Now what?" he whispered, trying not to move his mouth.
-
-"How were you going to get out of here?" she said.
-
-His stomach tightened. "I hadn't really thought about it much," he said.
-
-She hissed in frustration. "You must have had some idea. How about the way you got in?"
-
-He hadn't told anyone the details of his transoceanic voyage. It would have felt weird to admit that he was part owner of a giant shipping company. Besides, he didn't really *feel* like it was his. It was his father's.
-
-Two policemen passed by, grim-faced, moving quickly, an urgent, insectile buzz coming from their earpieces.
-
-"Really?"
-
-"If we could get into the port," he said. "I think I could get us anywhere."
-
-She smiled, and it was the first real smile he'd seen on her face since -- since before the shooting had started.
-
-"But I need to call my mother."
+They were on the road for a mere five minutes before his phone chirped to let him know that he had voicemail waiting for him. It was Justbob, from Big Sister Nor.

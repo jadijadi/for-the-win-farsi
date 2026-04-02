@@ -1,217 +1,185 @@
 # Part III: Ponzi
 
-## Chapter 53
+## Chapter 54
 
 ---
 
-Ashok knew that this time would come. For months, he'd slaved over models of economic destruction: how much investment in junk game-securities would it take to put the game-runners into a position of total vulnerability? He'd modelled it a thousand ways, tried many variables in his equations, sweated over it, woken in the night to pace or ride his motorcycle around until the doubts left his mind.
+Now it was Jie's turn to watch Wei-Dong, as he typed furiously at his keyboard, reaching out to hundreds of Mechanical Turks who'd said, "Yes, yes, we're on your side; yes, we're tired of the crummy pay and of always having the threat of being fired over our heads." He reached out to them and what he told them all was:
 
-Somewhere out there, some distant follower of Big Sister Nor's had convinced the Mechanical Turks to go to work selling his funny securities. It had been easy enough to package them -- there were so many companies that would let you roll your own custom security packages together and market them, and all it took was to figure out which one was most lax with its verification procedures and create an account there and invent a ton of virtual wealth through it. Then he logged into less-sloppy competitors and repackaged the junk he'd created, making something that seemed a little more legit. Working his way up the food chain, he'd gone from packager to packager, steadily accumulating a shellac of respectability overtop of his financial turds.
+*Now*
 
-Once they had acquired this sheen, brokers came hunting for his funny money. And since the Webblies were diverting a sizeable chunk of game-wealth into the underlying pool, he was able to make everything seem as  though it was growing at breakneck speed -- and it was. After all, all those traders swapping the derivatives were driving up the prices every time they completed a sale.
+Now it begins, now we are ready, now we move. He sent them links to the YouTube videos of the protests in China, the picket lines in India, the workers who'd begun to walk off the job in Indonesia and Vietnam and Cambodia, saying, "Us too, us all together, us too."
 
-Once, at about two in the morning, as Ashok watched the trading proceed, he realized that he could simply quit the Webblies, sell the latest batch of funny money, and retire. But he was never tempted. He'd always known that it was possible to get rich by trampling on the people around you, by treating them as suckers to be ripped off. He couldn't do it.
+Only it wasn't working the way it was supposed to. The Mechanical Turks had been happy enough to seed a little disinformation, to pass on some weird-sounding stock-tips or to look the other way when the Webblies were fighting the Pinkertons, but they balked at going to Coke and saying, "We demand, we want, we are all one." Just from their typing, he could feel their fear, the terror that they might find themselves without a job next month, that they might be the only ones who stood up.
 
-Of course, here he was, *doing it*, but this was different. His little financial game could end well if all went according to plan, and now it was time to see if the plan would go the way it was supposed to.
+But not all of them. First one, then five, then fifty, and finally over a hundred of his Turks were with him, ready to put their names to a list of dues-paying Webblies who wanted to bargain as a group with Coke for a better deal. That was only 20 percent of what he'd bargained for, but they still accounted for 35 of the top fifty performers on the Webbly leaderboards.
 
-Justbob took his call in her fractured English, which was better than her Hindi, limited as it was to orders of battle and military cursing. He told her that he needed to speak to Big Sister Nor, and she asked him to wait a moment, as BSN was on the phone with someone else at the time.
+He kept up a running account for Jie, muttering in Chinese to her between messages and quick voice calls.
 
-In the background, he heard Big Sister Nor conversing in a mix of Chinese and English, flipping back and forth in a way that reminded him of his buddies at university and the way they'd have fun mixing up English and Hindi words, turning out puns and obscurely dirty phrases that nevertheless sounded innocent.
+"Now what?" she said. She was jammed up in a corner of the room, resting on her sweater, which she'd spread out over the filthy mattress, eyes barely open.
 
-He looked at the clock in the corner of his screen. It was 5AM and outside, he could hear the birds singing. In the next room, Mala's army fought on in tireless shifts, defending the strike. They slept in shifts on the floor now, and there were fifty or sixty steel and garment workers prowling the street out front, visiting other striking sites around Dharavi with sign-up sheets, trying to organize the workers of little five- or ten-person shops into their unions.
+"Now I call Coke," he said. He had talked this over with Big Sister Nor a dozen times, iterating through the plan, even role-playing it with The Mighty Krang playing the management on the other end. But that didn't mean that he was calm -- anything but, he felt like he might throw up at any instant.
 
-He realized he was falling asleep. How long had it been since he'd last slept for more than an hour or so? Days. He jerked his head up and forced his eyes open and there was Yasmin before him, raccoon-eyed beneath the hijab across her forehead. She was frowning, her mouth bracketed by deep worry lines, another one above the bridge of her nose. She was holding her lathi.
+"How is that supposed to work?"
 
-"Yasmin?" he said.
+He closed his eyes, which were burning with exhaustion and dried tears. "Are you hungry?"
 
-She bit her lip. "Mala is gone," she said. "No one's seen her for hours. Twelve, maybe fourteen."
+She nodded. "I was thinking of going upstairs for some dumplings," she said.
 
-He started to say something but then Big Sister Nor spoke on the phone, "Ashok, sorry to keep you waiting."
+"Bring me some?"
 
-He looked to Yasmin, then back at his screen. "One second," he said to the phone.
+She got up and walked unsteadily to the door. She pulled a compact out of her purse and looked at herself, made a face, then said, "Tea?"
 
-"Yasmin, she's probably gone home to sleep --"
+He'd drunk tea for years, but right now he needed coffee, no matter how American that made him feel. "Coffee," he said. "Two coffees."
 
-Yasmin shook her head once, emphatically. He felt a jolt of fear.
+She smiled a sad little smile. "Of course. I'll bring a syringe, too."
 
-"Ashok?" Big Sister Nor's voice in his ear.
+But he was already back at his computer, screwing in his borrowed earwig, dialling in on the employee-only emergency number.
 
-"Come in," he said to Yasmin, "come here. Close the door."
+"Co' Cola Games level two support, this is Brianna speaking," the voice was flat, American, bored, female, Hispanic.
 
-He stood up and held his chair out to Yasmin and dropped into a squat beside her, heels on the ground. He pressed the speaker button on the phone.
+"I need to speak to someone in operations," he said. "This is Leonard Rosenbaum, Turk number 4446E764."
 
-"Nor," he said. He always felt faintly ridiculous calling this woman "Big Sister," though the Webblies seemed to relish it in the same way they loved saying *General Robotwallah*. "I have Yasmin with me here. She tells me that Mala is missing, has been missing for some hours."
+"Hello, Leonard. Can I have the fifth letter of your security code?"
 
-There was a momentary pause. "Ashok," Nor said, "that's terrible news. But I thought you were calling about the other thing --"
+He had to think hard for a moment. Like the name Leonard Rosenbaum, like his entire American life, the security code he used to communicate with his employers seemed like it was in a distant fairytale land. "K for kilo," he said. "No, wait, Z for Zulu."
 
-He looked at Yasmin, whose eyes were steady on him. He never talked about the work he did for Big Sister Nor, but everyone knew he was up to something back here.
+"And the second letter?"
 
-"Yes," he said. "The other thing. I need to talk to you about that. But Yasmin is here and she tells me that Mala is missing."
+"A for alpha."
 
-Big Sister Nor seemed to hear the gravity in his voice. She took a deep breath, spoke in a patient voice: "You know Dharavi better than I do. What do you think has happened?"
+"OK, Leonard, what can I do for you?"
 
-He nodded to Yasmin. "I think that Bannerjee has her," she said. "I think that he will hurt her, if he hasn't already."
+"I need to speak to someone in operations," he said. "Level four, please."
 
-From the phone, The Mighty Krang's voice broke in. "I have Bannerjee's phone number," he said. "From one of our people in Guzhen. He emailed us a list of everyone in his boss's address book."
+"What do you need to speak to operations about, please?" He could hear her clicking away at her screen, looking up the escalation procedures. Technically it wasn't supposed to be possible to go from level two support to level four without going through level three. But the entire escalations manual was available in the private discussion forums on the unofficial Turk groups if you knew where to look for them.
 
-Ashok found his hands were in fists. He'd only met Bannerjee once, but that was enough. The man looked like he was capable of anything, one of those aliens who could look at a fellow human being as nothing more than an opportunity to make money. Yasmin's eyes were wide.
+"I, uh, I think I found someone, who was, like, a pedophile? Like he might have been trying to get some kids to give him their RL addresses?" Kid-diddlers, mafia, terrorists or pirates, the four express tickets to level four support. Anything that meant calling in the federal cops or the international ones. He figured that a potential pedophile would have just the right amount of ick to get him escalated without the call being sent straight to the cops.
 
-"You want to phone him?"
+Brianna typed something, read something, muttered "Just a minute, hon," read some more. "OK, level four it is." She parked him on hold.
 
-"Sure," The Mighty Krang sounded calm, even flippant, just as he did in the inspirational videos he posted to the Webbly boards and YouTube. "It's worth a try. Maybe he wants to ransom her."
+Jie came back with a styrofoam clamshell brimming over with steaming dumplings and a bottle of nuclear-hot Vietnamese rooster sauce and a pair of chopsticks. She picked one up, blew on it, dipped it in the sauce and held it out to him. He popped it into his mouth and chewed it, blowing out at the same time to try to cool off the scalding pork inside. They shared a smile, then the call started up again.
 
-"Are you joking?"
+"Hello, Coca Cola Games, level four ops, Gordon speaking, your name please."
 
-The light tone left his voice. "No, Yasmin, I'm not joking. Look, the Webblies are powerful. Men like Bannerjee understand that. Once I got Bannerjee's number, I used it to get a full workup on him. We have some leverage over him. It's possible that we can make him see reason. And if we can't --" He trailed off.
+Leonard went through the authentication routine with Gordon again, his password coming more easily to him this time.
 
-"We're no worse off than before," Big Sister Nor finished.
+"All right, Leonard, I hear you found a pedophile? One moment while I pull up your interaction history --"
 
-"When will we call him?"
+"Don't bother," Wei-Dong said, his pulse going so fast he felt like he was going to explode. "I made that up."
 
-"Oh, now would be good. Negotiations are always best in the small hours. Hang on, I'll get the number." The Mighty Krang typed some. "OK, let's do this."
+"Did you." It wasn't really a question.
 
-"OK," Yasmin said in a tiny voice.
+"I need to speak to Command Central," he said. "It's urgent."
 
-"OK," Ashok said.
+"I see."
 
-"I'll keep you two muted for him, but live for me. Remember that -- if you talk over him, I'll hear both, which might confuse me."
+Wei-Dong waited. This Gordon character was supposed to get angry or sarcastic, not quiet. The pause stretched until he felt he *had* to fill it. "It's about the Webblies, I have a message for Command Central."
 
-"We'll mute our end," Ashok said. He saw that his battery was low and fished around on his desk for a power-cable and plugged it in. Then he muted the phone. He and Yasmin unconsciously leaned their heads together over it, so that he could smell his sour breath and hers, which smelled of vomit. She had been sick. He closed his eyes and it felt as though there was sandpaper on the insides of his eyelids.
+"Uh huh."
 
-After a few rings, a sleepy voice mumbled "Victory to Rama," in Hindi, the traditional phone salutation. It made Ashok snort derisively. A man like Bannerjee was about as pious as a turnip. As a jackal.
+Oh, for Christ's sake. "Gordon, listen. I know you think I'm just a kid and you probably think I'm full of crap, but I *need to speak to Command Central right now.* I promise you, if you don't connect me with them, you'll regret it."
 
-"Mr Bannerjee," Big Sister Nor said in accented Hindi. "Good morning."
+"I will, will I? Well, listen, Leonard, I've been looking at your interaction history and you certainly seem like an efficient worker, so I'm going to go easy on you. *You* can't talk to Command Central. Period. Tell me what you want, and I'll see that someone gets back to you."
 
-"Who is it?" He had switched to English.
+*This* was something Wei-Dong had prepared for. "Gordon, please relay the following to Command Central. Do you have a pen?"
 
-"The Webblies," Big Sister Nor said.
+"Oh, this is *all* being recorded." There was the sarcasm he'd been waiting for. He was getting under his skin. Right.
 
-"For a Webbly," Bannerjee grunted, still sounding half-asleep, "you sound an awful lot like an underage Chinese whore. Where are you calling from, China-Doll? A brothel in Hong Kong?"
+"Tell them that I represent the Industrial Workers of the World Wide Web, Local 56, and that we need to speak with Coca Cola Games's Chief Economist immediately in order to avert a collapse on the scale of the Mushroom Kingdom disaster. Tell them that we have two hours to act before the collapse takes place. Did you get that?"
 
-"2,500 kilometers from HK, actually. And I'm Indonesian."
+"What? You're kidding --"
 
-Bannerjee grunted again. "But you *are* a whore, aren't you?"
+"I'm serious. I'll hold while you tell them." He muted the connection and immediately dialled back to Singapore and told Justbob what had happened. She assured him that they'd get their economist on the line as quickly as possible and put him on hold. He bridged both calls into his earpiece but isolated them so that they wouldn't be able to hear him, then told Jie what had just happened.
 
-"Mr Bannerjee, I am a busy woman --"
+"When can I interview you about this for the radio show?"
 
-"A *popular* whore!"
+He swallowed. "I think maybe never. Part of this story can probably never be publicly told. We'll ask BSN, OK?"
 
-Yasmin hissed at the phone and Ashok double-checked that the mute was on. It was.
+She made a face, but nodded. And now there was Gordon.
 
-"-- a busy woman. I've called to make you an offer."
+"Leonard, you there, buddy?"
 
-"I have all the whores I need," he said. "Goodbye."
+"I'm here," he said.
 
-"Mr Bannerjee! I'm calling to arrange for the release of Mala," Big Sister Nor spoke quickly. "And I'm sure if you think about it for just a moment, you'll realize that there's plenty I can offer you for her safe return."
+"You're logging in from a lot of proxies lately. Where exactly are you located? We have you in LA."
 
-Bannerjee said, "Mala is missing?" in a tone that could have won a medal in the unconvincing Olympics.
+"I'm not in LA," Wei-Dong said, grinning. "I'm a little ways off from there. You don't need to know where. How's it coming with Command Central, Gordon? Time's a-wastin'." Keep the pressure up, that was a critical part of the plan. Don't give them time to think. Get them to run around like headless chickens.
 
-"Stop playing games, please. You know that we're not the police. We're not going to have you arrested. We just want her back."
+"I'm on it," Gordon said. He swallowed audibly. "Look, you're not serious, are you?"
 
-"I'm sure you do. She's a delightful girl."
+"You saw what happened to Mushroom Kingdom, right?"
 
-Yasmin was grasping her opposite elbows so hard her knuckles were white. Ashok had his fists bunched in the fabric of his trouser-legs.  He made himself loosen them. But Big Sister Nor just continued on, as though she hadn't heard.
+"I saw."
 
-"I'm sure you've seen what's happened to the gold markets. Prices are on fire. No one can get any gold out of the gold farms, thanks to my Webblies. If you could promise a farmer access to one spot, without harassment, just think of what you could charge."
+"OK then," Wei-Dong said. He'd been warned not to admit to any wrongdoing personally.
 
-Bannerjee chuckled. "And all I have to do is find Mala for you and give her to you and you will guarantee this to me, is that right?"
+"You're serious?"
 
-"That's the shape and size of it."
+"You know, 15 minutes have gone by already."
 
-"You will, of course, honor your end of the bargain once I've found her for you."
+Another swallow. "I'll be right back."
 
-"Of course."
+A new line cut in, different background noise, chaotic, lots of chatter. Gordon had probably been a teleworker sitting in his underwear in his living room. This was different. This was a room filled with angry, arguing people who were typing on keyboards like machineguns.
 
-There was a long silence. Finally, Big Sister Nor spoke again.
+"This is William Vaughan, head of security for Coca Cola Games. Hello, Leonard."
 
-"I understand your scepticism. I can give you my word of honor."
+"Hello, Mr Vaughan." Leonard said. Be polite. That was part of the plan, too. Real operators were grownups, polite, businesslike. "May I speak with Connor Prikkel, please?" Prikkel's name had been easy enough to google. Wei-Dong had spent some time watching videos of the man at conferences. He seemed like an awkward, super-brainy academic type run to fat. He typed a quick one-handed message to Justbob: *Got cmd ctnrl, where r u?</em>
 
-Bannerjee made a rude sound, like a wet fart. "How about this: I get the gold out of the game, then I find Mala for you."
+"Mr Prikkel is away from the office. I have been asked to speak with you in his stead."
 
-Ashok hated this game he was playing, pretending that he didn't have Mala, but he could somehow find her. He wanted to crawl through the phone and strangle the man.
+He had prepped for this, too. "I'm afraid that I need to talk with Connor Prikkel personally."
 
-"How about if we just get you some gold?" It was The Mighty Krang speaking.
+"That's not possible," Vaughan said, sounding like he was barely holding onto his temper.
 
-"Oh, there's more of you? Are you also an Indonesian whore 2500 kilometers from Hong Kong, or are you dialled in from some other exotic locale?"
+"Mr Vaughan," Wei-Dong said. He hadn't spoken this much English for weeks. It was weird. He'd started to think in Chinese, to dream in it. "I don't know if uh, Gordon told you what I told him --"
 
-"We can get the gold out of the game faster than anyone you could hire. All the best gold farmers are in the union. The scabs they've got working in the shops right now are so crap they'll probably screw up and get themselves banned." Ashok loved that Krang wasn't playing Bannerjee's taunting game either.
+"Yes, he did. That's why you're talking to me now."
 
-Bannerjee snorted. "That's not bad," he said.
+"Mr Prikkel is qualified to evaluate what I have to say to him. I'm not qualified to understand it. And no offense, I don't think you are either."
 
-"We could use an escrow service, one we both agree on." The gold-markets ran on escrow services, trustworthy parties that would hold gold and cash while a deal was closing, working for a small percentage.
+"I'll be the judge of that."
 
-"And you would return Mala to us?"
+Justbob sent him a message back: *5 min*.
 
-"I would do everything I could to find the poor girl and get her into your hands." Gold, silver and bronze medals in the 100-yard  slime.
+"I've got a better idea," Wei-Dong said. "You get Mr Prikkel and call me back. I'll leave you a voice-chat ID. You can listen in on the call."
 
-They dickered over price and timing -- Mala ended up promising him a 300,000 Svartalfaheim runestones -- and Krang disconnected Bannerjee.
+"How about if I just trace where you're calling *us* from and we call the police? Leonard, kid, you are working on my last good nerve and I'm about to lose it with you. Fair warning."
 
-"Brilliant," Ashok said, trying to force some enthusiasm into his voice, while inside he was quavering at the thought of Mala in the hands of Bannerjee.
+Wei-Dong tisked. He was starting to enjoy this. "Mr Vaughan, here's the thing. In --" he looked at the clock -- "about ten minutes,  you’re going to see total chaos in your gold markets. All those contracts that Coke Games has written for gold futures are going to start to slide into oblivion. You can spend the next ten minutes trying to trace me, but you're not going to find me, and even if you do, you're not going to be able to do anything about it, because I am an ocean away from the nearest police force that will give you the time of day." The security man started to choke out a response, but Wei-Dong kept talking. "I'd prefer *not* to destroy the game. I love it. I love playing all these games. You have my record there, you know it. We all feel that way, all the Webblies. It's where we go to work every day. We *want* it to succeed. But we want that to happen on terms that are fair to us. So believe me when I tell you that I am calling to strike a bargain that you can afford, that we can live with and that will save the game and get everything back on track by the end of the day." He looked at the clock again, did some mental arithmetic. "By tomorrow morning, your time, that is."
 
-"Very good," Yasmin said.
+He could almost hear the gears turning in Vaughan's head. "You're in Asia, somewhere?"
 
-"Yes, yes," Big Sister Nor said. "And your team will get the runestones for us, and I'm sure you'll do it quickly and well because she is your general. All our problems should be that easy to solve. Now, Ashok, how have you done with your complicated problem?"
+"Is that the only thing that you got from that?"
 
-Ashok looked at Yasmin, who showed no signs of leaving.
+He made a little conciliatory snort. "You're a long way from home, kid. Ten minutes, huh?"
 
-"I think we're there. The trick was to create a situation where they *can't* put things back together without our help. Our accounts control the gold underneath so many of these securities that if they kick us all off, they'll create a massive crash, both in-game and out-of-game. At the same time, they can't afford to leave us running around freely, because there's a hundred ways we could crash the system, too, from resigning in a huge group all at once to repeating the Mushroom Kingdom job." Crashing the Mushroom Kingdom securities had been easy -- Mushroom Kingdom was already riddled with scams that had been flying under the radar of Nintendo's incompetent economist and security teams. Ashok had used Webblies and some of the Mechanical Turks that Big Sister Nor had supplied through her mysterious contact on the inside, building up a catalog of all the other scams and then giving them a nudge here and a shove there, using Webblies to produce gold on demand when necessary.
+Wei-Dong said, "Eight, now. Give or take."
 
-He'd gone into it thinking that he'd never manage to take on the Mushroom Kingdom economy, believing that the security would be all-knowing and all-powerful. But in truth, it had all been held together with twine and wishful thinking, straining at the seams, and it had only taken a little pushing and pulling to first make it swell to unheard-of heights, and then to explode gloriously.
+"That's some pretty impressive economic forecasting."
 
-"But we couldn't afford to repeat the Mushroom Kingdom job. There was no way we could have pulled that one out of the nosedive, once it started. It was doomed from the start. With Coca-Cola's games, we have to be able to promise to put it all back together again if they play cricket with us." Talking about his work made him forget momentarily about Mala, let the iron bands around his chest loosen, just a little.
+"When you've got 400,000 gold farmers working with a few thousand Mechanical Turks, you can do some pretty impressive things." The numbers were all inflated. But Vaughan would assume they were. If Wei-Dong had given him the real numbers, he'd have underestimated their strength. He liked how this was going.
 
-"If we had kept things on schedule, it would have been much easier. But you know, with things all chaotic, I had to rush things. I've been dumping our gold reserves on the market for hours now, which has sent the market absolutely crazy, especially after they had that crash. How on Earth did you manage that?"
+*2 min more* from Justbob.
 
-Big Sister Nor snorted. "It wasn't me. We're not sure if they got hacked, or some kind of big crash. It *was* well-timed, though."
+"OK, Vaughan, here's how Mr Prikkel can reach me. Sooner, rather than later." He named the ID and the service, one that was run out of the Mangalore Special Economic Zone. It was pretty reliable and easy to sign up for, and they supported strong crypto and didn't log connections. He'd heard that it was a favorite with diplomats from poor countries that couldn't run their own servers.
 
-"Would you tell me if you *had* caused it?"
+"Wait --"
 
-Yasmin looked faintly shocked.
+"Call me!" he said, and gave him the details once more.
 
-"Ashok," BSN said, with mock sternness, "I tell everyone anything I think they need to know, and I usually tell them anything *they* think they need to know. We're not in the secrets business around here."
+*They'll call me back* he typed to Justbob. *Our guy wasn't there.*
 
-That made Ashok pause. He'd always thought of the operation as being shrouded in secrecy. Certainly Big Sister Nor had never volunteered any details about her contact with the Mechanical Turks -- but then, he'd never asked, had he? Nor had he ever asked if he could discuss his project with Mala's army. He shook his head. What if the secrecy had been all in his mind?
+Justbob called him right away, and he heard The Mighty Krang and Big Sister Nor holding another conversation in the background. "You hung up?"
 
-"OK," he said. "Fine. The problem is this: if I had enough time -- if I had the time we'd planned on -- I'd be in a position to take Svartalfaheim right up to the brink of collapse and then either save it or let it collapse. It all comes down to how much gold we had in our reserves, and how much of the trading we controlled.
+"It wasn't the right guy. I think he was away, maybe on holidays or something. They'll get him on the phone. no worries." But Justbob sounded worried, and he didn't like that. He shrugged mentally. He'd done the best he could, using his best judgement. He'd been shot at, seen his friend killed. He'd smuggled himself halfway around the world. He'd earned some autonomy.
 
-"But I've had to rush the schedule, which means that I can't give you both. I can bring the economy to the brink of ruin, but when I do, I need to know in advance whether we're going to let it blow up, or whether we're going to let it recover. I can't decide later." He swallowed. "I think that means we have to destroy it. I still have Zombie Mecha and Clankers underway. We can show them our force by taking out Svartalfaheim and then threaten to take out the other two."
+He ate some of the now-cold dumplings and tried not to worry as the time stretched out. Ten minutes, fifteen minutes. Justbob sent more and more impatient notes. Jie fell asleep on the disgusting mattress, her sweater spread out beneath her head, her face girlish and sad in repose.
 
-"Why do you want to do it that way?"
+Then his computer rang.
 
-He shook his head, realized she couldn't see him. "Listen, they're not going to give in to you. You're going to go in there and start giving them orders and they're going to assume you're some ridiculous third-world crook. They're going to tell you to get lost. If you make a threat and you can't make good on it, that'll be the last time you hear from them. They'll never take you seriously after that."
+"Hello?" Texting, *Phone.*
 
-Big Sister Nor clucked her tongue. "Are we so easy to dismiss?"
+"This is Connor Prikkel. I understand you needed to speak to me?"
 
-"Yes," Ashok said. "*I* know what the Webblies can do. But they don't. And they won't, until we show them."
-
-"We have Mushroom Kingdom for that."
-
-That stopped him. "Yes, that's true of course. But that was so *easy* --"
-
-"They don't know that. They don't know anything about us, as you point out. So yes, maybe they'll assume we're weak and maybe they'll assume we're strong. But one thing I know is, if they give us what we want and *then* we destroy their game, they'll never trust us again."
-
-"So you're saying you want me to set this all up so that we can't make good on our threat?"
-
-"If we have to choose --"
-
-"We do."
-
-"Then yes, that's just what I want, Ashok. I'll just have to be sure that whatever happens, we don't need to carry out our threat."
-
-"OK," Ashok said. "I can do that."
-
-"Good. And Ashok?"
-
-"Yes?"
-
-"I need you to speak with them," she said. "With who ever they get to talk to us. I'll be on the call, too, of course. But you need to talk to them, to explain to them what we've done and what we can do."
-
-Ashok swallowed. "I'm not good at that sort of talk --"
-
-Yasmin made a rude noise. "Don't listen to him," she said. "You talked the steelworkers and the garment-workers into coming to Dharavi!"
-
-"I did," he said. "I didn't think it would work -- they'd never listened before. But once I explained what kind of situation you were all in, the thugs, the violence, told them that all of Dharavi would know if they came down --"
-
-"Once you really believed in it," Big Sister Nor said. "That's the difference. I've heard you talk about the things you love, Ashok. You are very convincing when it comes to that. The difference between all the conversations you had with them before and the last one is that you came to them as a Webbly last time, not as someone who was playing a game to make himself feel like he was doing something important." The criticism took him off guard and pierced him. He *had* been playing a game at first, taken with his own cleverness at the vision of kids all over the world running circles around the tired old unions he'd hung around with all his life. But now, it wasn't a game anymore. Or rather, it *was* a game, but it was one that he took deadly serious.
-
-"OK," he said. "I'll talk to them."
+*Now* he texted and clicked the button that pulled Justbob and her economist onto the call.

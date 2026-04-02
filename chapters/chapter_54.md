@@ -1,171 +1,119 @@
 # Part III: Ponzi
 
-## Chapter 55
+## Chapter 56
 
 ---
 
-No one in Command Central would meet Connor's eye when he came back into the office, his nose swollen and his eyes red and puffy. He grabbed a spare computer from the shelves by the door -- smashed laptops weren't exactly unheard-of in the high-tension environment of Command Central -- and plugged it in and powered it up.
+300,000 runestones hadn't seemed like much when Yasmin started. After all, the gold was for Mala, and Mala was all she could think of. And she had Mala's army on her side, all of them working together.
 
-"The markets are going crazy," Bill said in a low voice, while around them, Command Central's denizens -- minus Kaden, who seemed to have been removed for his own good -- made a show of pretending not to listen in. "Huge amounts of gold have hit the market in the past ten minutes, and the price is whipsawing down."
+But it had been days since she'd slept properly, and there were reporters every few minutes, pushing into Mrs Dibyendu's cafe with their cameras and recorders and pads and asking her all sorts of mad questions and she had to keep her temper and speak modestly and calmly with them when every nerve in her body was shrieking *Can't you see how busy I am? Can't you see what I have to do?* But the army covered itself with glory and not one soldier lost his or her temper, and the press all marvelled at them and their curious work.
 
-Connor nodded. "Sure, our normal monetary policy has had to assume that a certain amount of gold would be entering the system from these characters. When they stopped the flow a couple weeks ago, we had to pick up production to keep inflation down. I had assumed that they were too busy fighting to mine any more gold, but it looks like they spent that time building up their reserves. Now that they're dumping it --"
+At least the steelworkers and garment workers had the sense not to interrupt them, and they were mostly busy with their organizing adventures in Dharavi to bother them anyway. The story of how they'd saved this gang of Dharavi children from bad men with weapons had spread to every corner, and the workers they'd inspired to walk off the job were half in awe of them.
 
-"Can you do something about it?"
+Piece by piece, though, they were able to build the fortune. Yasmin found them an instanced mission with a decent payoff, one that three or four players could run at a time, and she directed them all into it, sending them down the caverns after the dwarves and ogres below in gangs, prowling up and down the narrow, blisteringly hot aisles between the machines, pointing out ways of getting the work done faster, noting each player's total, until, after a seeming eternity, they had it all.
 
-Connor thought. All the peace and serenity he'd attained just an hour ago, when he was a man with nothing to lose, was melting away. He had the curious sensation of his muscles returning to their habitual, knotted states. But a new clarity descended on him. He'd been thinking of the Webblies as a pack of gang-kids, fighting a gang-war with their former bosses. This business, though, was sophisticated beyond anything that some gangsters would kick up. It was an act of sophisticated economic sabotage.
+"Ashok," she said, banging unannounced into his office. He was bent over his keyboard, earwig screwed in, muttering in English to his Dr Prikkel in America. He held up a hand and asked the man to excuse him -- she hated how subservient he sounded, but had to admit that he'd been very cool when the negotiations had been underway -- and put him on mute.
 
-"I'd better talk to this kid," he said, quickly paging through the data, setting up feeds, feeling the return of his fingerspitzengefuhl.
+"Yasmin?"
 
-Bill made a sour face. "You think they're for real?"
+"We have Mala's ransom," she said.
 
-"I think we can't afford to assume they aren't." The voice was someone else's. He recognized it: the voice of a company man doing the company's business.
+"Yes," he said, "of course." He sent a quick message to the central cell in Singapore and got Bannerjee's number, then quickly dialled it on speaker. Bannerjee answered, this time in a much less fuzzy and sleep-addled voice.
 
-A few minutes later, he said, "This is Connor Prikkel. I understand you needed to speak to me?"
+"Victory to Rama!"
 
-"Mr Prikkel, it is very good to speak with you." The voice had a heavy Indian accent, and the background was flavored with the unmistakable sound of gamers at their games, shooting, shouting.
+"We have your money," Ashok said. "Our team are delivering it to the escrow's hut now. You can check for yourself."
 
-Bill, listening in with his own earpiece, shook his head. "That's not the kid."
+"So serious, so businesslike. It's only a game, friend -- relax!"
 
-"I'm here too." This voice was young, unmistakably American. When it cut in, the background changed, no gamers, no shouting. These two were in different rooms. He had an intuition that they might be in different *countries*, and he remembered all the battles he'd spied upon in which the sides were from all over Asia and even Eastern Europe, South America and Africa.
+Yasmin felt like she might throw up. The man was so...*evil*. What made a man that bad? She understood, really understood, how Mala must feel all the time. A feeling like there were people who *needed* to be *punished* and she was the person who must do it. She pushed the feeling down.
 
-"Mr Prikkel -- Doctor Prikkel," Connor supressed a laugh. The PhD was purely honorary, and he never used it. "My name is Ashok Balgangadhar Tilak. Allow me to begin by saying that, having read your publications and watched dozens of your presentations, I consider you to be one of the great economics thinkers of our age."
+"All right, good. I see that it is there. I will tell you where to find your friend when you tell the escrow agent to release the money, yes?"
 
-"Thank you, Mr Tilak," Connor said. "But --"
+Ashok waggled his chin at the phone, thinking hard. Yasmin suddenly realized something she should have understood from the beginning: escrow agent or no, either they were going to have to trust Bannerjee to let Mala go after they released the money, or Bannerjee would have to trust them to release the money after he gave them Mala. Escrow services worked for cash trades, not for ransoms. She felt even sicker.
 
-"So it is somewhat brash of me to say what I am about to say. Nevertheless, I will say it: We own your games. We control the underlying assets against which a critical mass of securities have been written; further, we control the substantial number of those securities and can sell them as we see fit, through a very large number of dummy accounts. Finally, we have orders in ourselves for many of the sureties that you have used to hedge this deal, orders that will automatically execute should you try to float more to absorb the surplus."
+"You release Mala first and --"
 
-Connor typed furiously. "You don't expect me to take your word for this?"
+"Oh, come on. Why on Earth would I do that? You hold me in so much contempt, there's no way you'll give me what you've promised. After all, you can always spend 300,000 runestones. I, on the other hand, have  no particular use for a disrespectful little girl. Why wouldn't I tell you where to find her?"
 
-"Naturally not. I expect you to look to the example of Mushroom Kingdom. And to the turmoil in Svartalfaheim Warriors. Then I'd suggest that you cautiously audit the books for Zombie Mecha and Clankers."
+Ashok and Yasmin locked eyes. She remembered the last time she'd seen Mala, how tired she had been, how thin, how pained her limp. "Do it," she said, covering the mic with her hand.
 
-"I will." Again, that company man's voice, from so far away. The feeds were confirming it, though, the trading volume was insane, but underneath it all there was a sense of *directedness*, as though someone were making it all happen.
+"The passphrase for the escrow is 'Victory to Rama'," Ashok said, his tone wooden.
 
-"Very good."
+Bannerjee laughed loudly, then put them on hold, cutting them off. After a moment, Ashok looked at his screen, watching the alerts. "He's taken the money." They waited a minute longer. Another minute. Ashok redialled Bannerjee."
 
-"Now, I suppose there's something coming here. Blackmail, I'm guessing. Cash."
+"Victory to Rama," the man said, with a mocking voice. Right away, Yasmin knew that he wouldn't give them Mala.
 
-"Nothing of the sort," said the Indian man, sounding affronted. "All we're after is peace."
+"Mala," Ashok said.
 
-"Peace."
+"Piss off," Bannerjee said.
 
-"Exactly. I can undo everything we've done, put the markets back together again, stop the bleeding by unwinding the trades very carefully and very gently, working with you to make a soft landing for everyone. The markets will dip, but they'll recover, especially when you make the announcement."
+"Mala," Ashok said.
 
-"The announcement that we've made peace with you."
+"One million runestones," Bannerjee said.
 
-"Oh yes," Ashok said. "Of course. Your employers expect that you can run your economy like a toy train set, on neat rails. But we know better. Gold-farming is an inevitable consequence of your marketplace, and that pushes the train off the rails. But imagine this: what if your employer were to recognize the legitimacy of gold farming as a practice, allowing our workers to participate as legitimate actors in a large and complex economy. Our exchanges would move above-ground, where you could monitor them, and we would meet regularly with you to discuss our membership's concerns and you would tell us about your employers' concerns. There would still be underground traders, of course, but they would be pushed off into the margins. Every decent farmer in the world wants to join the Webblies, for we represent the best players and everyone knows it. And we'll be at every non-union farm-site in every game, talking to the workers about the deal they will get if they band with us."
+"Mala," Ashok said. "Or else."
 
-"And all we have to do is... what?"
+"Or else what?"
 
-"Cooperate. Union gold that comes out of Coke's games will be legitimate and freely usable. We'll have a cooperative that buys and sells, just like today's exchange markets, but it will all be above-board, transparently governed by elected managers who will be subject to recall if they behave badly."
+"Or else I take everything."
 
-"So we replace one cartel with another one?"
+"Oh yes?"
 
-"Dr Prikkel, I wouldn't ever ask such a thing of you. No, of course not. We don't object to other unionized operations in the space. I have colleagues here from the Construction Worker's Union who are interested in organizing some of these workers. Let there be as many gold exchanges as the market can bear, all certified by you, all run by the workers who create them."
+"I will take 30,000 now. And I will take 30,000 more every five minutes until you give us Mala."
 
-"What about the *players*, Mr Tilak? Do they get a say in this?"
+Bannerjee began to laugh again, and Ashok cut him off again, then transferred back to his American at Coca Cola.
 
-"Oh, I think the players have already had their say. After all, whom do you suppose is *buying* all this gold?"
+"Dr Prikkel," he said. "I know we're busy rescuing the economy from ruin, but I have a small but important favor to ask of you."
 
-"And you expect me to make all this happen in an hour?"
+The American's voice was bemused. "Go ahead."
 
-The American kid broke in. "45 minutes now."
+Ashok gave him the name of the toon that Bannerjee had sent to the escrow house. "He has kidnapped a friend of ours and won't give her back."
 
-"Of course not. Today, all we seek is an agreement *in principle*. Obviously, this is the kind of thing that Coca Cola Games's board of directors will have to approve. However, we are of the impression that the board is likely to pay close attention to any recommendations brought to it by its chief economist, especially one of your standing."
+"Kidnapped?"
 
-Connor found himself grinning. These kids -- not just kids, he reminded himself -- were gutsy. And what's more, they were *gamers*, something that was emphatically *not* true of CCG's board, who were as boring a bunch of mighty captains of industry as you could hope to find. "Is that it?"
+"Taken her into captivity."
 
-"No." It was the American kid again. He consulted his notes. Leonard Rosenbaum. In LA. Except Bill was pretty sure this kid was in Asia somewhere. He suspected there was a story in there.
+"In the game?"
 
-"Hello, Leonard."
+"In the world."
 
-"Hi, Connor. I'm emailing you a list of names right now."
+"Jesus."
 
-"I see it." The message popped up in his public account, the one that was usually filtered by an intern before he saw it. He grabbed it, saw that it had been encrypted to his public key, decrypted it. It was a list of names, with numbers beside them. "OK, go ahead."
+"And Rama too. We paid the ransom but --"
 
-"That's the names of Turks who've joined the Webblies."
+Yasmin stopped listening. Ashok clearly thought he was the cleverest man who ever walked God's Earth, but she'd had enough of games. She sank down on her heels and regarded the dirty floor, her eyes going in and out of focus from lack of sleep and food.
 
-"You've got Turks who want to moonlight as gold farmers?"
+Gradually, she became aware that Ashok was talking to Bannerjee again.
 
-"No." The boy said, speaking as though to an idiot. "I've got Turks who want to join a union."
+"She is at Lokmanya Tilak Municipal General. She was brought to the casualty ward earlier today, without any name. She should still be there."
 
-"The Webblies."
+"How do you know she hasn't gone?"
 
-"The Webblies."
+"She won't have gone," Bannerjee said. "Now get out of my bank account or I will come down there and blow your balls off."
 
-Connor snorted. "I see. And is this union certified under US labor law? Have you considered the fact that you are all independent contractors and not employees?"
+It took Yasmin a moment to understand how Bannerjee could be so sure that Mala hadn't left the hospital -- she must have been so badly injured that she couldn't leave. She found that she was wailing, making a sound like a cat in the night, a terrible sound that she couldn't contain. Mala's army came running and she tried to stop so that she could explain it to them, but she couldn't.
 
-The boy cut in. "Yes, yes, all of that. But these are your best Turks, and they're Webblies, and we're all in it together."
+In the end, they all walked to LT hospital together, a solemn procession through the streets of Dharavi. A few people scurried forward to ask what was going on, and once they were told, they joined. More and more people joined until they arrived at the hospital in a huge mob of hundreds of silent people. Ashok and Yasmin and Sushant went to the counter and told the shocked ward sister why they were there. She paged through her record-book for an eternity before saying, "It  must be this one." She looked at them sternly. "But you can't all go. Who is the girl's mother?"
 
-"You know, they'll never go for it."
+Ashok and Yasmin looked back at the crowd. Neither of them had thought to fetch Mala's mother. They were Mala's family. She was their general. "Take us to her, please," Yasmin said. "We will bring her mother."
 
-"Your teamsters are unionized. Your *janitors* are unionized. Now your Mechanical Turks are --"
+The sister looked like she would not let them pass, but Ashok jerked his head over his shoulder. "They won't leave until we see her, you know." He waggled his chin good-naturedly and smiled and for a moment Yasmin remembered how handsome he'd been when she'd first met him on his motorcycle.
 
-"Son, you're not a union. Under US law, you're nothing."
+The sister blew out an exasperated sigh. "Come with me," she said.
 
-The Indian man cleared his voice. "That is all true, but this is likewise true of IWWWW members around the world in all their respective countries. Many countries prohibit *all* unions. And we ask you to recognize these workers' rights."
+They wouldn't have recognized Mala if she hadn't told them which bed was hers. Her head had been shaved and bandaged, and one side of her face was a mass of bruises. Her left arm was in a sling.
 
-"We're not those workers' employers."
+Yasmin let out an involuntary groan when she saw her, and the ward sister beside her squeezed her arm. "She wasn't raped," the woman whispered in her ear. "And the doctor says there was no brain-damage."
 
-"You claim you're not *our* employers either," said the boy, with a maddening note of triumph in his voice. "Remember? We're 'independent contractors', right?"
+Yasmin cried now, really cried, the way she hadn't let herself cry before, the cry from her soul and her stomach, the cry that wouldn't let go, the cry that drove her to her knees as though she were being beaten with a lathi. She curled up into a ball and cried and cried, and the ward sister led her to a seat and tried to put a pill between her lips but she wouldn't let it in. She needed to be alert and awake, needed to stop crying, needed --
 
-"Exactly."
+Ashok squatted against the wall beside her, clenching and unclenching his fists. "I'll ruin him," he muttered over and over again, ignoring the stares of the other patients on the ward with their visitors. "I'll *destroy* him."
 
-"Dr Prikkel, let me explain. The IWWWW is open to all workers, regardless of nationality or employment, and it will work for all those workers' rights, in solidarity. Our gold farmers will stand up for our Mechanical Turks, and vice versa."
+This got through to Yasmin. "How?"
 
-"Goddamned right," said the boy. "An insult to one --"
+"Every piaster, every runestone, every gold piece that man takes out of a game we will take away from him. He is finished."
 
-"Is an insult to all. The gold farmers have a modest set of demands: modest benefits, job security, a pension plan. All the same things that we plan on asking our farmers' employers for. Nothing your division can't afford."
+"He'll find some other way to survive, some other way of hurting people to get by."
 
-"Are you saying that your demands are contingent on recognizing the demands from Mr Rosenbaum's friends."
-
-"Precisely."
-
-"And you will destroy the economy of Svartalfaheim Warriors in 45 minutes --"
-
-"38 minutes," said the kid.
-
-"Unless I agree *in principle* that we will do this?"
-
-"You have summed it all up admirably," said the Indian economist. "Well done."
-
-"Can you give me a minute?"
-
-"I can give you 38 minutes."
-
-"37," said the kid.
-
-He muted them, and he and Bill stared at each other for a long time.
-
-"Is this as crazy as it sounds?"
-
-"Actually, the crazy part is that it's not all that crazy. Impossible, but not crazy. We already let lots of third parties play with our economies -- independent brokers, the people who buy and sell their instruments. There's no technical reason these characters can't be a part of our planning. Hell, if they can do what they say, we'll be way more profitable than we are now.
-
-"For one thing, we won't need to crash the servers tracking them all down."
-
-Connor grimaced. "Right. But then there's the impossible part. Leaving out the whole thing about the Turks, which is just *crazy*, there's the fact that the board will never, ever, never, never --"
-
-Bill held a hand up. "Now, that's where I disagree with you. When you meet with the board, you're always trying to sell them on some weird-ass egghead financial idea that makes them worry that they're going to lose their life's savings. When I go to them, it's to ask them for some leeway to fight scammers and hackers. They understand scammers and hackers, and they say yes. If we were to ask them together --"
-
-"You think this is a good idea?"
-
-"It's a better idea than chasing these kids around gamespace like Captain Ahab chasing the white whale. The formal definition of insanity is doing the same thing repeatedly but expecting a different outcome. It's time we tried something different."
-
-"What about the Turks?"
-
-"What about them?"
-
-"They're looking for --"
-
-"They're looking to take about half a percent out of the company's bottom line, if that. We spend more on your first-class plane tickets to economics conferences every year than they want. Big freakin' deal."
-
-"But if we give in on this thing, they'll ask for more."
-
-"And if we don't give in on this, we're going to spend the next hundred years chasing Chinese and Indian kids around gamespace instead of devoting our energy to fighting *real* ripoffs and hacker creeps. Security is always about choosing your battles. Every complex ecosystem has parasites. You've got ten times more bacteria cells than blood cells in your body. The trick with parasites is to figure out how to co-exist with them."
-
-"I can't believe I'm hearing you say this."
-
-"That's because I'm not a gamer. I don't care who wins. I don't care who loses. I'm a security expert. I care about what the costs are to secure the systems that I'm in charge of. We can let these kids 'win' some little battles, pay the cost for that, and save ten times as much by not having to chase 'em."
-
-Connor shook his head. "What about them?" he said, rolling his eyes around the room to encompass the rest of Command Central, most of whom were openly eavesdropping now.
-
-Bill turned to them. "Hands up: who wants to make and run totally kick-ass games that make us richer than hell?" Every hand shot up. "Who wants to spend their time chasing a bunch of skinny poor kids around instead of just finding a way to neutralize them?" A few hands stayed defiantly in the air, among them Kaden, who had come back into the room while Connor was on the phone and was now glaring at both of them. Bill turned back to Connor. "I think we'll be OK," he said. He jerked his head over his shoulder and said, loudly, "Those goons are so ornery they'd say no if you asked them whether they wanted a lifetime's supply of free ice-cream."
+Ashok shook his head. "Fine. I'll find a way to ruin that, too. He is powerful and strong and ruthless, but we are smart and fast and there are *so many* of us."

@@ -1,49 +1,47 @@
 # Part III: Ponzi
 
-## Chapter 27
+## Chapter 28
 
 ---
 
-Justbob had her whole network online. These were the best fighters in the IWWWW, passionate and committed. They'd been fighting off Pinkertons and dodging game-security for a year, and it had made them hard. Some of them had been beaten in real life, just like Justbob and Krang and BSN, and it was quite a badge of honor to replace your user-icon with a picture of your injuries -- an x-ray full of shattered bones, a close up of a grisly row of stitches.
+Ping didn't like the port. Too many cops. He had good papers, but not even the best papers would stand up long to a cop who actually radioed in the ID and asked about it. The counterfeiters claimed that they used good identities for the fakes, real people who weren't in any kind of trouble, but who knew whether to believe them?
 
-She loved her fighters. And they loved her.
+Anyway, it was just crazy. The gweilo was supposed to wait until the ship came into dock, change into a set of clean clothes, pin on ID from his father's company, and just *walk out* of the port, flashing his identification at anyone who bothered to ask the skinny white kid what he was doing, carrying two heavy cardboard boxes out of the secure region. Once he made it clear of the port, Ping could take him away, make him disappear into the mix of foreigners, merchants, and business-people thronging the region.
 
-"Hello, pretties," she cooed into her earwig, adjusting the icepack she'd wedged between her tailbone and the chair. They were operating out of a new cafe now, still in the Geylang, which was the best place to be in Singapore if you wanted to be a little out of bounds without attracting too much police attention. "Ready for the latest word?"
+Ping had asked around, found a Webbly who's brother had worked as a hauler the year before, gotten information about where Leonard would most likely emerge, and had emailed all that info to Leonard as he trundled across the ocean.
 
-There was a chorus of cheers from all around the world. Justbob spoke Malay, Indonesian, English, Tamil, and a little Mandarin and Hindi, but they tended to do things in English, which everyone spoke a little of. There was a back-channel, of course, a text-chat where people helped out with translations. They had to speak slow, but it worked.
+But there weren't supposed to be *this many* cops, were there? There were hundreds of them, it seemed like, and not just uniforms. There were plenty of especially tall men with brush-cuts and earpieces, dressed like civilians, but moving with far too much coordination and purpose. Ping walked past the entrance twice, the first time conducting an imaginary argument with someone over his phone, trying to exude an aura of distraction that would make him seem harmless. The second time he walked past while staring intently at a tourist map, trying to maintain the show of helplessness. In between, he checked his new watch, saw that Leonard was an hour late, sent a message back to Lu and asked him to see if he could email Big Sister Nor and find out what was going on. This was the trickiest moment, since the ship's satellite link was down while it was in dock, and so Leonard's stolen network connection was down with it. Once he was clear of the port, they'd give him a prepaid phone, get him back on the grid, but until then...
 
-"We are going to take on four worlds, all at the same time: Mushroom Kingdom, Zombie Mecha, Svartalfaheim Warriors, and Magic of Hogwarts." She watched the backchannel, waited until the translations were all sorted out. "What do I mean by 'take on?' I mean *take over*. We're going to seize control of the economies of all four worlds: the majority of the gold, prestige items, and power. We're going to do it fast. We're going to be unstoppable: whenever an operation is disrupted, we will have three more standing by. We're going to control the destiny of every boss whose workers toil in those worlds. We're going to rock their corporate masters. We're going to fight off every Pinkerton, either converting them to our cause or beating them so badly that they change careers.
+He nearly dropped the tourist map when his phone went off. A nearby cop, the tallest man he'd ever seen, looked hard at him and he smiled sheepishly and withdrew his phone and tried to control the shaking in his hands as he touched it to life, hoping the noise hadn't aggroed him.
 
-"To do this, we're going to need many thousands of players working in coordination. Mostly that means doing what they do best: making gold. But we also expect heavy resistance once word gets out about what we're up to. We'll need fighters to defend our lines from Pinkertons, of course, but we also need a lot of distraction and interference, all over, including -- no, *especially* -- in worlds where we're *not* going for it. We want game management thoroughly confused until its too late. You will need proxies, *lots of them*, and as many avs as you can level up. That's your number one task right now -- level as many avs as you can, so that you can switch accounts and jump into a new fighter the second an old one gets disconnected." She watched the backchatter for a second, then added, "Yes, of course, we're working on that now. In a day or so, we'll have prepaid account cards for all of you. They'll need US proxies to run, so make sure you've got a good list of them."
+"Is he with you?" Big Sister Nor's Mandarin was heavily accented, but good. He recognized the voice instantly from many late-night chat sessions and raids.
 
-She watched the chatter for another moment. "Of course, yes, they will try to shut down the proxies, but if they do, there will be *howls* from their American players. Do you know how many Americans sneak out of their work networks to play during the day using those proxies? If they start blocking proxies, they'll be blocking some of their best customers. And of course, many Mechanical Turks are on school networks, using proxies to log in to their jobs. They can't afford to block all those proxies -- not for long!"
+"Hi!" he said, in a bright, brittle voice, trying to sound like he was talking to a girlfriend or sister. "It's great to hear from you!"
 
-The back-channel erupted. They liked that. It was good strategy, like when you aggroed a boss and then found a shelter that put some low-level baddies between you and it, and provoked a fight where they all fought each other instead of you. Justbob wished she could say more about this, because the deviousness of it all had given her an all-day, all-week, all-month smile when they'd worked it out in one of the high-level cell meetings. But she understood the need for secrecy. It was a sure bet that some of the fighters on this conference were working for the other side; after all, some of *their* spies were inside the companies, weren't they?
+"You haven't seen him yet?"
 
-"All right," she said, "all right. Enough talk-talk. Let's kill something." Her headphone erupted in ragged cheering  and she skirmished with her commanders for a happy hour until The Mighty Krang came and dragged her away so that she could eat dinner.
+"That's right!" he said, pasting a fake grin on his face for the benefit of the security man.
 
-Big Sister Nor waited until she was seated, with food on her plate -- sizzling cha kway teow and fried Hokkien noodles, smelling like heaven-- before she started speaking. "All right," she said. "Our man's landing in Shenzhen tomorrow. We've got people who'll help get him out of the port safely, and he says he's got our cargo, no problems there. He's been logging in on the voyage, he says he can get us hundreds of Turks."
+"Shit. He was due out hours ago." Big Sister Nor went quiet. "OK, here's the thing. Whatever happened to him, we need those boxes." She cursed in some other language. "I should have just had him put the boxes in the container. He wanted to come see you all so badly, though --" She broke off.
 
-The Mighty Krang waved his chopsticks at her. "Do you believe him?"
+"OK!" he said, walking as casually as he could away from the cop. There was a spot, a doorway in front of a closed grocery store down the road. He could go there, sit down, talk this through.
 
-Big Sister Nor chewed and swallowed thoughtfully. "I think I do," she said. "He's all enthusiasm, that one. He's one of those kids who absolutely *loves* gaming and wanted to be part of the 'magic,' but discovered that he was working every hour God sent, and there were always hidden rules that ended up docking his pay." The other two nodded vigorously -- they recognized the pattern, it was the template for sweatshops all over the world. "His employers told him to be grateful to have such a wonderful opportunity and didn't he know that there were plenty more who'd have his job if he didn't want it?"
+"A lot of cops where you are, huh? Don't answer. Listen, Ping, I need to know -- can you get into the port? If he doesn't make it out?"
 
-"OK, so he's upset -- what makes you think he can deliver lots of other upset people?"
+He swallowed. "I don't think so," he whispered. He was almost to his doorway now.
 
-She shrugged and speared a prawn. "He's a natural networker, a real do-er. You should hear him talk about that shipping container of his! It's a real hotel on the high seas. Very ingenious. And his guildies say he's bloody sociable. A nice guy. The kind of guy you listen to."
+"What if you have to?"
 
-"The kind of guy you follow?" asked Justbob, scratching at her scarred eye-socket. She could forget about the itch and the ache from the side of her face when she was in conference with her warriors, but she lost that precious distraction the rest of the time. And her dreams were full of phantom aches from the ruined socket, and she sometimes woke with tears on her face.
+He was a raid leader, a master strategist. He was no Matthew, but still, he understood how to get in and out of tight places. And he'd been a pretty good climber a few years ago, before he'd found gold-farming. Maybe he could go over the fence? He felt like throwing up at the thought. There were so many cameras, so many cops, the fence was *so high*.
 
-Big Sister Nor said, "That's what I think."
+"I'd try," he said. "But I would almost certainly go to jail." He'd been held for three days in the local lockup along with most of the strikers and then released. It had been bad enough -- not as bad as Matthew's stories -- and he never wanted to go back. "You have to see this place, Nor, it's like a fortress."
 
-The Mighty Krang drank some watermelon juice and drew glyphs in the table with the condensation. The waitress -- a pretty Tamil girl -- scowled at him with mock theatricality and wiped it away. All the waitresses had crushes on The Mighty Krang. Even Justbob had to admit that he was pretty. "I don't like the idea," he said. "This is about, you know, *workers*."
+She sighed. "I know what ports look like," she said. "OK, tell you what -- you wait another hour, see if you can find him. I'll work on something else here, and call you."
 
-Big Sister Nor fixed him with a level stare. "You mean 'he's white, I don't trust him.' He's a worker, too -- even though he works for the game. We're *all* workers. That's the point of the Webblies. All workers in one big union -- solidarity. Start making differences between workers who deserve the union and workers who don't and the next thing you know, your job will be handed over to the workers you left out of your little private clubhouse. Krang, if you're not clear on this, you're in the wrong place. Absolutely the wrong place. Do I make myself clear?"
+"OK," he said.
 
-This was a different Big Sister Nor than the one they usually knew, the motherly, patient, understanding one. Her voice was brittle and stern, her stare piercing. Krang visibly wilted under its glare. "Fine," he said, without much conviction. "Sorry." Justbob felt embarrassed for him, but not sympathetic. He knew better.
+Casually, he drifted back along the length of the high fence that guarded the port, keenly aware of the cameras drilling into the back of his neck. How many times could he pass by before someone decided to figure out what he was doing there? They should have brought a whole party, half a dozen of the gang who could trade off looking for the stupid gweilo. Ping shook his head in disgust. It had been fun to know Leonard when he was a kid in California and they were five kids in China -- exotic, even. No one else partied with exotic foreigners with bad accents.
 
-They finished the meal in silence. Big Sister Nor's phone buzzed at her. She looked at the face, saw the number, put it back down again. There was a rule: no taking calls during "family dinners" between the three of them. But BSN was visibly anxious to get to this one. She began to eat faster, as fast as she could with her twisted hand.
+It was even exciting when the gweilo had turned into a smuggler for the cause, crossing the ocean with his booty of hard-earned prepaid game-cards that would let them all fly under the game companies' radar.
 
-"Who was it?" Justbob asked.
-
-"China," she said. "Urgent. Our boy from America."
+But it was no longer exciting now that he was about to go to jail because some dumb kid from across the ocean couldn't figure out how to get his ass out of the port of Shenzhen.
