@@ -1,6 +1,6 @@
 # Part II: Hard work at play
 
-## Chapter 17
+## Chapter 16
 
 ---
 
