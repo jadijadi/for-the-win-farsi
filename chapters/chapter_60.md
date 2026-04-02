@@ -1,6 +1,6 @@
 # Part III: Ponzi
 
-## Chapter 62
+## Chapter 60
 
 ---
 

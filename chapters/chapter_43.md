@@ -1,6 +1,6 @@
 # Part III: Ponzi
 
-## Chapter 45
+## Chapter 43
 
 ---
 

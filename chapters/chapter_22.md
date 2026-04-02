@@ -1,6 +1,6 @@
 # Part III: Ponzi
 
-## Chapter 24
+## Chapter 22
 
 ---
 

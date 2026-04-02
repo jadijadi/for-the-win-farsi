@@ -1,6 +1,6 @@
 # Part III: Ponzi
 
-## Chapter 31
+## Chapter 29
 
 ---
 
